@@ -1,0 +1,46 @@
+{'head': 'Link', 'type': 'residence', 'tail': 'Hyrule Kingdom'}
+{'head': 'Link', 'type': 'country of citizenship', 'tail': 'Hyrule Kingdom'}
+{'head': 'Link', 'type': 'present in work', 'tail': 'Hyrule Kingdom'}
+{'head': 'Shrine of Resurrection', 'type': 'located in the administrative territorial entity', 'tail': 'Hyrule'}
+{'head': 'Link', 'type': 'residence', 'tail': 'Hyrule'}
+{'head': 'Shrine of Resurrection', 'type': 'location', 'tail': 'Hyrule'}
+{'head': 'Hyrule', 'type': 'characters', 'tail': 'Link'}
+{'head': 'Paraglider', 'type': 'owned by', 'tail': 'Link'}
+{'head': 'Oman Au Shrine', 'type': 'instance of', 'tail': 'Shrines'}
+{'head': 'Ja Baij Shrine', 'type': 'instance of', 'tail': 'Shrines'}
+{'head': 'Owa Daim Shrine', 'type': 'instance of', 'tail': 'Shrines'}
+{'head': 'Keh Namut Shrine', 'type': 'instance of', 'tail': 'Shrines'}
+{'head': 'Temple of Time', 'type': 'characters', 'tail': 'Link'}
+{'head': 'Old Man', 'type': 'residence', 'tail': 'Temple of Time'}
+{'head': 'King Rhoam', 'type': 'position held', 'tail': 'King of Hyrule'}
+{'head': 'Hyrule', 'type': 'head of state', 'tail': 'King Rhoam'}
+{'head': 'Rhoam', 'type': 'position held', 'tail': 'King of Hyrule'}
+{'head': 'Ganon', 'type': 'instance of', 'tail': 'Calamity'}
+{'head': 'Link', 'type': 'father', 'tail': 'King Rhoam'}
+{'head': 'Link', 'type': 'relative', 'tail': 'King Rhoam'}
+{'head': 'Hyrule Castle', 'type': 'significant event', 'tail': 'ruined by nature'}
+{'head': 'Hyrule Castle', 'type': 'located in the administrative territorial entity', 'tail': 'the land were ravaged by nature'}
+{'head': 'ruined by nature', 'type': 'location', 'tail': 'Hyrule Castle'}
+{'head': 'Calamity Ganon', 'type': 'characters', 'tail': 'Link'}
+{'head': 'Link', 'type': 'present in work', 'tail': 'Calamity Ganon'}
+{'head': 'King Rhoam', 'type': 'child', 'tail': 'Zelda'}
+{'head': 'Zelda', 'type': 'father', 'tail': 'King Rhoam'}
+{'head': 'Rhoam', 'type': 'child', 'tail': 'Zelda'}
+{'head': 'Sheikah', 'type': 'head of state', 'tail': 'Impa'}
+{'head': 'Sheikah', 'type': 'has part', 'tail': 'Impa'}
+{'head': 'Impa', 'type': 'part of', 'tail': 'Sheikah'}
+{'head': 'Calamity Ganon', 'type': 'residence', 'tail': 'Hyrule Kingdom'}
+{'head': 'Calamity Ganon', 'type': 'present in work', 'tail': 'Hyrule Kingdom'}
+{'head': 'Calamity Ganon', 'type': 'country of citizenship', 'tail': 'Hyrule Kingdom'}
+{'head': 'Mipha', 'type': 'ethnic group', 'tail': 'Zora'}
+{'head': 'Daruk', 'type': 'ethnic group', 'tail': 'Goron'}
+{'head': 'Mipha', 'type': 'instance of', 'tail': 'Zora'}
+{'head': 'Link', 'type': 'present in work', 'tail': 'Zelda'}
+{'head': 'Link', 'type': 'award received', 'tail': 'Hylian Champion'}
+{'head': 'Link', 'type': 'instance of', 'tail': 'Hylian Champion'}
+{'head': 'Hyruleans', 'type': 'country', 'tail': 'Kingdom of Hyrule Kingdom'}
+{'head': 'Hyrule Kingdom', 'type': 'country', 'tail': 'Kingdom of Hyrule'}
+{'head': 'Hyrule Kingdom', 'type': 'different from', 'tail': 'Kingdom of Hyrule'}
+{'head': 'Link', 'type': 'residence', 'tail': 'Hyrule Castle'}
+{'head': 'Link', 'type': 'place of burial', 'tail': 'Shrine of Resurrection'}
+{'head': 'Shrine of Resurrection', 'type': 'location', 'tail': 'Hyrule Castle'}

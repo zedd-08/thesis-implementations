@@ -1,0 +1,458 @@
+{'subject': 'Mordor', 'relation': 'in three is', 'object': 'nine for men'}
+{'subject': 'Mordor', 'relation': 'in three is', 'object': 'seven for dwarves'}
+{'subject': 'elves', 'relation': 'for three is', 'object': 'nine'}
+{'subject': 'Sauron', 'relation': 'poured', 'object': 'his evil'}
+{'subject': 'Sauron', 'relation': 'poured', 'object': 'evil'}
+{'subject': 'his', 'relation': 'will dominate into', 'object': 'ring'}
+{'subject': 'alliance', 'relation': 'resisted', 'object': 'Sauron ’s ring'}
+{'subject': 'alliance', 'relation': 'fought against', 'object': 'Mordor'}
+{'subject': 'Sauron', 'relation': '’s', 'object': 'ring'}
+{'subject': 'Isildur', 'relation': 'son of', 'object': 'king'}
+{'subject': 'They', 'relation': 'won', 'object': 'battle'}
+{'subject': 'ring', 'relation': 'fell to', 'object': 'bottom of sea'}
+{'subject': 'he', 'relation': 'was', 'object': 'killed'}
+{'subject': 'ring', 'relation': 'fell to', 'object': 'bottom'}
+{'subject': 'he', 'relation': 'was', 'object': 'Later killed'}
+{'subject': 'creature Gollum', 'relation': 'brought to', 'object': 'his cave'}
+{'subject': 'creature Gollum', 'relation': 'brought', 'object': 'it'}
+{'subject': 'creature Gollum', 'relation': 'discovered', 'object': 'it'}
+{'subject': 'he', 'relation': 'lost', 'object': 'it'}
+{'subject': 'he', 'relation': 'lost to', 'object': 'hobbit Bilbo Baggins'}
+{'subject': 'wizard Gandalf', 'relation': 'celebrate', 'object': 'Bilbo ’s birthday'}
+{'subject': 'wizard Gandalf', 'relation': 'has come', 'object': 'to celebrate'}
+{'subject': 'movie', 'relation': 'cuts to', 'object': 'image'}
+{'subject': 'movie', 'relation': 'cuts to', 'object': 'image of hobbits peaceful Shire years later'}
+{'subject': 'Bilbo', 'relation': '’s', 'object': '111th birthday'}
+{'subject': 'movie', 'relation': 'cuts to', 'object': 'image of hobbits peaceful Shire years'}
+{'subject': 'movie', 'relation': 'cuts to', 'object': 'image of hobbits Shire years'}
+{'subject': 'wizard Gandalf', 'relation': 'celebrate', 'object': 'Bilbo ’s 111th birthday'}
+{'subject': 'wizard Gandalf', 'relation': 'has come', 'object': 'celebrate'}
+{'subject': 'movie', 'relation': 'cuts to', 'object': 'image of hobbits Shire years later'}
+{'subject': 'Bilbo', 'relation': 'entertains', 'object': 'children'}
+{'subject': 'Bilbo', 'relation': 'entertains children with', 'object': 'tales'}
+{'subject': 'party', 'relation': 'is', 'object': 'extravagant occasion'}
+{'subject': 'party', 'relation': 'is occasion with', 'object': 'fireworks'}
+{'subject': 'extravagant occasion', 'relation': 'is with', 'object': 'fireworks'}
+{'subject': 'party', 'relation': 'is extravagant occasion with', 'object': 'fireworks'}
+{'subject': 'party', 'relation': 'is', 'object': 'occasion'}
+{'subject': 'Bilbo', 'relation': 'entertains with', 'object': 'tales'}
+{'subject': 'party', 'relation': 'is extravagant', 'object': 'fireworks'}
+{'subject': 'Bilbo', 'relation': 'entertains children with', 'object': 'tales of his adventures'}
+{'subject': 'Bilbo', 'relation': 'entertains with', 'object': 'tales of his adventures'}
+{'subject': 'he', 'relation': 'runs to', 'object': 'his house'}
+{'subject': 'he', 'relation': 'leave', 'object': 'Shire'}
+{'subject': 'he', 'relation': 'however puts In', 'object': 'middle'}
+{'subject': 'he', 'relation': 'however puts on', 'object': 'ring'}
+{'subject': 'he', 'relation': 'however puts In', 'object': 'middle of speech'}
+{'subject': 'he', 'relation': 'puts on', 'object': 'ring'}
+{'subject': 'he', 'relation': 'puts In', 'object': 'middle'}
+{'subject': 'he', 'relation': 'however puts In', 'object': 'middle of rambling speech'}
+{'subject': 'he', 'relation': 'puts In', 'object': 'middle of rambling speech'}
+{'subject': 'he', 'relation': 'runs to', 'object': 'pack'}
+{'subject': 'he', 'relation': 'puts In', 'object': 'middle of speech'}
+{'subject': 'Gandalf', 'relation': 'meets back', 'object': 'Bilbo'}
+{'subject': 'Gandalf', 'relation': 'tells', 'object': 'him'}
+{'subject': 'Gandalf', 'relation': 'meets', 'object': 'Bilbo'}
+{'subject': 'he', 'relation': 'give up', 'object': 'ring'}
+{'subject': 'Bilbo', 'relation': 'agrees', 'object': 'entrust to his nephew'}
+{'subject': 'Bilbo', 'relation': 'entrust to', 'object': 'Frodo'}
+{'subject': 'Bilbo', 'relation': 'entrust to', 'object': 'his nephew'}
+{'subject': 'Bilbo', 'relation': 'Eventually agrees', 'object': 'entrust'}
+{'subject': 'Bilbo', 'relation': 'Eventually agrees', 'object': 'entrust to his nephew'}
+{'subject': 'his', 'relation': 'nephew', 'object': 'Frodo'}
+{'subject': 'Bilbo', 'relation': 'entrust', 'object': 'it'}
+{'subject': 'Bilbo', 'relation': 'agrees', 'object': 'entrust'}
+{'subject': 'ring', 'relation': 'power over', 'object': 'Bilbo'}
+{'subject': 'ring', 'relation': 'gaining', 'object': 'power'}
+{'subject': 'ring', 'relation': 'gaining', 'object': 'power over Bilbo'}
+{'subject': 'horsemen', 'relation': 'leave', 'object': 'its gates'}
+{'subject': 'We', 'relation': 'see', 'object': 'flash of Mordor'}
+{'subject': 'We', 'relation': 'see', 'object': 'flash'}
+{'subject': 'hooded horsemen', 'relation': 'leave', 'object': 'its gates'}
+{'subject': 'scene', 'relation': 'shifts to', 'object': 'Gandalf'}
+{'subject': 'Gandalf', 'relation': 'throws into', 'object': 'Bilbo ’s hearth'}
+{'subject': 'Gandalf', 'relation': 'throws ring into', 'object': 'Bilbo ’s hearth'}
+{'subject': 'Bilbo', 'relation': 'on', 'object': 'house'}
+{'subject': 'ringwraiths', 'relation': 'close in on', 'object': 'Bilbo ’s house'}
+{'subject': 'Gandalf', 'relation': 'returns', 'object': 'ringwraiths begin'}
+{'subject': 'Gandalf', 'relation': 'returns', 'object': 'As ringwraiths begin'}
+{'subject': 'Bilbo', 'relation': 'into', 'object': 'hearth'}
+{'subject': 'Gandalf', 'relation': 'returns to', 'object': 'Frodo'}
+{'subject': 'Gandalf', 'relation': 'throws', 'object': 'ring'}
+{'subject': 'letters', 'relation': 'appear on', 'object': 'ring ’s surface'}
+{'subject': 'ring', 'relation': 'on', 'object': 'surface'}
+{'subject': 'Mysterious letters', 'relation': 'appear on', 'object': 'ring ’s surface'}
+{'subject': 'ring', 'relation': 'is', 'object': 'actually Sauron ’s ring'}
+{'subject': 'ring', 'relation': 'is', 'object': 'Sauron ’s ring'}
+{'subject': 'Gandalf', 'relation': 'explains to', 'object': 'Frodo'}
+{'subject': 'He', 'relation': 'longs', 'object': 'find'}
+{'subject': 'it', 'relation': 'longs', 'object': 'to find'}
+{'subject': 'it', 'relation': 'longs', 'object': 'find'}
+{'subject': 'He', 'relation': 'find', 'object': 'it'}
+{'subject': 'it', 'relation': 'find', 'object': 'him'}
+{'subject': 'He', 'relation': 'longs', 'object': 'to find'}
+{'subject': 'Sauron', 'relation': 'kidnapped', 'object': 'Gollum'}
+{'subject': 'Bilbo', 'relation': 'has', 'object': 'ring'}
+{'subject': 'it', 'relation': 'will endanger', 'object': 'hobbits'}
+{'subject': 'ring', 'relation': 'must leave', 'object': 'Shire'}
+{'subject': 'Frodo', 'relation': 'take', 'object': 'it'}
+{'subject': 'it', 'relation': 'draw', 'object': 'Sauron ’s agents'}
+{'subject': 'it', 'relation': 'draw', 'object': 'if Frodo puts'}
+{'subject': 'Sauron', 'relation': '’s', 'object': 'agents'}
+{'subject': 'it', 'relation': 'draw', 'object': 'Frodo puts'}
+{'subject': 'Frodo', 'relation': 'puts on', 'object': 'ring'}
+{'subject': 'it', 'relation': 'draw', 'object': 'if Frodo puts on ring'}
+{'subject': 'it', 'relation': 'draw', 'object': 'Frodo puts on ring'}
+{'subject': 'it', 'relation': 'draw to', 'object': 'it'}
+{'subject': 'Frodo', 'relation': '’s friend is', 'object': 'Sam'}
+{'subject': 'Frodo ’s friend', 'relation': 'listening to', 'object': 'Gandalf'}
+{'subject': 'Frodo', 'relation': '’s', 'object': 'friend'}
+{'subject': 'Sam', 'relation': 'at', 'object': 'eavesdropping'}
+{'subject': 'they', 'relation': 'have ventured further in', 'object': 'very little time'}
+{'subject': 'they', 'relation': 'have ventured in', 'object': 'little time'}
+{'subject': 'they', 'relation': 'have ventured in', 'object': 'time'}
+{'subject': 'Bilbo', 'relation': '’s', 'object': 'house'}
+{'subject': 'they', 'relation': 'have ventured than', 'object': 'ever before'}
+{'subject': 'they', 'relation': 'have ventured further from', 'object': 'Shire'}
+{'subject': 'they', 'relation': 'have ventured from', 'object': 'Shire'}
+{'subject': 'Sam', 'relation': 'leave', 'object': 'Bilbo ’s house'}
+{'subject': 'they', 'relation': 'have ventured further than', 'object': 'ever before'}
+{'subject': 'they', 'relation': 'have ventured further than', 'object': 'before'}
+{'subject': 'Frodo', 'relation': 'leave', 'object': 'Bilbo ’s house'}
+{'subject': 'they', 'relation': 'have ventured in', 'object': 'very little time'}
+{'subject': 'they', 'relation': 'have ventured further in', 'object': 'little time'}
+{'subject': 'they', 'relation': 'have ventured than', 'object': 'before'}
+{'subject': 'they', 'relation': 'have ventured further in', 'object': 'time'}
+{'subject': 'Pippin', 'relation': 'join', 'object': 'their party'}
+{'subject': 'Pippin', 'relation': 'encounter', 'object': 'Sam'}
+{'subject': 'Frodo', 'relation': 'put on', 'object': 'ring'}
+{'subject': 'urge', 'relation': 'is', 'object': 'Frodo ’s insight into power'}
+{'subject': 'urge', 'relation': 'is', 'object': 'Frodo ’s insight into power of ring'}
+{'subject': 'urge', 'relation': 'is', 'object': 'Frodo ’s first insight'}
+{'subject': 'urge', 'relation': 'is', 'object': 'Frodo ’s first insight into power'}
+{'subject': 'urge', 'relation': 'is', 'object': 'Frodo ’s insight'}
+{'subject': 'urge', 'relation': 'is', 'object': 'Frodo ’s first insight into power of ring'}
+{'subject': 'Frodo', 'relation': '’s', 'object': 'first insight into power of ring'}
+{'subject': 'hobbits', 'relation': 'arrive at', 'object': 'town'}
+{'subject': 'they', 'relation': 'are supposed', 'object': 'meet'}
+{'subject': 'they', 'relation': 'are', 'object': 'supposed'}
+{'subject': 'hobbits', 'relation': 'enter', 'object': 'inn'}
+{'subject': 'hobbits', 'relation': 'enter', 'object': 'inn known as Pony'}
+{'subject': 'they', 'relation': 'are', 'object': 'where supposed'}
+{'subject': 'hobbits', 'relation': 'enter', 'object': 'inn known as Prancing Pony'}
+{'subject': 'hobbits', 'relation': 'enter', 'object': 'inn known'}
+{'subject': 'hobbits', 'relation': 'arrive at', 'object': 'town of Bree'}
+{'subject': 'they', 'relation': 'are supposed', 'object': 'to meet'}
+{'subject': 'they', 'relation': 'meet', 'object': 'Gandalf'}
+{'subject': 'ring', 'relation': 'accidentally slips onto', 'object': 'Frodo ’s finger'}
+{'subject': 'ring', 'relation': 'slips onto', 'object': 'Frodo ’s finger'}
+{'subject': 'Frodo', 'relation': 'onto', 'object': 'finger'}
+{'subject': 'ranger Strider', 'relation': 'urges', 'object': 'to more careful'}
+{'subject': 'ranger Strider', 'relation': 'urges', 'object': 'careful'}
+{'subject': 'ranger named Strider', 'relation': 'urges', 'object': 'to careful'}
+{'subject': 'ranger named Strider', 'relation': 'introduces', 'object': 'himself'}
+{'subject': 'ranger Strider', 'relation': 'introduces', 'object': 'himself'}
+{'subject': 'ranger named Strider', 'relation': 'urges', 'object': 'more careful'}
+{'subject': 'ranger named Strider', 'relation': 'introduces to', 'object': 'group of hobbits'}
+{'subject': 'ranger Strider', 'relation': 'urges', 'object': 'to careful'}
+{'subject': 'ranger Strider', 'relation': 'urges', 'object': 'them'}
+{'subject': 'ranger Strider', 'relation': 'introduces to', 'object': 'group of hobbits'}
+{'subject': 'ranger named Strider', 'relation': 'urges', 'object': 'them'}
+{'subject': 'ranger named Strider', 'relation': 'urges', 'object': 'careful'}
+{'subject': 'ranger Strider', 'relation': 'introduces to', 'object': 'group'}
+{'subject': 'ranger Strider', 'relation': 'urges', 'object': 'more careful'}
+{'subject': 'ranger named Strider', 'relation': 'urges', 'object': 'to more careful'}
+{'subject': 'ranger named Strider', 'relation': 'introduces to', 'object': 'group'}
+{'subject': 'wraiths', 'relation': 'were', 'object': 'formerly nine kings'}
+{'subject': 'wraiths', 'relation': 'were', 'object': 'nine kings'}
+{'subject': 'wraiths', 'relation': 'were', 'object': 'nine human kings'}
+{'subject': 'Strider', 'relation': 'explains to', 'object': 'them'}
+{'subject': 'wraiths', 'relation': 'were', 'object': 'formerly nine human kings'}
+{'subject': 'they', 'relation': 'can come', 'object': 'because only way'}
+{'subject': 'they', 'relation': 'can come back', 'object': 'because only way'}
+{'subject': 'they', 'relation': 'can come back', 'object': 'only way'}
+{'subject': 'they', 'relation': 'can come back', 'object': 'way'}
+{'subject': 'they', 'relation': 'can come', 'object': 'way'}
+{'subject': 'they', 'relation': 'can come back', 'object': 'way'}
+{'subject': 'finding', 'relation': 'is', 'object': 'only way'}
+{'subject': 'they', 'relation': 'can come back', 'object': 'because only way'}
+{'subject': 'finding', 'relation': 'is', 'object': 'because way'}
+{'subject': 'they', 'relation': 'can come', 'object': 'only way'}
+{'subject': 'they', 'relation': 'can come', 'object': 'only way'}
+{'subject': 'they', 'relation': 'can come', 'object': 'because only way'}
+{'subject': 'they', 'relation': 'can come back', 'object': 'only way'}
+{'subject': 'they', 'relation': 'can come', 'object': 'because way'}
+{'subject': 'they', 'relation': 'can come back', 'object': 'because way'}
+{'subject': 'They', 'relation': 'are hunting', 'object': 'ring'}
+{'subject': 'they', 'relation': 'can come back', 'object': 'because way'}
+{'subject': 'they', 'relation': 'can come', 'object': 'because way'}
+{'subject': 'they', 'relation': 'can come', 'object': 'way'}
+{'subject': 'finding', 'relation': 'is', 'object': 'way'}
+{'subject': 'finding', 'relation': 'is', 'object': 'because only way'}
+{'subject': 'Gandalf', 'relation': 'has approached for', 'object': 'counsel'}
+{'subject': 'Gandalf', 'relation': 'Meanwhile has approached', 'object': 'Saruman'}
+{'subject': 'Gandalf', 'relation': 'has approached', 'object': 'Saruman'}
+{'subject': 'Gandalf', 'relation': 'Meanwhile has approached for', 'object': 'counsel'}
+{'subject': 'Saruman', 'relation': 'already knows about', 'object': 'ring'}
+{'subject': 'Sauron', 'relation': '’s', 'object': 'attempts to regain'}
+{'subject': 'Saruman', 'relation': 'knows about', 'object': 'ring'}
+{'subject': 'two wizards', 'relation': 'must join with', 'object': 'Sauron'}
+{'subject': 'wizards', 'relation': 'must join with', 'object': 'Sauron'}
+{'subject': 'Saruman', 'relation': 'atop', 'object': 'giant tower in Isengard'}
+{'subject': 'Saruman', 'relation': 'wins Orthanc atop', 'object': 'Saruman ’s giant tower'}
+{'subject': 'Saruman ’s giant tower', 'relation': 'is in', 'object': 'Isengard'}
+{'subject': 'Saruman', 'relation': 'wins Orthanc atop', 'object': 'Saruman ’s giant tower in Isengard'}
+{'subject': 'Saruman', 'relation': 'wins Gandalf atop', 'object': 'Saruman ’s giant tower'}
+{'subject': 'Saruman', 'relation': 'wins Gandalf atop', 'object': 'Saruman ’s giant tower in Isengard'}
+{'subject': 'Saruman', 'relation': 'is constructing army with', 'object': 'intention of waging war'}
+{'subject': 'Saruman', 'relation': 'is constructing with', 'object': 'intention of waging war on Middle earth'}
+{'subject': 'Saruman', 'relation': 'is constructing army At', 'object': 'his tower'}
+{'subject': 'Saruman', 'relation': 'is constructing At', 'object': 'his tower'}
+{'subject': 'Saruman', 'relation': 'is constructing army with', 'object': 'intention of war'}
+{'subject': 'Saruman', 'relation': 'is constructing with', 'object': 'intention of waging war'}
+{'subject': 'Saruman', 'relation': 'is constructing with', 'object': 'intention'}
+{'subject': 'Saruman', 'relation': 'is constructing army with', 'object': 'intention of war on Middle earth'}
+{'subject': 'Saruman', 'relation': 'is constructing with', 'object': 'intention of war'}
+{'subject': 'Saruman', 'relation': 'is constructing army with', 'object': 'intention of waging war on Middle earth'}
+{'subject': 'Saruman', 'relation': 'is constructing', 'object': 'terrifying army'}
+{'subject': 'Saruman', 'relation': 'is constructing with', 'object': 'intention of war on Middle earth'}
+{'subject': 'Saruman', 'relation': 'is constructing', 'object': 'army'}
+{'subject': 'Saruman', 'relation': 'is constructing army with', 'object': 'intention'}
+{'subject': 'giant eagle', 'relation': 'saves', 'object': 'him'}
+{'subject': 'butterfly', 'relation': 'takes', 'object': 'message'}
+{'subject': 'butterfly', 'relation': 'rouses', 'object': 'Gandalf'}
+{'subject': 'eagle', 'relation': 'saves', 'object': 'him'}
+{'subject': 'butterfly', 'relation': 'takes message from', 'object': 'him'}
+{'subject': 'Rivendell', 'relation': 'home of', 'object': 'elves'}
+{'subject': 'Strider', 'relation': 'head for', 'object': 'home'}
+{'subject': 'Strider', 'relation': 'head for', 'object': 'Rivendell'}
+{'subject': 'hobbits', 'relation': 'head for', 'object': 'home'}
+{'subject': 'hobbits', 'relation': 'head for', 'object': 'Rivendell'}
+{'subject': 'Strider', 'relation': 'head for', 'object': 'home of elves'}
+{'subject': 'hobbits', 'relation': 'head for', 'object': 'home of elves'}
+{'subject': 'they', 'relation': 'make for', 'object': 'night'}
+{'subject': 'they', 'relation': 'make', 'object': 'camp'}
+{'subject': 'Strider', 'relation': 'hands', 'object': 'hobbits weapons'}
+{'subject': 'They', 'relation': 'stop at', 'object': 'hill'}
+{'subject': 'they', 'relation': 'make camp for', 'object': 'night'}
+{'subject': 'hobbits', 'relation': 'foolishly light at', 'object': 'their campsite'}
+{'subject': 'hobbits', 'relation': 'light at', 'object': 'their campsite'}
+{'subject': 'hobbits', 'relation': 'light fire at', 'object': 'their campsite'}
+{'subject': 'ringwraiths', 'relation': 'spot', 'object': 'them'}
+{'subject': 'hobbits', 'relation': 'foolishly light', 'object': 'fire'}
+{'subject': 'hobbits', 'relation': 'light', 'object': 'fire'}
+{'subject': 'hobbits', 'relation': 'foolishly light fire at', 'object': 'their campsite'}
+{'subject': 'Arwen', 'relation': 'hurries with', 'object': 'Frodo barely evading'}
+{'subject': 'Arwen', 'relation': 'hurries with', 'object': 'Frodo'}
+{'subject': 'Arwen', 'relation': 'hurries with', 'object': 'Frodo evading'}
+{'subject': 'Arwen', 'relation': 'finds', 'object': 'party'}
+{'subject': 'Arwen', 'relation': 'hurries to', 'object': 'Rivendell'}
+{'subject': 'Frodo', 'relation': 'wakes up', 'object': 'discover by his side'}
+{'subject': 'Frodo', 'relation': 'wakes up', 'object': 'to discover'}
+{'subject': 'Frodo', 'relation': 'wakes up', 'object': 'to discover by his side'}
+{'subject': 'Frodo', 'relation': 'wakes up', 'object': 'discover'}
+{'subject': 'Frodo', 'relation': 'is', 'object': 'cured'}
+{'subject': 'Hobbit', 'relation': '’s', 'object': 'Tale'}
+{'subject': 'men', 'relation': 'are', 'object': 'weak'}
+{'subject': 'Isildur', 'relation': 'because', 'object': 'weakness'}
+{'subject': 'ring', 'relation': 'survives because', 'object': 'Isildur ’s weakness'}
+{'subject': 'line', 'relation': 'Moreover is broken', 'object': 'heir of Gondor can reunite'}
+{'subject': 'line', 'relation': 'is broken', 'object': 'though heir can reunite'}
+{'subject': 'line', 'relation': 'is broken', 'object': 'heir of Gondor can reunite'}
+{'subject': 'line', 'relation': 'is', 'object': 'Moreover broken'}
+{'subject': 'line', 'relation': 'is broken', 'object': 'though heir of Gondor can reunite'}
+{'subject': 'line', 'relation': 'Moreover is broken', 'object': 'heir can reunite'}
+{'subject': 'line', 'relation': 'Moreover is broken', 'object': 'though heir can reunite'}
+{'subject': 'line', 'relation': 'Moreover is broken', 'object': 'though heir of Gondor can reunite'}
+{'subject': 'line', 'relation': 'is', 'object': 'broken'}
+{'subject': 'line', 'relation': 'is broken', 'object': 'heir can reunite'}
+{'subject': 'heir', 'relation': 'can reunite', 'object': 'them'}
+{'subject': 'we learn', 'relation': 'is', 'object': 'Aragorn'}
+{'subject': 'we', 'relation': 'learn after', 'object': 'declaration'}
+{'subject': 'we', 'relation': 'learn', 'object': 'Strider ’s name'}
+{'subject': 'he', 'relation': 'is', 'object': 'heir'}
+{'subject': 'we', 'relation': 'learn', 'object': 'Strider ’s true name'}
+{'subject': 'we', 'relation': 'learn after', 'object': 'Shortly declaration'}
+{'subject': 'he', 'relation': 'is heir of', 'object': 'Gondor'}
+{'subject': 'Strider', 'relation': '’s', 'object': 'true name'}
+{'subject': 'Arwen', 'relation': 'been for', 'object': 'years'}
+{'subject': 'Arwen', 'relation': 'been for', 'object': 'many years'}
+{'subject': 'her immortality', 'relation': 'attributes of', 'object': 'elves'}
+{'subject': 'her', 'relation': 'immortality', 'object': 'chief attributes of elves'}
+{'subject': 'Arwen', 'relation': 'sacrifice', 'object': 'her immortality'}
+{'subject': 'races', 'relation': 'defeat', 'object': 'Mordor'}
+{'subject': 'Elrond', 'relation': 'convenes', 'object': 'meeting'}
+{'subject': 'it', 'relation': 'was', 'object': 'made'}
+{'subject': 'it', 'relation': 'be destroyed in', 'object': 'fires'}
+{'subject': 'it', 'relation': 'be destroyed in', 'object': 'fires of Mount Doom'}
+{'subject': 'it', 'relation': 'be', 'object': 'destroyed'}
+{'subject': 'it', 'relation': 'was', 'object': 'where made'}
+{'subject': 'Frodo', 'relation': 'presents', 'object': 'ring'}
+{'subject': 'Others', 'relation': 'step forward', 'object': 'accompany'}
+{'subject': 'Others', 'relation': 'step forward', 'object': 'to accompany'}
+{'subject': 'Others', 'relation': 'accompany', 'object': 'Frodo'}
+{'subject': 'Others', 'relation': 'step', 'object': 'to accompany'}
+{'subject': 'Others', 'relation': 'step', 'object': 'accompany'}
+{'subject': 'fellowship', 'relation': 'includes', 'object': 'Sam'}
+{'subject': 'fellowship', 'relation': 'includes', 'object': 'hobbits Frodo'}
+{'subject': 'Boromir', 'relation': 'is son of', 'object': 'steward'}
+{'subject': 'Boromir', 'relation': 'is', 'object': 'son'}
+{'subject': 'Boromir', 'relation': 'is son of', 'object': 'steward of Gondor'}
+{'subject': 'fellowship', 'relation': 'sets from', 'object': 'Rivendell'}
+{'subject': 'fellowship', 'relation': 'sets forth from', 'object': 'Rivendell'}
+{'subject': 'Saruman', 'relation': 'causes', 'object': 'to block'}
+{'subject': 'group', 'relation': '’s', 'object': 'attempt'}
+{'subject': 'Saruman', 'relation': 'causes', 'object': 'avalanche of snow'}
+{'subject': 'avalanche', 'relation': 'block', 'object': 'cross'}
+{'subject': 'avalanche', 'relation': 'block', 'object': 'to cross'}
+{'subject': 'they', 'relation': 'decide', 'object': 'to enter'}
+{'subject': 'they', 'relation': 'enter', 'object': 'realm of dwarves'}
+{'subject': 'Saruman', 'relation': 'causes', 'object': 'block'}
+{'subject': 'Saruman', 'relation': 'mines of', 'object': 'Moria'}
+{'subject': 'group ’s attempt', 'relation': 'cross', 'object': 'pass of Caradhras'}
+{'subject': 'Saruman', 'relation': 'causes', 'object': 'avalanche'}
+{'subject': 'they', 'relation': 'decide', 'object': 'enter'}
+{'subject': 'group ’s attempt', 'relation': 'cross', 'object': 'pass'}
+{'subject': 'avalanche', 'relation': 'block', 'object': 'group ’s attempt'}
+{'subject': 'they', 'relation': 'enter', 'object': 'realm'}
+{'subject': 'dwarves', 'relation': 'inhuman creatures', 'object': 'brutal'}
+{'subject': 'fellowship', 'relation': 'soon is surrounded by', 'object': 'army'}
+{'subject': 'dwarves', 'relation': 'creatures', 'object': 'also brutal'}
+{'subject': 'dwarves', 'relation': 'been', 'object': 'killed'}
+{'subject': 'fellowship', 'relation': 'is surrounded by', 'object': 'army of orcs'}
+{'subject': 'fellowship', 'relation': 'is surrounded by', 'object': 'army'}
+{'subject': 'dwarves', 'relation': 'inhuman creatures', 'object': 'also brutal'}
+{'subject': 'dwarves', 'relation': 'creatures', 'object': 'brutal'}
+{'subject': 'fellowship', 'relation': 'soon is surrounded by', 'object': 'army of orcs'}
+{'subject': 'party', 'relation': 'discovers Inside', 'object': 'Moria'}
+{'subject': 'orcs', 'relation': 'disperse at', 'object': 'approach'}
+{'subject': 'orcs', 'relation': 'disperse at', 'object': 'approach of Balrog'}
+{'subject': 'Balrog', 'relation': 'creature from', 'object': 'underworld'}
+{'subject': 'orcs', 'relation': 'disperse however at', 'object': 'approach'}
+{'subject': 'orcs', 'relation': 'disperse however at', 'object': 'approach of Balrog'}
+{'subject': 'fellowship', 'relation': 'flees creature', 'object': 'as mines collapse'}
+{'subject': 'fellowship', 'relation': 'flees', 'object': 'mines collapse'}
+{'subject': 'fellowship', 'relation': 'flees', 'object': 'as mines collapse'}
+{'subject': 'fellowship', 'relation': 'flees', 'object': 'creature'}
+{'subject': 'fellowship', 'relation': 'flees creature', 'object': 'mines collapse'}
+{'subject': 'he', 'relation': 'collapsing to', 'object': 'depths of mines'}
+{'subject': 'Gandalf', 'relation': 'stays behind to', 'object': 'battle'}
+{'subject': 'he', 'relation': 'collapsing to', 'object': 'depths'}
+{'subject': 'Gandalf', 'relation': 'stays to', 'object': 'battle'}
+{'subject': 'it', 'relation': 'However grabs', 'object': 'hold of Gandalf ’s legs'}
+{'subject': 'it', 'relation': 'grabs hold', 'object': 'as Balrog falls'}
+{'subject': 'it', 'relation': 'grabs hold', 'object': 'Balrog falls'}
+{'subject': 'it', 'relation': 'grabs', 'object': 'hold of Gandalf ’s legs'}
+{'subject': 'Gandalf', 'relation': 'of', 'object': 'legs'}
+{'subject': 'it', 'relation': 'However grabs hold', 'object': 'Balrog falls'}
+{'subject': 'it', 'relation': 'drags down', 'object': 'wizard'}
+{'subject': 'it', 'relation': 'However grabs hold', 'object': 'as Balrog falls'}
+{'subject': 'it', 'relation': 'drags wizard down with', 'object': 'it'}
+{'subject': 'it', 'relation': 'However grabs', 'object': 'hold'}
+{'subject': 'it', 'relation': 'drags down with', 'object': 'it'}
+{'subject': 'it', 'relation': 'grabs', 'object': 'hold'}
+{'subject': 'Galadriel', 'relation': 'Lady of', 'object': 'Woods'}
+{'subject': 'Sylvan elves', 'relation': 'led by', 'object': 'Galadriel'}
+{'subject': 'Sylvan elves', 'relation': 'meet', 'object': 'fellowship'}
+{'subject': 'Frodo', 'relation': 'speak at_time', 'object': 'evening'}
+{'subject': 'Lady', 'relation': 'speak at_time', 'object': 'evening'}
+{'subject': 'She', 'relation': 'asks', 'object': 'look'}
+{'subject': 'She', 'relation': 'asks', 'object': 'him'}
+{'subject': 'She', 'relation': 'asks', 'object': 'look into mirror'}
+{'subject': 'She', 'relation': 'asks', 'object': 'to look'}
+{'subject': 'She', 'relation': 'asks', 'object': 'to look into mirror'}
+{'subject': 'him', 'relation': 'look into', 'object': 'mirror'}
+{'subject': 'He', 'relation': 'sees', 'object': 'visions'}
+{'subject': 'He', 'relation': 'sees', 'object': 'visions of Shire'}
+{'subject': 'he', 'relation': 'visions', 'object': 'of what will happen'}
+{'subject': 'he', 'relation': 'visions', 'object': 'what will happen'}
+{'subject': 'Lady', 'relation': 'tells', 'object': 'him'}
+{'subject': 'She', 'relation': 'warns', 'object': 'him'}
+{'subject': 'his ability', 'relation': 'accomplish on', 'object': 'his own'}
+{'subject': 'his ability', 'relation': 'accomplish', 'object': 'his task'}
+{'subject': 'Lady', 'relation': 'gives', 'object': 'star of light'}
+{'subject': 'parting gift', 'relation': 'star of', 'object': 'light'}
+{'subject': 'Lady', 'relation': 'gives', 'object': 'him'}
+{'subject': 'Lady', 'relation': 'gives', 'object': 'star'}
+{'subject': 'Lady', 'relation': 'gives', 'object': 'parting gift'}
+{'subject': 'Lady', 'relation': 'encourages', 'object': 'Frodo'}
+{'subject': 'fellowship', 'relation': 'departs at_time', 'object': 'day'}
+{'subject': 'fellowship', 'relation': 'departs at_time', 'object': 'next day'}
+{'subject': 'instructions', 'relation': 'bring back alive', 'object': 'hobbits'}
+{'subject': 'Saruman', 'relation': 'Meanwhile has dispatched', 'object': 'Uruk hai'}
+{'subject': 'Saruman', 'relation': 'has dispatched', 'object': 'Uruk hai'}
+{'subject': 'whose mission', 'relation': 'world of', 'object': 'men'}
+{'subject': 'whose sole mission', 'relation': 'world of', 'object': 'men'}
+{'subject': 'Frodo', 'relation': 'wanders off After', 'object': 'docking'}
+{'subject': 'Frodo', 'relation': 'wanders off After', 'object': 'docking on dry land'}
+{'subject': 'Frodo', 'relation': 'wanders off After', 'object': 'docking on land'}
+{'subject': 'He', 'relation': 'is about attack for', 'object': 'it'}
+{'subject': 'He', 'relation': 'is attack', 'object': 'Frodo'}
+{'subject': 'He', 'relation': 'is about attack Frodo for', 'object': 'it'}
+{'subject': 'He', 'relation': 'is attack for', 'object': 'it'}
+{'subject': 'He', 'relation': 'is attack Frodo for', 'object': 'it'}
+{'subject': 'He', 'relation': 'is about attack', 'object': 'Frodo'}
+{'subject': 'Frodo', 'relation': 'puts on', 'object': 'ring'}
+{'subject': 'he', 'relation': 'has yet', 'object': 'his longest look'}
+{'subject': 'he', 'relation': 'has', 'object': 'his look'}
+{'subject': 'he', 'relation': 'has yet', 'object': 'his look'}
+{'subject': 'he', 'relation': 'has', 'object': 'his longest look'}
+{'subject': 'Aragorn', 'relation': 'is beside', 'object': 'him'}
+{'subject': 'Frodo', 'relation': 'takes off', 'object': 'ring'}
+{'subject': 'He', 'relation': 'tells', 'object': 'Frodo'}
+{'subject': 'He', 'relation': 'turns', 'object': 'face'}
+{'subject': 'He', 'relation': 'turns', 'object': 'to face'}
+{'subject': 'Boromir', 'relation': 'is', 'object': 'badly wounded'}
+{'subject': 'Aragorn', 'relation': 'wins', 'object': 'epic battle with Uruk hai'}
+{'subject': 'epic battle', 'relation': 'is with', 'object': 'Uruk hai'}
+{'subject': 'Aragorn', 'relation': 'wins', 'object': 'battle'}
+{'subject': 'Aragorn', 'relation': 'wins', 'object': 'epic battle'}
+{'subject': 'Aragorn', 'relation': 'wins', 'object': 'battle with Uruk hai'}
+{'subject': 'Boromir', 'relation': 'swears to', 'object': 'his rightful king'}
+{'subject': 'Boromir', 'relation': 'swears', 'object': 'he dies'}
+{'subject': 'Boromir', 'relation': 'swears to', 'object': 'his king'}
+{'subject': 'Boromir', 'relation': 'swears', 'object': 'allegiance'}
+{'subject': 'Boromir', 'relation': 'swears', 'object': 'as he dies'}
+{'subject': 'Boromir', 'relation': 'swears allegiance', 'object': 'as he dies'}
+{'subject': 'Boromir', 'relation': 'swears allegiance to', 'object': 'Aragorn'}
+{'subject': 'Boromir', 'relation': 'swears allegiance to', 'object': 'his king'}
+{'subject': 'Boromir', 'relation': 'swears allegiance to', 'object': 'his rightful king'}
+{'subject': 'Boromir', 'relation': 'swears allegiance', 'object': 'he dies'}
+{'subject': 'Boromir', 'relation': 'swears to', 'object': 'Aragorn'}
+{'subject': 'Frodo', 'relation': 'remembers', 'object': 'Gandalf ’s words about destiny'}
+{'subject': 'Frodo', 'relation': 'remembers', 'object': 'words about destiny'}
+{'subject': 'Frodo', 'relation': 'remembers', 'object': 'words about his destiny'}
+{'subject': 'Frodo', 'relation': 'remembers', 'object': 'Gandalf ’s words about his destiny'}
+{'subject': 'Sam', 'relation': 'jumps', 'object': 'he ca n’t swim'}
+{'subject': 'his friend', 'relation': 'pull', 'object': 'him'}
+{'subject': 'Frodo', 'relation': 'is', 'object': 'forced'}
+{'subject': 'Frodo', 'relation': 'is forced', 'object': 'to rescue'}
+{'subject': 'his friend', 'relation': 'pull aboard', 'object': 'him'}
+{'subject': 'Frodo', 'relation': 'rescue', 'object': 'his flailing friend'}
+{'subject': 'Frodo', 'relation': 'rescue', 'object': 'his friend'}
+{'subject': 'his flailing friend', 'relation': 'pull aboard', 'object': 'him'}
+{'subject': 'Frodo', 'relation': 'is forced', 'object': 'rescue'}
+{'subject': 'Sam', 'relation': 'jumps', 'object': 'Though he ca n’t swim'}
+{'subject': 'his flailing friend', 'relation': 'pull', 'object': 'him'}
+{'subject': 'Sam', 'relation': 'reminds', 'object': 'Frodo'}
+{'subject': 'he', 'relation': 'made', 'object': 'leave'}
+{'subject': 'he', 'relation': 'made', 'object': 'never to leave'}
+{'subject': 'promise', 'relation': 'leave', 'object': 'him'}
+{'subject': 'he', 'relation': 'made', 'object': 'promise'}
+{'subject': 'he', 'relation': 'made', 'object': 'never leave'}
+{'subject': 'he', 'relation': 'made', 'object': 'to leave'}
+{'subject': 'Sam', 'relation': 'climb mountain Mordor in', 'object': 'distance'}
+{'subject': 'Frodo', 'relation': 'climb', 'object': 'mountain Mordor'}
+{'subject': 'water', 'relation': 'On', 'object': 'opposite side'}
+{'subject': 'Frodo', 'relation': 'climb in', 'object': 'distance'}
+{'subject': 'Frodo', 'relation': 'climb mountain Mordor On', 'object': 'water ’s opposite side'}
+{'subject': 'Sam', 'relation': 'climb On', 'object': 'water ’s opposite side'}
+{'subject': 'Sam', 'relation': 'climb mountain Mordor On', 'object': 'water ’s opposite side'}
+{'subject': 'Sam', 'relation': 'climb in', 'object': 'distance'}
+{'subject': 'Frodo', 'relation': 'climb On', 'object': 'water ’s opposite side'}
+{'subject': 'Frodo', 'relation': 'climb mountain Mordor On', 'object': 'water ’s side'}
+{'subject': 'Frodo', 'relation': 'climb On', 'object': 'water ’s side'}
+{'subject': 'Sam', 'relation': 'climb On', 'object': 'water ’s side'}
+{'subject': 'Frodo', 'relation': 'climb mountain Mordor in', 'object': 'distance'}
+{'subject': 'Sam', 'relation': 'climb', 'object': 'mountain Mordor'}
+{'subject': 'Sam', 'relation': 'climb mountain Mordor On', 'object': 'water ’s side'}
