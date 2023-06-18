@@ -1,3 +1,5 @@
+# Taken from [rajammanabrolu/WorldGeneration](https://github.com/rajammanabrolu/WorldGeneration)
+
 # transformer-SQuAD KG extraction (based on https://github.com/kamalkraj/BERT-SQuAD)
 
 # Pretrain ALBERT on SQUAD
