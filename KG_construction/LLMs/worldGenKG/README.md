@@ -23,10 +23,10 @@ python -m torch.distributed.launch --nproc_per_node=4 run_squad.py \
   --do_train \
   --train_file $SQUAD_DIR/train-v2.0.json \
   --predict_file $SQUAD_DIR/dev-v2.0.json \
-  --per_gpu_train_batch_size 2 \
+  --per_gpu_train_batch_size 1 \
   --learning_rate 3e-5 \
-  --num_train_epochs 3 \
-  --max_seq_length 512 \
+  --num_train_epochs 4 \
+  --max_seq_length 256 \
   --doc_stride 128 \
   --output_dir ./model/albert-large-squad/ \
   --warmup_steps 814 \
@@ -43,14 +43,14 @@ python run_squad.py \
   --do_eval \
   --train_file $SQUAD_DIR/train-v2.0.json \
   --predict_file $SQUAD_DIR/dev-v2.0.json \
-  --per_gpu_train_batch_size 2 \
+  --per_gpu_train_batch_size 1 \
   --learning_rate 3e-5 \
   --num_train_epochs 5.0 \
-  --max_seq_length 512 \
+  --max_seq_length 256 \
   --doc_stride 128 \
   --warmup_steps 814 \
   --max_steps 8144 \
-  --output_dir ./model/albert-large-squad// \
+  --output_dir ./model/albert-large-squad/ \
   --version_2_with_negative \
   --gradient_accumulation_steps 24 \
   --overwrite_output_dir
