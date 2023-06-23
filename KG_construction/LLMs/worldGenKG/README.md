@@ -2,7 +2,10 @@
 
 # transformer-SQuAD KG extraction (based on https://github.com/kamalkraj/BERT-SQuAD)
 
-# Pretrain ALBERT on SQUAD
+# Setup bash with conda environment and required python modules
+`. setup_env.sh`
+
+# Pretrain ALBERT on SQUAD - ONE TIME ONLY
 1. Download SQuAD 
 ```
 mkdir SQuAD-2.0
