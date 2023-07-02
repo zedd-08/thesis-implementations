@@ -1,0 +1,45 @@
+Q: Use the following text for the rest of this conversation
+
+[[zelda-botw.txt]]
+
+A: Link, awakened from his deep slumber in the Shrine of Resurrection, found himself standing on a ledge overlooking the ruins of the once magnificent Hyrule Kingdom. A mysterious voice resonated within him, urging him to uncover the truth behind the fallen land. With a newfound purpose, Link ventured forth, guided by the enigmatic voice.
+
+On his journey, Link encountered an Old Man who would prove to be a pivotal figure in his quest. The Old Man offered Link the Paraglider, a crucial tool for reaching the unreachable parts of Hyrule. However, he required something in return—the Spirit Orbs found within the sacred Shrines scattered across the land. These Shrines were named Oman Au, Ja Baij, Owa Daim, and Namut, each housing a Spirit Orb that the Old Man sought.
+
+Determined to aid the Old Man and uncover the mysteries of Hyrule, Link ventured into the Shrines, overcoming various trials to obtain the Spirit Orbs. As he acquired the last orb, the Old Man suddenly reappeared, only to vanish once more, instructing Link to meet him in the Temple of Time.
+
+In a surprising twist, the Old Man revealed himself as the spirit of the deceased King of Hyrule, King Rhoam. Link learned from King Rhoam that a century ago, the malevolent Calamity Ganon emerged, wreaking havoc on the kingdom and its people. Despite their efforts, the inhabitants of Hyrule were unable to defeat the calamity, leading to its sealing within Hyrule Castle. Over time, the land fell into ruin while the Calamity Ganon grew in power, threatening to break free and unleash destruction upon the world once again.
+
+Furthermore, the mysterious voice that had guided Link throughout his awakening turned out to be none other than Zelda, the daughter of King Rhoam. Zelda had been struggling to awaken her prophesied powers, accompanied by her loyal knight, Link. However, when the Calamity Ganon launched its attack, Zelda made a desperate sacrifice, entrapping herself with the enemy within Hyrule Castle while placing the gravely wounded Link in the Shrine of Resurrection.
+
+With the fate of Hyrule and Princess Zelda hanging in the balance, Link embarked on his quest, aiming to free the trapped princess and defeat the Calamity Ganon once and for all. Along the way, he was directed to seek counsel from Impa, the wise Sheikah elder. Impa revealed the ancient knowledge of the Guardians and Divine Beasts, mighty machines created thousands of years ago to combat the Calamity Ganon. These incredible constructs were controlled by four Champions—the Zora princess Mipha, the Goron warrior Daruk, the Gerudo chief Urbosa, and the Rito archer Revali. Together, the previous Hero and Princess had utilized these Guardians and Divine Beasts to vanquish the Calamity Ganon.
+
+However, as time passed, the knowledge of this ancient technology was lost until recent excavations in Hyrule Kingdom uncovered its existence once again. Coinciding with the resurgence of the Calamity Ganon a century ago, the Guardians were reactivated, but this time, they turned against the people of Hyrule, causing devastation.
+
+Link's task expanded beyond defeating the Calamity Ganon. He was now tasked with investigating the fate of the Divine Beasts and their Champions. Yet, at the heart of it all, his primary objective remained to reach Hyrule Castle, liberate Princess Zelda, and prevent the impending catastrophe that would engulf the world.
+
+With the vast Kingdom of Hyrule spread out before him, Link faced a daunting decision—to fulfill his role as the Hylian Champion and rescue Hyrule Kingdom in his own way. The destiny of the land and its
+
+---
+
+Q: generate a knowledge base from the text to include all the characters, locations, items and plot points in an JSON format
+
+A: [[chat-gpt-zelda-botw.json]]
+
+--- 
+
+Q: also generate a list of (entity, relation, entity) triplets that denotes the relations between the various entities in the story, the the triplet format.
+
+A: [[chat-gpt-zelda-botw.kb]]
+
+---
+
+Q: Using all the information, create a knowledge graph about the given story and list the plot points. Plot points are events that change the knowledge graph's state, by changing an existing relation between the entities.
+
+A: [[chat-gpt-zelda-botw.md]]
+
+---
+
+Q: regenerate the knowledge base in an RDF format.
+
+A: [[chat-gpt-zelda-botw.ttl]]

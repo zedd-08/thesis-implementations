@@ -1,0 +1,103 @@
+{
+	"characters": [
+	  {
+		"name": "Link",
+		"description": "The protagonist and hero of the game."
+	  },
+	  {
+		"name": "Old Man",
+		"description": "An enigmatic figure who guides Link and provides him with the Paraglider."
+	  },
+	  {
+		"name": "King Rhoam",
+		"description": "The deceased King of Hyrule, appearing as a spirit and revealing the history of the Calamity Ganon."
+	  },
+	  {
+		"name": "Zelda",
+		"description": "The daughter of King Rhoam and the voice that guides Link. She possesses prophesied powers."
+	  },
+	  {
+		"name": "Impa",
+		"description": "The wise Sheikah elder who provides guidance and information to Link."
+	  },
+	  {
+		"name": "Mipha",
+		"description": "The Zora princess and one of the Champions who controlled a Divine Beast."
+	  },
+	  {
+		"name": "Daruk",
+		"description": "The Goron warrior and one of the Champions who controlled a Divine Beast."
+	  },
+	  {
+		"name": "Urbosa",
+		"description": "The Gerudo chief and one of the Champions who controlled a Divine Beast."
+	  },
+	  {
+		"name": "Revali",
+		"description": "The Rito archer and one of the Champions who controlled a Divine Beast."
+	  }
+	],
+	"locations": [
+	  {
+		"name": "Shrine of Resurrection",
+		"description": "The place where Link awakens from his slumber at the beginning of the game."
+	  },
+	  {
+		"name": "Hyrule",
+		"description": "The ruined kingdom that Link must explore and save from the Calamity Ganon."
+	  },
+	  {
+		"name": "Temple of Time",
+		"description": "The location where Link is instructed to meet King Rhoam."
+	  },
+	  {
+		"name": "Hyrule Castle",
+		"description": "The castle where Calamity Ganon is sealed and Princess Zelda sacrifices herself."
+	  }
+	],
+	"items": [
+	  {
+		"name": "Paraglider",
+		"description": "A tool given to Link by the Old Man, allowing him to glide and access new areas."
+	  },
+	  {
+		"name": "Spirit Orbs",
+		"description": "Orbs found within the Shrines that the Old Man seeks in exchange for the Paraglider."
+	  },
+	  {
+		"name": "Guardians",
+		"description": "Ancient machines that were reactivated and turned against the people of Hyrule."
+	  },
+	  {
+		"name": "Divine Beasts",
+		"description": "Mighty constructs controlled by the Champions to combat the Calamity Ganon."
+	  }
+	],
+	"plot_points": [
+	  {
+		"name": "Calamity Ganon",
+		"description": "A great evil that rose up and laid waste to Hyrule Kingdom. Sealed within Hyrule Castle, it grows in power and threatens to break free."
+	  },
+	  {
+		"name": "Shrines",
+		"description": "Sacred locations where Link must complete trials to obtain Spirit Orbs."
+	  },
+	  {
+		"name": "Zora's Domain",
+		"description": "The home of the Zora people, ruled by Princess Mipha."
+	  },
+	  {
+		"name": "Goron City",
+		"description": "The settlement of the Goron people, led by the warrior Daruk."
+	  },
+	  {
+		"name": "Gerudo Town",
+		"description": "The vibrant city of the Gerudo, led by the chief Urbosa."
+	  },
+	  {
+		"name": "Rito Village",
+		"description": "The village inhabited by the bird-like Rito, home to the archer Revali."
+	  }
+	]
+  }
+  

@@ -1,0 +1,94 @@
+@prefix : <http://example.com/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+### Entities ###
+
+# Characters
+:Link rdf:type :Character .
+:OldMan rdf:type :Character .
+:KingRhoam rdf:type :Character .
+:Zelda rdf:type :Character .
+:Impa rdf:type :Character .
+:Mipha rdf:type :Character .
+:Daruk rdf:type :Character .
+:Urbosa rdf:type :Character .
+:Revali rdf:type :Character .
+
+# Locations
+:ShrineOfResurrection rdf:type :Location .
+:Hyrule rdf:type :Location .
+:TempleOfTime rdf:type :Location .
+:HyruleCastle rdf:type :Location .
+:ZorasDomain rdf:type :Location .
+:GoronCity rdf:type :Location .
+:GerudoTown rdf:type :Location .
+:RitoVillage rdf:type :Location .
+
+# Items
+:Paraglider rdf:type :Item .
+:SpiritOrbs rdf:type :Item .
+:Guardians rdf:type :Item .
+:DivineBeasts rdf:type :Item .
+
+### Relations ###
+
+# Link's relations
+:Link :has :Paraglider .
+:Link :obtains :SpiritOrbs .
+
+# Old Man's relations
+:OldMan :guides :Link .
+:OldMan :gives :Paraglider .
+:OldMan :seeks :SpiritOrbs .
+
+# King Rhoam's relations
+:KingRhoam :reveals :OldMan .
+
+# Zelda's relations
+:Zelda :unsuccessfullyTriesToGain :ProphesiedPowers .
+
+# Impa's relations
+:Impa :providesInformationAbout :Guardians .
+:Impa :providesInformationAbout :DivineBeasts .
+
+# Calamity Ganon's relations
+:CalamityGanon :roseUp :Hyrule .
+:CalamityGanon :laidWasteTo :Hyrule .
+:CalamityGanon :sealedWithin :HyruleCastle .
+:CalamityGanon :attacked :KingdomOfHyrule .
+:CalamityGanon :tookControlOf :AncientMachines .
+
+# Princess Zelda's relations
+:PrincessZelda :trappedWith :CalamityGanon .
+:PrincessZelda :placedIn :ShrineOfResurrection .
+
+# Champions' relations
+:Mipha :was :ZoraPrincess .
+:Daruk :was :GoronWarrior .
+:Urbosa :was :GerudoChief .
+:Revali :was :RitoArcher .
+:Champions :controlled :DivineBeasts .
+
+### Plot Points ###
+
+:Hyrule rdf:type :PlotPoint .
+:Link :awakensIn :ShrineOfResurrection .
+:OldMan :appearsIn :TempleOfTime .
+:KingRhoam :tells :Link .
+:CalamityGanon :growsInPower .
+:PrincessZelda :trappedWith :CalamityGanon .
+:PrincessZelda :sacrificesHerself .
+:Link :setsOffToDefeat :CalamityGanon .
+:Link :directedToMeet :Impa .
+:Link :investigatesFateOf :DivineBeasts .
+:Link :aimsToFree :PrincessZelda .
+:Link :explores :Hyrule .
+:Link :obtains :Paraglider .
+:Link :interactsWith :Mipha .
+:Link :interactsWith :Daruk .
+:Link :interactsWith :Urbosa .
+:Link :interactsWith :Revali .
+:Link :mustDefeat :CalamityGanon .
+:Link :fulfillsRoleAs :HylianChampion .
+:Link :saves :Hyrule .
