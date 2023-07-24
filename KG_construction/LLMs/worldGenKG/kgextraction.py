@@ -68,6 +68,7 @@ class World:
         return len(list(nx.connected_components(self.graph))) == 1
 
     def query(self, query, nsamples=10, cutoff=8):
+        print(self.input_text)
 
         return self.model.predictTopK(self.input_text, query, nsamples, cutoff)
 
@@ -130,10 +131,12 @@ class World:
         return s
 
     def extractEntity(self, query, threshold=0.05, cutoff=0):
+        print("QUERY: ", query)
 
         preds, probs = self.query(query, 50, cutoff)
 
         if preds is None:
+            print("NO ANSWER FOUND")
             return None, 0
 
         for pred, prob in zip(preds, probs):
@@ -185,12 +188,12 @@ class World:
         # set thresholds/cutoffs
         threshold = 0.05
 
-        if args.cutoffs == 'fairy':
+        if self.args.cutoffs == 'fairy':
             cutoffs = [6.5, -7, -5]  # fairy
-        elif args.cutoffs == 'mystery':
+        elif self.args.cutoffs == 'mystery':
             cutoffs = [3.5, -7.5, -6]  # mystery
         else:
-            cutoffs = [int(i) for i in args.cutoffs.split()]
+            cutoffs = [int(i) for i in self.args.cutoffs.split()]
             assert len(cutoffs) == 3
 
         # save input text
