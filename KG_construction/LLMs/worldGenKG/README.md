@@ -65,5 +65,5 @@ After pretraining ALBERT-SQUAD and verifying the model is in `/model/albert-larg
 (NOTE: <no answer> cutoffs might have to be tuned for different genres)
 
 ```
-python kg-completion.py --input_txt <path to story.txt file>
+python kg-completion.py --input_txt <path to story.txt file> --cutoffs "11.5 15 12"
 ```
