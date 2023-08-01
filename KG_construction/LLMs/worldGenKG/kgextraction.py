@@ -58,18 +58,16 @@ class World:
 
         self.args = args
 
-        # init GPT-2
         with open(args.input_text) as f:
             self.input_text = f.read()
-
-        self.model = QA('model/albert-large-squad')
+         
+        # self.model = QA('model/albert-large-squad')
+        self.model = QA('/mnt/e/Masters/Thesis/implementations/KG_construction/LLMs/worldGenKG/model/albert-large-squad')
 
     def is_connected(self):
         return len(list(nx.connected_components(self.graph))) == 1
 
     def query(self, query, nsamples=10, cutoff=8):
-        print(self.input_text)
-
         return self.model.predictTopK(self.input_text, query, nsamples, cutoff)
 
     def generateNeighbors(self, nsamples=100):
@@ -131,9 +129,7 @@ class World:
         return s
 
     def extractEntity(self, query, threshold=0.05, cutoff=0):
-        print("QUERY: ", query)
-
-        preds, probs = self.query(query, 50, cutoff)
+        preds, probs = self.query(query, self.args.nsamples, cutoff)
 
         if preds is None:
             print("NO ANSWER FOUND")
@@ -179,7 +175,7 @@ class World:
 
         return None, 0
 
-    def generate(self):
+    def generate(self, filename="entities.json"):
 
         locs = []
         objs = []
@@ -193,7 +189,7 @@ class World:
         elif self.args.cutoffs == 'mystery':
             cutoffs = [3.5, -7.5, -6]  # mystery
         else:
-            cutoffs = [int(i) for i in self.args.cutoffs.split()]
+            cutoffs = [float(i) for i in self.args.cutoffs.split()]
             assert len(cutoffs) == 3
 
         # save input text
@@ -203,7 +199,7 @@ class World:
         print("=" * 20 + "\tcharacters\t" + "=" * 20)
         self.input_text = tmp
         primer = "Who is somebody in the story?"
-        cutoff = 10
+        cutoff = cutoffs[0]
         t, p = self.extractEntity(primer, threshold=threshold, cutoff=cutoff)
         while t is not None and len(t) > 1:
             if len(chars) > 1:
@@ -216,7 +212,7 @@ class World:
         # add locations
         self.input_text = tmp
         primer = "Where is the location in the story?"
-        cutoff = 10
+        cutoff = cutoffs[1]
         t, p = self.extractEntity(primer, threshold=threshold, cutoff=cutoff)
         while t is not None and len(t) > 1:
             locs.append(t)
@@ -231,7 +227,7 @@ class World:
         # add objects
         self.input_text = tmp
         primer = "What is an object in the story?"
-        cutoff = 10
+        cutoff = cutoffs[2]
         t, p = self.extractEntity(primer, threshold=threshold, cutoff=cutoff)
         while t is not None and len(t) > 1:
             if len(objs) > 1:
@@ -244,11 +240,8 @@ class World:
         self.graph.add_nodes_from(chars, type='character', fillcolor="orange", style="filled")
         self.graph.add_nodes_from(objs, type='object', fillcolor="white", style="filled")
 
-        # with open('stats.txt', 'a') as f:
-        # f.write(args.input_text + "\n")
-        # f.write(str(len(locs)) + "\n")
-        # f.write(str(len(chars)) + "\n")
-        # f.write(str(len(objs)) + "\n")
+        with open(filename, 'w') as f:
+            json.dump({'characters':chars, 'locations':locs, 'objects':objs}, f, indent=4, sort_keys=False)
         self.autocomplete()
 
     def autocomplete(self):
@@ -281,7 +274,7 @@ class World:
             _, u, v = best
 
             # attach randomly if empty or specified
-            if _ == 0 or args.random:
+            if _ == 0 or self.args.random:
                 candidates = []
                 for c in components[0]:
                     if self.graph.nodes[c]['type'] == 'location':
@@ -299,10 +292,10 @@ class World:
         nx.nx_pydot.write_dot(self.graph, filename)
         nx.write_gml(self.graph, "graph.gml", stringizer=None)
 
-    def draw(self, filename="./graph.svg"):
+    def draw(self, filename="graph.svg"):
         self.export()
 
-        if args.write_sfdp:
+        if self.args.write_sfdp:
             cmd = "sfdp -x -Goverlap=False -Tsvg graph.dot".format(filename)
             returned_value = subprocess.check_output(cmd, shell=True)
             with open(filename, 'wb') as f:
@@ -313,17 +306,14 @@ class World:
             nx.draw(self.graph, with_labels=True)
             plt.savefig(filename[:-4] + '.png')
 
-
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_text', default='input_text.txt')
-    parser.add_argument('--length', default=10, type=int)
-    parser.add_argument('--batch_size', default=1, type=int)
-    parser.add_argument('--temperature', default=1, type=float)
-    parser.add_argument('--model_name', default='117M')
+    # parser.add_argument('--input_text', default='input_text.txt')
+    parser.add_argument('--input_text', default='/mnt/e/Masters/Thesis/implementations/data/resolved_zelda_botw.txt')
     parser.add_argument('--seed', default=0, type=int)
     parser.add_argument('--nsamples', default=10, type=int)
-    parser.add_argument('--cutoffs', default='fairy', type=str)
+    # parser.add_argument('--cutoffs', default='fairy', type=str)
+    parser.add_argument('--cutoffs', default='11.5 15 12', type=str)
     parser.add_argument('--write_sfdp', default=False, type=bool)
     parser.add_argument('--random', default=False, type=bool)
 
@@ -332,18 +322,24 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
-    random.seed(0)
+    random.seed(args.seed)
     world = World([], [], [], args)
 
     split = args.input_text.split('/')
-    filename = split[-1][:-4]
-    path = "/".join(split[:-1])
+    filename = split[-1].split('.')[:-1][0]
 
-    if not os.path.exists('./{}/plots'.format(path)):
-        os.makedirs('./{}/plots'.format(path))
+    if not os.path.exists('./outputs'):
+        os.makedirs('./outputs')
 
-    if not os.path.exists('./{}/dot'.format(path)):
-        os.makedirs('./{}/dot'.format(path))
-    world.generate()
-    world.draw('./{}/plots/{}.svg'.format(path, filename))
-    world.export('./{}/dot/{}.dot'.format(path, filename))
+    if not os.path.exists('./outputs/plots'):
+        os.makedirs('./outputs/plots')
+
+    if not os.path.exists('./outputs/dot'):
+        os.makedirs('./outputs/dot')
+
+    if not os.path.exists('./outputs/entities'):
+        os.makedirs('./outputs/entities')
+
+    world.generate('./outputs/entities/{}.json'.format(filename))
+    world.draw('./outputs/plots/{}.svg'.format(filename))
+    world.export('./outputs/dot/{}.dot'.format(filename))
