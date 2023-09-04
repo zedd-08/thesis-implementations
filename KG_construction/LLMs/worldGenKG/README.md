@@ -1,69 +1,29 @@
-# Taken from [rajammanabrolu/WorldGeneration](https://github.com/rajammanabrolu/WorldGeneration)
+# AskBERT method
 
-# transformer-SQuAD KG extraction (based on https://github.com/kamalkraj/BERT-SQuAD)
+## Environment Setup
 
-# Setup bash with conda environment and required python modules
 `. setup_env.sh`
 
-# Pretrain ALBERT on SQUAD - ONE TIME ONLY
-1. Download SQuAD 
-```
-mkdir SQuAD-2.0
-cd SQuAD-2.0
-wget https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v2.0.json
-wget https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v2.0.json
-cd ..
+This will create a virtual conda environment called `askBert` and install all the necessary packages.
 
-```
-2. Pretrain on SQuAD
-```
-export SQUAD_DIR=`pwd`/SQuAD-2.0
+## Workflow
+1. Pretrain ALBERT-SQuAD QA model
+2. Extract KG-graph with `kg-extraction.py` and obtain `{input_text}.dot`
+3. Finetune GPT-2 and add flavortext with `flavortext.py`
 
-# train
-python -m torch.distributed.launch --nproc_per_node=4 run_squad.py \
-  --model_type albert \
-  --model_name_or_path albert-large-v2 \
-  --do_train \
-  --train_file $SQUAD_DIR/train-v2.0.json \
-  --predict_file $SQUAD_DIR/dev-v2.0.json \
-  --per_gpu_train_batch_size 1 \
-  --learning_rate 3e-5 \
-  --num_train_epochs 4 \
-  --max_seq_length 256 \
-  --doc_stride 128 \
-  --output_dir ./model/albert-large-squad/ \
-  --warmup_steps 814 \
-  --max_steps 8144 \
-  --version_2_with_negative \
-  --gradient_accumulation_steps 24 \
-  --overwrite_output_dir
-```
-3. validate model - should get around ~89 f1
-```
-python run_squad.py \
-  --model_type albert \
-  --model_name_or_path ./model/albert-large-squad/ \
-  --do_eval \
-  --train_file $SQUAD_DIR/train-v2.0.json \
-  --predict_file $SQUAD_DIR/dev-v2.0.json \
-  --per_gpu_train_batch_size 1 \
-  --learning_rate 3e-5 \
-  --num_train_epochs 5.0 \
-  --max_seq_length 256 \
-  --doc_stride 128 \
-  --warmup_steps 814 \
-  --max_steps 8144 \
-  --output_dir ./model/albert-large-squad/ \
-  --version_2_with_negative \
-  --gradient_accumulation_steps 24 \
-  --overwrite_output_dir
-```
+## KG-extraction
+Contains code to train ALBERT-SQuAD and performing KG extraction
 
-# KG extraction
-After pretraining ALBERT-SQUAD and verifying the model is in `/model/albert-large-squad`
+## flavortext-generation
+Contains code to finetune GPT-2 and add flavor text to graphs produced by KG extraction
 
-(NOTE: <no answer> cutoffs might have to be tuned for different genres)
+## scrape-wikipedia
+Contains code to scrape wikipedia for plots by genre
 
-```
-python kg-completion.py --input_txt <path to story.txt file> --cutoffs "11.5 15 12"
-```
+### (NOTE: each folder has additional README instructions)
+
+# One shot extraction
+
+If all the model pre-training and scraping is complete, run:
+
+`. create_kg.sh <input_story_txt> <story_type = 'fairytale' | 'mystery'>`

@@ -4,6 +4,10 @@ Flask-Cors>=3.0.8
 networkx==2.3
 tensorboardX==2.4
 transformers==2.3.0
+numpy==1.20
+numpy-base==1.20
+urllib3==1.26.16
 scikit-learn
 pydot
 nltk
+gpt_2_simple
