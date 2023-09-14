@@ -61,8 +61,7 @@ class World:
         with open(args.input_text) as f:
             self.input_text = f.read()
          
-        # self.model = QA('model/albert-large-squad')
-        self.model = QA('/mnt/e/Masters/Thesis/implementations/KG_construction/LLMs/worldGenKG/model/albert-large-squad')
+        self.model = QA('model/albert-large-squad')
 
     def is_connected(self):
         return len(list(nx.connected_components(self.graph))) == 1
@@ -308,8 +307,7 @@ class World:
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    # parser.add_argument('--input_text', default='input_text.txt')
-    parser.add_argument('--input_text', default='/mnt/e/Masters/Thesis/implementations/data/resolved_zelda_botw.txt')
+    parser.add_argument('--input_text', default='input_text.txt')
     parser.add_argument('--seed', default=0, type=int)
     parser.add_argument('--nsamples', default=10, type=int)
     # parser.add_argument('--cutoffs', default='fairy', type=str)

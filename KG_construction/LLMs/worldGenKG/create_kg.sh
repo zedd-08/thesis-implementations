@@ -1,3 +1,4 @@
+set +xe
 conda activate askBert
 echo "Input file: $1"
 echo "Model: $2"
