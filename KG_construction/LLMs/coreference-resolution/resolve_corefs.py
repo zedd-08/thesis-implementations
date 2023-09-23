@@ -68,7 +68,8 @@ if __name__ == "__main__":
     args = parse_args()
 
     predictor, nlp = load_models()
-    with open('../worldGenKG/input_text.txt', 'r') as f:
+    # with open('../worldGenKG/input_text.txt', 'r') as f:
+    with open(args.input_text, 'r') as f:
         text = f.read()
 
     clusters = predictor.predict(text)['clusters']
