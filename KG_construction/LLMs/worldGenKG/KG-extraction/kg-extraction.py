@@ -167,7 +167,7 @@ class World:
                 return t, p
         return None, 0
 
-    def generate(self, filename="entities.json"):
+    def generate(self):
 
         locs = []
         objs = []
@@ -222,12 +222,11 @@ class World:
             objs.append(t)
             t, p = self.extractEntity(primer, threshold=threshold, cutoff=cutoff)
         self.input_text = tmp
-
-        self.graph.add_nodes_from(locs, type='location', fillcolor="yellow", style="filled")
-        self.graph.add_nodes_from(chars, type='character', fillcolor="orange", style="filled")
-        self.graph.add_nodes_from(objs, type='object', fillcolor="white", style="filled")
-
-        self.autocomplete()
+        
+        entities = [(x, 'object') for x in objs]
+        entities.extend([(x, 'character') for x in chars])
+        entities.extend([(x, 'location') for x in locs])
+        return entities
 
     def autocomplete(self):
         self.generateNeighbors(self.args.nsamples)
@@ -261,11 +260,13 @@ class World:
             u_type = self.graph.nodes[u]['type']
             v_type = self.graph.nodes[v]['type']
             
-            if u_type == 'location':
-                if v_type == 'location':
+            if u_type == v_type:
+                if u_type == 'location':
                     rel_type = "connected to"
                 else:
-                    rel_type = "present in"
+                    rel_type = "NA" 
+            elif u_type == 'location' and v_type in ['object', 'character'] or v_type == 'location' and u_type in ['object', 'character']:
+                rel_type = "present in"
             else:
                 rel_type = "held by"
             
