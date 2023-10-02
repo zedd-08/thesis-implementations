@@ -1,0 +1,9 @@
+[submodule "quest_generation/llama2"]
+	path = quest_generation/llama2
+	url = git@github.com:zedd-08/llama2.git
+[submodule "quest_generation/KG-BART"]
+	path = quest_generation/KG-BART
+	url = git@github.com:zedd-08/KG-BART.git
+[submodule "quest_generation/KGPT"]
+	path = quest_generation/KGPT
+	url = git@github.com:zedd-08/KGPT.git
