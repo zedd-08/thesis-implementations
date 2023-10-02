@@ -7,3 +7,6 @@
 [submodule "quest_generation/KGPT"]
 	path = quest_generation/KGPT
 	url = git@github.com:zedd-08/KGPT.git
+[submodule "KG_construction/LLMs/worldGenKG"]
+	path = KG_construction/LLMs/worldGenKG
+	url = git@github.com:zedd-08/worldGenKG.git
