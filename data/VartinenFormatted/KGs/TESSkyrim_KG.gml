@@ -177,6 +177,7 @@ graph [
     id 29
     label "Reach, trying to find dwarven ruins"
     type "location"
+    description "Reach, trying to find dwarven ruins"
   ]
   node [
     id 30
@@ -452,6 +453,7 @@ graph [
     id 75
     label "outside the College of Winterhold"
     type "location"
+    description "outside the College of Winterhold"
   ]
   node [
     id 76
@@ -517,6 +519,7 @@ graph [
     id 86
     label "tomb of Hevnoraak"
     type "location"
+    description "tomb of Hevnoraak"
   ]
   node [
     id 87
@@ -576,6 +579,7 @@ graph [
     id 96
     label "a miserable place"
     type "location"
+    description "a miserable place"
   ]
   node [
     id 97
@@ -713,6 +717,7 @@ graph [
     id 119
     label "the mines"
     type "location"
+    description "the mines"
   ]
   node [
     id 120
@@ -862,6 +867,7 @@ graph [
     id 144
     label "Dagur's inn"
     type "location"
+    description "Dagur's inn"
   ]
   node [
     id 145
@@ -1311,6 +1317,7 @@ graph [
     id 219
     label "Temple of Divines"
     type "location"
+    description "Temple of Divines"
   ]
   node [
     id 220
@@ -1394,7 +1401,7 @@ graph [
     id 233
     label "Dark Brotherhood Sanctuary"
     type "location"
-    description "the headquarters of the Dark Brotherhood"
+    description "Dark Brotherhood Sanctuary"
   ]
   node [
     id 234
@@ -1412,6 +1419,7 @@ graph [
     id 236
     label "Night Mother's Chamber"
     type "location"
+    description "Night Mother's Chamber"
   ]
   node [
     id 237
@@ -1705,6 +1713,7 @@ graph [
     id 285
     label "Revyn Sadri's store"
     type "location"
+    description "Revyn Sadri's store"
   ]
   node [
     id 286
@@ -1752,6 +1761,7 @@ graph [
     id 293
     label "outside Temple of Miraak"
     type "location"
+    description "outside Temple of Miraak"
   ]
   node [
     id 294
@@ -1799,6 +1809,7 @@ graph [
     id 301
     label "next to Kodlak Whitemane"
     type "location"
+    description "next to Kodlak Whitemane"
   ]
   node [
     id 302
@@ -2050,6 +2061,7 @@ graph [
     id 343
     label "outside the Temple of Dibella"
     type "location"
+    description "outside the Temple of Dibella"
   ]
   node [
     id 344
@@ -2091,6 +2103,7 @@ graph [
     id 350
     label "outside Snow Veil Sanctum"
     type "location"
+    description "outside Snow Veil Sanctum"
   ]
   node [
     id 351
@@ -2168,6 +2181,7 @@ graph [
     id 363
     label "just outside Soljund's Sinkhole"
     type "location"
+    description "just outside Soljund's Sinkhole"
   ]
   node [
     id 364
@@ -2185,6 +2199,7 @@ graph [
     id 366
     label "Avrusa Sarethi's farm"
     type "location"
+    description "Avrusa Sarethi's farm"
   ]
   node [
     id 367
@@ -2232,6 +2247,7 @@ graph [
     id 374
     label "Skaal village"
     type "location"
+    description "Skaal village"
   ]
   node [
     id 375
@@ -2345,6 +2361,7 @@ graph [
     id 393
     label "a crypt"
     type "location"
+    description "a crypt"
   ]
   node [
     id 394
@@ -2608,6 +2625,7 @@ graph [
     id 437
     label "a city"
     type "location"
+    description "a city"
   ]
   node [
     id 438
@@ -2643,6 +2661,7 @@ graph [
     id 443
     label "East Empire Company's rundown offices in Windhelm"
     type "location"
+    description "East Empire Company's rundown offices in Windhelm"
   ]
   node [
     id 444
@@ -2714,6 +2733,7 @@ graph [
     id 455
     label "outside Thirsk Mead Hall"
     type "location"
+    description "outside Thirsk Mead Hall"
   ]
   node [
     id 456
@@ -3013,6 +3033,7 @@ graph [
     id 505
     label "outside Moss Mother Cavern"
     type "location"
+    description "outside Moss Mother Cavern"
   ]
   node [
     id 506
@@ -3186,6 +3207,7 @@ graph [
     id 534
     label "Riften jail"
     type "location"
+    description "Riften jail"
   ]
   node [
     id 535
@@ -3299,6 +3321,7 @@ graph [
     id 553
     label "Lisbet's store"
     type "location"
+    description "Lisbet's store"
   ]
   node [
     id 554
@@ -3640,6 +3663,7 @@ graph [
     id 610
     label "outside Treva's Watch"
     type "location"
+    description "outside Treva's Watch"
   ]
   node [
     id 611
@@ -3759,6 +3783,7 @@ graph [
     id 630
     label "a prison"
     type "location"
+    description "a prison"
   ]
   node [
     id 631
@@ -3788,6 +3813,7 @@ graph [
     id 635
     label "outside the Abandoned House"
     type "location"
+    description "outside the Abandoned House"
   ]
   node [
     id 636
@@ -3931,6 +3957,7 @@ graph [
     id 659
     label "onboard the Katariah"
     type "location"
+    description "onboard the Katariah"
   ]
   node [
     id 660
@@ -3978,6 +4005,7 @@ graph [
     id 667
     label "Lucan Valerius's shop in the town"
     type "location"
+    description "Lucan Valerius's shop in the town"
   ]
   node [
     id 668
@@ -4001,6 +4029,7 @@ graph [
     id 671
     label "Hermaeus Mora's realm"
     type "location"
+    description "Hermaeus Mora's realm"
   ]
   node [
     id 672
@@ -4384,6 +4413,7 @@ graph [
     id 735
     label "a walled city"
     type "location"
+    description "a walled city"
   ]
   node [
     id 736
@@ -4539,6 +4569,7 @@ graph [
     id 761
     label "Thalmor Embassy"
     type "location"
+    description "Thalmor Embassy"
   ]
   node [
     id 762
@@ -4550,6 +4581,7 @@ graph [
     id 763
     label "Hillevi Cruel-Sea's market stall"
     type "location"
+    description "Hillevi Cruel-Sea's market stall"
   ]
   node [
     id 764
@@ -4621,6 +4653,7 @@ graph [
     id 775
     label "a mine whose tunnels are getting deep into the rock"
     type "location"
+    description "a mine whose tunnels are getting deep into the rock"
   ]
   node [
     id 776
@@ -4650,6 +4683,7 @@ graph [
     id 780
     label "on the road near Loreius Farm"
     type "location"
+    description "on the road near Loreius Farm"
   ]
   node [
     id 781
@@ -4727,6 +4761,7 @@ graph [
     id 793
     label "ashore"
     type "location"
+    description "ashore"
   ]
   node [
     id 794
@@ -4774,6 +4809,7 @@ graph [
     id 801
     label "walled orc camp"
     type "location"
+    description "walled orc camp"
   ]
   node [
     id 802
@@ -4815,6 +4851,7 @@ graph [
     id 808
     label "outside by the pool"
     type "location"
+    description "outside by the pool"
   ]
   node [
     id 809
@@ -4892,6 +4929,7 @@ graph [
     id 821
     label "Temple"
     type "location"
+    description "Temple"
   ]
   node [
     id 822
@@ -4981,6 +5019,7 @@ graph [
     id 836
     label "Dravin Llanith's farm"
     type "location"
+    description "Dravin Llanith's farm"
   ]
   node [
     id 837
@@ -5034,6 +5073,7 @@ graph [
     id 845
     label "out in the wilderness"
     type "location"
+    description "out in the wilderness"
   ]
   node [
     id 846
@@ -5051,6 +5091,7 @@ graph [
     id 848
     label "the Gildergreen in Whiterun"
     type "location"
+    description "the Gildergreen in Whiterun"
   ]
   node [
     id 849
@@ -5122,6 +5163,7 @@ graph [
     id 860
     label "Azura's shrine, up the steps to the altar"
     type "location"
+    description "Azura's shrine, up the steps to the altar"
   ]
   node [
     id 861
@@ -5235,6 +5277,7 @@ graph [
     id 879
     label "outside the catacombs"
     type "location"
+    description "outside the catacombs"
   ]
   node [
     id 880
@@ -5294,6 +5337,7 @@ graph [
     id 889
     label "a cold land"
     type "location"
+    description "a cold land"
   ]
   node [
     id 890
@@ -5911,11 +5955,6 @@ graph [
   ]
   edge [
     source 15
-    target 186
-    label "NA"
-  ]
-  edge [
-    source 15
     target 50
     label "present in"
   ]
@@ -5931,7 +5970,7 @@ graph [
   ]
   edge [
     source 15
-    target 903
+    target 27
     label "NA"
   ]
   edge [
@@ -5971,7 +6010,7 @@ graph [
   ]
   edge [
     source 20
-    target 903
+    target 27
     label "NA"
   ]
   edge [
@@ -6166,7 +6205,7 @@ graph [
   ]
   edge [
     source 27
-    target 903
+    target 28
     label "NA"
   ]
   edge [
@@ -6706,6 +6745,11 @@ graph [
   ]
   edge [
     source 52
+    target 67
+    label "NA"
+  ]
+  edge [
+    source 52
     target 217
     label "NA"
   ]
@@ -6726,11 +6770,6 @@ graph [
   ]
   edge [
     source 53
-    target 313
-    label "NA"
-  ]
-  edge [
-    source 53
     target 527
     label "present in"
   ]
@@ -6742,11 +6781,6 @@ graph [
   edge [
     source 53
     target 436
-    label "NA"
-  ]
-  edge [
-    source 53
-    target 748
     label "NA"
   ]
   edge [
@@ -6923,11 +6957,6 @@ graph [
     source 65
     target 223
     label "connected to"
-  ]
-  edge [
-    source 67
-    target 282
-    label "NA"
   ]
   edge [
     source 67
@@ -7201,12 +7230,7 @@ graph [
   ]
   edge [
     source 91
-    target 276
-    label "NA"
-  ]
-  edge [
-    source 91
-    target 190
+    target 275
     label "NA"
   ]
   edge [
@@ -8121,6 +8145,11 @@ graph [
   ]
   edge [
     source 185
+    target 186
+    label "NA"
+  ]
+  edge [
+    source 185
     target 738
     label "NA"
   ]
@@ -8156,7 +8185,7 @@ graph [
   ]
   edge [
     source 190
-    target 277
+    target 275
     label "NA"
   ]
   edge [
@@ -8176,11 +8205,6 @@ graph [
   ]
   edge [
     source 193
-    target 199
-    label "NA"
-  ]
-  edge [
-    source 193
     target 350
     label "present in"
   ]
@@ -8188,6 +8212,11 @@ graph [
     source 193
     target 418
     label "present in"
+  ]
+  edge [
+    source 194
+    target 199
+    label "NA"
   ]
   edge [
     source 195
@@ -8566,6 +8595,11 @@ graph [
   ]
   edge [
     source 275
+    target 277
+    label "NA"
+  ]
+  edge [
+    source 275
     target 322
     label "present in"
   ]
@@ -8723,6 +8757,11 @@ graph [
     source 306
     target 307
     label "held by"
+  ]
+  edge [
+    source 312
+    target 313
+    label "NA"
   ]
   edge [
     source 313
@@ -9098,6 +9137,11 @@ graph [
     source 436
     target 437
     label "present in"
+  ]
+  edge [
+    source 436
+    target 748
+    label "NA"
   ]
   edge [
     source 439

@@ -9,6 +9,7 @@ graph [
     id 1
     label "a dangerous cave system"
     type "location"
+    description "a dangerous cave system"
   ]
   node [
     id 2
@@ -26,6 +27,7 @@ graph [
     id 4
     label "the cavern north of here"
     type "location"
+    description "the cavern north of here"
   ]
   node [
     id 5
@@ -85,6 +87,7 @@ graph [
     id 14
     label "Lord Cor's home"
     type "location"
+    description "Lord Cor's home"
   ]
   node [
     id 15
@@ -114,6 +117,7 @@ graph [
     id 19
     label "temple of Lathander"
     type "location"
+    description "temple of Lathander"
   ]
   node [
     id 20
@@ -167,6 +171,7 @@ graph [
     id 28
     label "the Government District"
     type "location"
+    description "the Government District"
   ]
   node [
     id 29
@@ -190,6 +195,7 @@ graph [
     id 32
     label "the entrance to the large orange building"
     type "location"
+    description "the entrance to the large orange building"
   ]
   node [
     id 33
@@ -207,6 +213,7 @@ graph [
     id 35
     label "temple of Helm"
     type "location"
+    description "temple of Helm"
   ]
   node [
     id 36
@@ -308,6 +315,7 @@ graph [
     id 52
     label "the graveyard"
     type "location"
+    description "the graveyard"
   ]
   node [
     id 53
@@ -391,6 +399,7 @@ graph [
     id 66
     label "Mekrath's lair"
     type "location"
+    description "Mekrath's lair"
   ]
   node [
     id 67
@@ -468,6 +477,7 @@ graph [
     id 79
     label "the south end of the Windspear Hills"
     type "location"
+    description "the south end of the Windspear Hills"
   ]
   node [
     id 80
@@ -491,6 +501,7 @@ graph [
     id 83
     label "Tiris and Jenia's home"
     type "location"
+    description "Tiris and Jenia's home"
   ]
   node [
     id 84
@@ -658,6 +669,7 @@ graph [
     id 111
     label "a large city"
     type "location"
+    description "a large city"
   ]
   node [
     id 112
@@ -705,6 +717,7 @@ graph [
     id 119
     label "near the docks in Brynnlaw"
     type "location"
+    description "near the docks in Brynnlaw"
   ]
   node [
     id 120
@@ -836,6 +849,7 @@ graph [
     id 141
     label "next to Dawnlord Arenthis"
     type "location"
+    description "next to Dawnlord Arenthis"
   ]
   node [
     id 142
@@ -859,6 +873,7 @@ graph [
     id 145
     label "outside the sphere-like building"
     type "location"
+    description "outside the sphere-like building"
   ]
   node [
     id 146
@@ -912,6 +927,7 @@ graph [
     id 154
     label "the Government District main building"
     type "location"
+    description "the Government District main building"
   ]
   node [
     id 155
@@ -995,6 +1011,7 @@ graph [
     id 168
     label "inn in the slums"
     type "location"
+    description "inn in the slums"
   ]
   node [
     id 169
@@ -1042,6 +1059,7 @@ graph [
     id 176
     label "Garren Windspear's home"
     type "location"
+    description "Garren Windspear's home"
   ]
   node [
     id 177
@@ -1083,6 +1101,7 @@ graph [
     id 183
     label "here with Cernick"
     type "location"
+    description "here with Cernick"
   ]
   node [
     id 184
@@ -1106,6 +1125,7 @@ graph [
     id 187
     label "a tomb"
     type "location"
+    description "a tomb"
   ]
   node [
     id 188
@@ -1129,6 +1149,7 @@ graph [
     id 191
     label "the player's castle"
     type "location"
+    description "the player's castle"
   ]
   node [
     id 192
@@ -1260,6 +1281,7 @@ graph [
     id 213
     label "with the player's mother"
     type "location"
+    description "with the player's mother"
   ]
   node [
     id 214
@@ -1277,6 +1299,7 @@ graph [
     id 216
     label "sewers"
     type "location"
+    description "sewers"
   ]
   node [
     id 217
@@ -1390,6 +1413,7 @@ graph [
     id 235
     label "Senior Armagaran Vulova's small house"
     type "location"
+    description "Senior Armagaran Vulova's small house"
   ]
   node [
     id 236
@@ -1407,6 +1431,7 @@ graph [
     id 238
     label "Aran Linvail's sanctum"
     type "location"
+    description "Aran Linvail's sanctum"
   ]
   node [
     id 239
@@ -1556,6 +1581,7 @@ graph [
     id 263
     label "Lazarus Librarus' store"
     type "location"
+    description "Lazarus Librarus' store"
   ]
   node [
     id 264
@@ -1585,6 +1611,7 @@ graph [
     id 268
     label "Marlowe's home"
     type "location"
+    description "Marlowe's home"
   ]
   node [
     id 269
@@ -1602,6 +1629,7 @@ graph [
     id 271
     label "the cavern"
     type "location"
+    description "the cavern"
   ]
   node [
     id 272
@@ -1619,6 +1647,7 @@ graph [
     id 274
     label "thieves' guild hall"
     type "location"
+    description "thieves' guild hall"
   ]
   node [
     id 275
@@ -1654,6 +1683,7 @@ graph [
     id 280
     label "the rival guild's hideout"
     type "location"
+    description "the rival guild's hideout"
   ]
   edge [
     source 0

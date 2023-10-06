@@ -9,6 +9,7 @@ graph [
     id 1
     label "Baldrick the Enchanter's store"
     type "location"
+    description "Baldrick the Enchanter's store"
   ]
   node [
     id 2
@@ -176,6 +177,7 @@ graph [
     id 29
     label "Vyrax's Tower"
     type "location"
+    description "Vyrax's Tower"
   ]
   node [
     id 30
@@ -397,6 +399,7 @@ graph [
     id 66
     label "near the altars in the Rotting Crypt"
     type "location"
+    description "near the altars in the Rotting Crypt"
   ]
   node [
     id 67
@@ -546,6 +549,7 @@ graph [
     id 91
     label "a dark realm"
     type "location"
+    description "a dark realm"
   ]
   node [
     id 92
@@ -617,6 +621,7 @@ graph [
     id 103
     label "an outpost"
     type "location"
+    description "an outpost"
   ]
   node [
     id 104
@@ -634,6 +639,7 @@ graph [
     id 106
     label "a safe place"
     type "location"
+    description "a safe place"
   ]
   node [
     id 107
@@ -747,6 +753,7 @@ graph [
     id 125
     label "Jessa and her father's camp"
     type "location"
+    description "Jessa and her father's camp"
   ]
   node [
     id 126
@@ -962,6 +969,7 @@ graph [
     id 161
     label "a desert"
     type "location"
+    description "a desert"
   ]
   node [
     id 162
@@ -979,6 +987,7 @@ graph [
     id 164
     label "next to the entrance to the Broken Mines"
     type "location"
+    description "next to the entrance to the Broken Mines"
   ]
   node [
     id 165
@@ -996,6 +1005,7 @@ graph [
     id 167
     label "Imperial Camp"
     type "location"
+    description "Imperial Camp"
   ]
   node [
     id 168
@@ -1091,6 +1101,7 @@ graph [
     id 183
     label "the entrance to the Forsaken Vaults, at a desert"
     type "location"
+    description "the entrance to the Forsaken Vaults, at a desert"
   ]
   node [
     id 184
@@ -1108,6 +1119,7 @@ graph [
     id 186
     label "the gate to the Forsaken Vaults"
     type "location"
+    description "the gate to the Forsaken Vaults"
   ]
   node [
     id 187
@@ -1161,6 +1173,7 @@ graph [
     id 195
     label "outside the dungeon"
     type "location"
+    description "outside the dungeon"
   ]
   node [
     id 196
@@ -1238,6 +1251,7 @@ graph [
     id 208
     label "Cacklespit's realm"
     type "location"
+    description "Cacklespit's realm"
   ]
   edge [
     source 0
@@ -1275,6 +1289,16 @@ graph [
     label "NA"
   ]
   edge [
+    source 4
+    target 83
+    label "NA"
+  ]
+  edge [
+    source 4
+    target 84
+    label "NA"
+  ]
+  edge [
     source 5
     target 6
     label "connected to"
@@ -1303,11 +1327,6 @@ graph [
     source 6
     target 7
     label "present in"
-  ]
-  edge [
-    source 7
-    target 83
-    label "NA"
   ]
   edge [
     source 8
@@ -1492,6 +1511,11 @@ graph [
   edge [
     source 35
     target 79
+    label "NA"
+  ]
+  edge [
+    source 35
+    target 87
     label "NA"
   ]
   edge [
@@ -1898,16 +1922,6 @@ graph [
     source 78
     target 79
     label "present in"
-  ]
-  edge [
-    source 79
-    target 87
-    label "NA"
-  ]
-  edge [
-    source 83
-    target 84
-    label "NA"
   ]
   edge [
     source 85

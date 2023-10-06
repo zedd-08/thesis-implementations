@@ -69,6 +69,7 @@ graph [
     id 11
     label "Villager's temple"
     type "location"
+    description "Villager's temple"
   ]
   node [
     id 12
@@ -230,6 +231,7 @@ graph [
     id 38
     label "a desert village"
     type "location"
+    description "a desert village"
   ]
   node [
     id 39
@@ -247,6 +249,7 @@ graph [
     id 41
     label "a snowy village"
     type "location"
+    description "a snowy village"
   ]
   node [
     id 42
@@ -762,6 +765,7 @@ graph [
     id 127
     label "village"
     type "location"
+    description "village"
   ]
   node [
     id 128
@@ -959,6 +963,7 @@ graph [
     id 160
     label "Nate's library"
     type "location"
+    description "Nate's library"
   ]
   node [
     id 161
@@ -1150,6 +1155,7 @@ graph [
     id 192
     label "wilderness"
     type "location"
+    description "wilderness"
   ]
   node [
     id 193
@@ -1416,11 +1422,6 @@ graph [
   edge [
     source 1
     target 177
-    label "connected to"
-  ]
-  edge [
-    source 1
-    target 178
     label "connected to"
   ]
   edge [
@@ -2002,6 +2003,11 @@ graph [
     source 172
     target 173
     label "held by"
+  ]
+  edge [
+    source 177
+    target 178
+    label "connected to"
   ]
   edge [
     source 182

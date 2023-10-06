@@ -1,206 +1,146 @@
 [
     {
-        "id": 59,
+        "id": 57,
+        "game": "BG1",
+        "kbs": {
+            "BG1281": [
+                "Shar-Teel Dosan",
+                "a man-hating warrior woman",
+                [
+                    [
+                        "type",
+                        "character"
+                    ]
+                ]
+            ],
+            "BG134": [
+                "gold",
+                "gold",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Shar-Teel Dosan"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the player is the leader of a party of adventurers that has both men and women: Shar-Teel Dosan only duels men",
+            "if Shar-Teel Dosan wins the duel the player has to give 20 gold to her",
+            "Shar-Teel Dosan will kill anyone who tries to interfere the duel"
+        ],
+        "quest": {
+            "title": "A duel with Shar-Teel Dosan",
+            "objective": "win duel against Shar-Teel Dosan",
+            "tasks": [
+                "select the male party member who shall duel Shar-Teel Dosan",
+                "win duel against Shar-Teel Dosan"
+            ],
+            "description": "Hold, traveler! I, Shar-Teel Dosan, challenge your best warrior to a duel. I don't fight women, so only men should step forward.\nI win, and you give me 20 gold. In the unlikely event that one of you bests me, I'll pledge my sword to your cause, however stupid it may be..\nWill your champion step forward? I only fight men, so your women will have to be satisfied with just watching. Don't entertain any thoughts about cheating. If any of the rest of you try to interfere in this fight, I'll kill them outright."
+        }
+    },
+    {
+        "id": 21,
         "game": "BG2",
         "kbs": {
-            "BG2178": [
-                "imps",
-                "two mischievous, small demons",
+            "BG273": [
+                "along the path to the east of the troll mound",
+                "along the path to the east of the troll mound",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "BG274": [
+                "Nilthiri",
+                "a shamaness, and the leader of the trolls of the troll mound",
                 [
                     [
                         "type",
                         "character"
+                    ],
+                    [
+                        "present in",
+                        "along the path to the east of the troll mound"
                     ]
                 ]
             ]
         },
         "plots": [
-            "there are five empty chests",
-            "a famous person will appear in front of each empty chest: each famous person will give the player a gift that belongs to another famous person and will give a hint about the gift's owner",
-            "the player must place each gift to the correct chest behind each famous person"
+            "the player is a druid",
+            "Nilthiri will overrun the grove if not stopped"
         ],
         "quest": {
-            "title": "Game of the Imps",
-            "objective": "play the imps' game",
+            "title": "Heeding the Spirit of the Grove",
+            "objective": "serve the grove as a leader bringing balance",
             "tasks": [
-                "place the gifts, and talk to the imps",
-                "play the imps' game"
+                "kill Nilthiri",
+                "serve the grove as a leader bringing balance"
             ],
-            "description": "We are two imps, little demonic people. We want to play a game.\nOkay, big peoples... this is how our game will go! There is five chests here with nothings in them! In front of each empty chest, a famous big people will appear! Famous big people! Oh, yes, powerful famous big people! Each famous big people will give you a gift that belongs to another famous big people... and they will hints to you what gifts belong to them! If you thinks you knows which famous big people a gift belongs to, you puts it in the empty chest behind them, yes? Very simple!\nOnce you places all five, you comes and asks us! If you wrong, we laugh at you! If you right, we open the sixth chest! The sixth chest has all of the drow's treasure! All of it!"
+            "description": "I am the spirit of the grove, child. I am the water, the earth, the trees, and the sun. I am life and death: the eternal cycle.\nA druid who serves the cause of balance is needed. The grove requires leadership, a gentle hand. Will you serve the grove as such? There is much work to be done. Listen and learn the path of balance, the path of the Eternal Cycle.\nLong have the trolls of the mound lived beneath the protection of the grove. But a new leader has arisen. Nilthiri the shamaness leads the trolls to chaos. She urges them to expand their territory, and she brings more trolls to the mound without thought to the consequences. If this continues, the trolls will overrun the grove, and nature will suffer. A servant of nature must bring the life cycle of Nilthiri to a close for the good of all.\nYou will find Nilthiri along the path to the east of the troll mound."
         }
     },
     {
-        "id": 139,
+        "id": 176,
         "game": "TESO",
         "kbs": {
-            "TESO355": [
-                "Count Hassildor",
-                "a nobleman who rules over Skingrad",
+            "TESO251": [
+                "Kud-Ei",
+                "the player's superior in the Mages Guild",
                 [
                     [
                         "type",
                         "character"
-                    ],
+                    ]
+                ]
+            ],
+            "TESO542": [
+                "Ardaline",
+                "a female mage who is bullied by Varon Vamori",
+                [
                     [
-                        "present in",
-                        "Skingrad"
+                        "type",
+                        "character"
+                    ]
+                ]
+            ],
+            "TESO543": [
+                "Varon Vamori",
+                "a man",
+                [
+                    [
+                        "type",
+                        "character"
                     ]
                 ]
             ]
         },
         "plots": [
-            "Count Hassildor of Skingrad contacted the Council of Mages: he has important information",
-            "Count Hassildor has asked for the player, specifically"
+            "the player asked a recommendation from Kud-Ei",
+            "Varon Vamori stole Ardaline's mage's staff",
+            "Kud-Ei gives the player a scroll with a powerful Illusion charm spell"
         ],
         "quest": {
-            "title": "Information at a Price",
-            "objective": "receive vital information from Count Hassildor",
+            "title": "Mixed Feelings",
+            "objective": "recover Ardaline's mage's staff",
             "tasks": [
-                "Go to Skingrad.",
-                "visit Count Hassildor",
-                "receive vital information from Count Hassildor"
+                "charm Varon Vamori and make him tell you where Ardaline's mage's staff is",
+                "recover Ardaline's mage's staff"
             ],
-            "description": "There is an urgent matter which requires your personal attention. This task falls to you, and only you.\nCount Hassildor of Skingrad has contacted the Council. He claims to have information that is vital to us. He has requested that you personally travel to Skingrad to obtain this information. I cannot stress how important it is that our relationship with Hassildor be preserved. I expect you to visit him immediately.\nI am unsure as to why he has requested that you, of all people, should be the one to visit him. I have no wish to put you in harm's way.\nPlease, travel there as soon as possible. The Count is waiting for you."
-        }
-    },
-    {
-        "id": 58,
-        "game": "TESS",
-        "kbs": {
-            "TESS227": [
-                "Kodlak",
-                "the dead male leader of the Companions",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Sovngarde"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Kodlak's final teaching: those with beastblood cannot enter Sovngarde",
-            "the player has a head of the Glenmoril that is needed to cure lycanthropy"
-        ],
-        "quest": {
-            "title": "Purity",
-            "objective": "handle Vilkas' personal troubles",
-            "tasks": [
-                "Go to Tomb of Ysgramor.",
-                "help Vilkas give up his beastblood",
-                "handle Vilkas' personal troubles"
-            ],
-            "description": "There is always work for the Companions. But there is more personal task before me.\nKodlak's final teaching is troubling me. I think he was right about beastblood and Sovngarde. I wish to cleanse myself that I might know glory in the afterlife.\nWill you help me give up my beasthood? You still bear a head of the Glenmoril betrayers, yes? Then lead on, back to the Tomb of Ysgramor.\nMy soul is now prepared."
-        }
-    },
-    {
-        "id": 46,
-        "game": "TESS",
-        "kbs": {
-            "TESS189": [
-                "Festus Krex",
-                "a fellow Dark Brotherhood member",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "the keep in Markarth"
-                    ]
-                ]
-            ],
-            "TESS190": [
-                "Markarth",
-                "a city",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "TESS191": [
-                "the keep in Markarth",
-                "the keep in Markarth",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "TESS192": [
-                "Gourmet",
-                "a famous master chef, whose true identity is not known",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "the keep in Markarth"
-                    ]
-                ]
-            ],
-            "TESS193": [
-                "Astrid",
-                "the female guildmaster of the Dark Brotherhood",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "the keep in Markarth"
-                    ]
-                ]
-            ],
-            "TESS194": [
-                "Anton Virane",
-                "a male cook",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "the keep in Markarth"
-                    ],
-                    [
-                        "present in",
-                        "Markarth"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Astrid told the player about killing the Gourmet and taking his identity",
-            "the player should hide the Gourmet's body if they can"
-        ],
-        "quest": {
-            "title": "Recipe for Death",
-            "objective": "assassinate the Gourmet, a famous master chef, and get his Writ of Passage to assume his identity",
-            "tasks": [
-                "question Anton Virane to learn the true identity of the Gourmet, and kill Anton Virane",
-                "assassinate the Gourmet, a famous master chef, and get his Writ of Passage to assume his identity"
-            ],
-            "description": "Let's get down to business. Astrid told you about the Gourmet, I hope? That you need to kill him and take on his identity?\nBut first you'll need to learn who he is. Assuming, of course, that the Gourmet actually is a \"he.\" Could be a woman for all we know. In my, um, investigations, I came upon this. It's a copy of the Gourmet's cookbook. Ah, but not just any copy. It's signed you see! Seems to be a message from the Gourmet to one Anton Virane. I've tracked Virane to the keep in Markarth. It would seem he's the cook.\nYou are to obtain that information from Virane - who the Gourmet really is, and where he can be found. Oh, and when you're done with Virane, kill him. Loose ends and all that.\nAs I was saying... You'll need to kill the Gourmet, of course. But what's more, you'll need to get his Writ of Passage, so you can take his place. Oh, and if you can, hide his body. The longer it takes for anyone else to determine his real identity, the better.\nNow off with you!"
+            "description": "I'm afraid I haven't had time to prepare anything conventional for your recommendation. I'm very preoccupied with this situation concerning Ardaline.\nPerhaps you can help with that, however. I can't directly get involved, for fear of embarrassing the poor girl. Varon Vamori's been bothering Ardaline every day for a while now. He even stole her Mages' Staff! Perhaps he thinks it's amusing; I don't know. But it needs to stop. It's making her miserable.\nI'll need you to have a little chat with Varon Vamori to get Ardaline's staff back, and you can learn something about the power of Illusion in the process. Take this charm scroll. With it, you should find Varon more receptive to questioning.\nDon't come back without that staff. I'll write you a recommendation for your help."
         }
     },
     {
         "id": 13,
         "game": "TL2",
         "kbs": {
-            "TL271": [
+            "TL276": [
                 "Fade",
                 "an immortal spirit who covets the remains of the living",
                 [
@@ -214,7 +154,7 @@
                     ]
                 ]
             ],
-            "TL274": [
+            "TL279": [
                 "Sundered Battlefield",
                 "an ancient battleground",
                 [
@@ -228,7 +168,7 @@
                     ]
                 ]
             ],
-            "TL273": [
+            "TL278": [
                 "Cacklespit's Realm",
                 "a hidden realm",
                 [
@@ -238,7 +178,7 @@
                     ]
                 ]
             ],
-            "TL275": [
+            "TL280": [
                 "skulls of famous warriors",
                 "skulls of famous warriors",
                 [
@@ -267,12 +207,12 @@
         }
     },
     {
-        "id": 84,
+        "id": 75,
         "game": "BG2",
         "kbs": {
-            "BG2244": [
-                "Lazarus Librarus",
-                "a wizard merchant with magical wares, and a newcomer in this town",
+            "BG2233": [
+                "Bodhi",
+                "a courteous woman",
                 [
                     [
                         "type",
@@ -280,480 +220,112 @@
                     ],
                     [
                         "present in",
-                        "Lazarus Librarus' store"
+                        "the docks"
                     ]
                 ]
             ],
-            "BG2245": [
-                "Lazarus Librarus' store",
-                "Lazarus Librarus' store",
+            "BG2153": [
+                "the docks",
+                "the docks",
                 [
                     [
                         "type",
                         "location"
-                    ],
-                    [
-                        "connected to",
-                        "Tankard Tree"
-                    ]
-                ]
-            ],
-            "BG2246": [
-                "Tankard Tree",
-                "the local pub",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "BG2247": [
-                "Hectan",
-                "a known thief",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Tankard Tree"
                     ]
                 ]
             ]
         },
         "plots": [
-            "Lazarus Librarus' does not have anything for the player to purchase",
-            "Lazarus Librarus' spellbook was stolen: he cannot fashion scrolls without his spellbook",
-            "Lazarus Librarus suspected Hectan, but he was at the local pub from dusk until dawn the night of the theft"
+            "Bodhi wants to break a monopoly in this town",
+            "the shipment of supplies arrives by boat: if the player does not get the shipment of supplies in the next few days, the player will fail"
         ],
         "quest": {
-            "title": "Lazarus' Missing Spellbook",
-            "objective": "return Lazarus Librarus' spellbook to him",
+            "title": "Breaking a Monopoly",
+            "objective": "weaken the \"resources\" of the Shadow Thieves",
             "tasks": [
-                "Go to Tankard Tree.",
-                "talk to Hectan",
-                "return Lazarus Librarus' spellbook to him"
+                "steal the shipment of supplies belonging to the Shadow Thieves",
+                "weaken the \"resources\" of the Shadow Thieves"
             ],
-            "description": "Lazarus Librarus at your service. I would normally invite you to look at my magical wares, but alas, my shelves are completely bare. I have not even a single parchment left for you to purchase.\nMy spellbook has been stolen! Without it, I cannot fashion the powerful scrolls which normally fill my shop. Please, mighty traveler... I beg of you to help a humble wizard! At first, I suspected Hectan... he is well known about town for his sticky fingers. But after questioning many witnesses, it is clear that Hectan was at the local pub from dusk until dawn the night of the theft. I still suspect that no-good thief Hectan was involved \u2014 I can clearly see the guilt in his face! But there is no proof. Without my spellbook, I am virtually powerless to pursue this myself, and as a newcomer to this town, I have no one to turn to for help.\nI regret that there is little else I can tell you. Hectan can usually be found in the Tankard Tree if you wish to question him.\nI urge you godspeed."
+            "description": "I am Bodhi, and I greet you warmly.\nThere is a monopoly in this town, and I intend to break it. I will ask you to weaken the \"resources\" of the Shadow Thieves. I wish a campaign of disruption, and you will begin it. There is a shipment of supplies arriving by boat. You are to... confiscate it.\nI suggest you move against that ship coming in. They won't be at the docks for long, and if you do not get the cargo in the next few days, you will fail.\nFarewell and good fortune."
         }
     },
     {
-        "id": 146,
-        "game": "TESS",
+        "id": 109,
+        "game": "TESO",
         "kbs": {
-            "TESS563": [
-                "Kesh the Clean",
-                "a worshiper of Peryite",
+            "TESO116": [
+                "Ocheeva",
+                "the player's superior in the Dark Brotherhood",
                 [
                     [
                         "type",
                         "character"
+                    ],
+                    [
+                        "present in",
+                        "Imperial City"
                     ]
                 ]
             ],
-            "TESS564": [
-                "Peryite",
-                "the god of infection and pestilence",
+            "TESO26": [
+                "Imperial City",
+                "a large city with many districts",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESO387": [
+                "Faelian",
+                "a male high Elf, who fancies long walks, living somewhere in the Imperial City",
                 [
                     [
                         "type",
                         "character"
+                    ],
+                    [
+                        "present in",
+                        "Imperial City"
+                    ]
+                ]
+            ],
+            "TESO329": [
+                "Adamus Phillida",
+                "a male Imperial Legion captain, who has dedicated his life to eradicating the Dark Brotherhood",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Imperial City"
                     ]
                 ]
             ]
         },
         "plots": [
-            "the player asked Kesh the Clean about speaking with Peryite",
-            "deathbell grow in the frozen tundra",
-            "the player might find the ruby and silver in a mine",
-            "vampire dust comes from vampires"
+            "finding Faelian will be challenging: the player should speak to their fellow Dark Brotherhood members for advice",
+            "Adamus Phillida does not tolerate Dark Brotherhood operations within the Imperial City"
         ],
         "quest": {
-            "title": "An Ill Meeting",
-            "objective": "make incense with Kesh the Clean",
+            "title": "The Lonely Wanderer",
+            "objective": "assassinate Faelian without attraction the attention of Adamus Phillida",
             "tasks": [
-                "gather a deathbell flower, one silver ingot, a flawless ruby, and some vampire dust for making the incense",
-                "make incense with Kesh the Clean"
+                "Go to Imperial City.",
+                "find Faelian",
+                "assassinate Faelian without attraction the attention of Adamus Phillida"
             ],
-            "description": "Not everyone has the stomach required to entreat my Lord. He is the pus in the wound. Oh, proper ones curl their noses, but it's pus that drinks foul humors and restores the blood. But Kesh likes you, friend.\nThere is a way Peryite may speak to us who will take Him in. If you wish to commune with Him, we'll need the incense. Fetch for me a deathbell flower, one silver ingot, a flawless ruby, and some vampire dust. Then I will show you how.\nHow to gather the ingredients? This one would try a shop. You might prefer the direct route, hm? Deathbell grow in the frozen tundra. You might nip into a mine for the ruby and silver. Vampire Dust is tricky. Vampires, you know."
-        }
-    },
-    {
-        "id": 251,
-        "game": "TESS",
-        "kbs": {
-            "TESS958": [
-                "Aranea Ienith",
-                "an old priestess of Azura",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Azura's shrine, up the steps to the altar"
-                    ]
-                ]
-            ],
-            "TESS959": [
-                "Azura's shrine, up the steps to the altar",
-                "Azura's shrine, up the steps to the altar",
-                [
-                    [
-                        "type",
-                        "location"
-                    ],
-                    [
-                        "connected to",
-                        "Winterhold"
-                    ]
-                ]
-            ],
-            "TESS960": [
-                "Winterhold",
-                "a fortress, endangered by water, yet untouched by it",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "TESS961": [
-                "Azura",
-                "the queen of the night sky, a goddess",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Azura's shrine, up the steps to the altar"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Azura has given Aranea Ienith the gift of foresight"
-        ],
-        "quest": {
-            "title": "The Black Star",
-            "objective": "become the champion of Azura",
-            "tasks": [
-                "Go to Winterhold.",
-                "ask around about an elven mage who can turn the brightest star as black as night",
-                "become the champion of Azura"
-            ],
-            "description": "Azura has seen your coming, traveler. It was not curiosity, but fate, that has led you here.\nAzura has given me the gift of foresight. I had a vision of you walking up the steps to this altar long before you were born. You have been chosen to be her champion. I know it is unexpected, but do not worry. It will all unfold as she has predicted.\nYou must go to a fortress, endangered by water, yet untouched by it. Inside, you will find an elven mage who can turn the brightest star as black as night. It is cryptic, I know, but Azura's signs are never wrong. I believe the fortress may refer to Winterhold. Ask if they know this elven enchanter."
-        }
-    },
-    {
-        "id": 23,
-        "game": "MC",
-        "kbs": {
-            "MC57": [
-                "Kevin",
-                "a curious man",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ],
-            "MC58": [
-                "The End",
-                "a mysterious, hard to reach dimension",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "MC59": [
-                "Chorus Fruits",
-                "strange fruits that might teleport the player a short distance when eaten",
-                [
-                    [
-                        "type",
-                        "object"
-                    ],
-                    [
-                        "held by",
-                        "Kevin"
-                    ],
-                    [
-                        "present in",
-                        "The End"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Kevin wants knowledge"
-        ],
-        "quest": {
-            "title": "A More Than Exotic Fruit",
-            "objective": "bring 6 Chorus Fruits to Kevin",
-            "tasks": [
-                "Go to The End.",
-                "find 6 Chorus Fruits",
-                "bring 6 Chorus Fruits to Kevin"
-            ],
-            "description": "Traveler! Did you know that our dimension is one among many. There exists a dimension called \"The End\". It is a mysterious place, and supposedly hard to reach.\nI yearn to know more about that dimension. I have heard vague rumors about fruits native to the End that might teleport you a tiny distance when digested. They are called Chorus Fruits.\nIf you get your hands on six Chorus Fruits, I promise to reward you well with 12 diamonds. Please help a man sate his ever-growing curiosity."
-        }
-    },
-    {
-        "id": 165,
-        "game": "TESS",
-        "kbs": {
-            "TESS614": [
-                "College of Winterhold",
-                "a college for mages",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the aspiring wizard wants to join the College of Winterhold"
-        ],
-        "quest": {
-            "title": "Magic Student",
-            "objective": "help an aspiring wizard learn warding spells",
-            "tasks": [
-                "raise your own warding spell and allow the aspiring wizard to cast a spell at it",
-                "help an aspiring wizard learn warding spells"
-            ],
-            "description": "I've finally found you! I want to join the College of Winterhold. But I need help with my wards. Can you teach me?\nSo, first, you raise your ward and I'll throw a little spell at it. That way I can see the 'right' way to do things."
-        }
-    },
-    {
-        "id": 225,
-        "game": "TESS",
-        "kbs": {
-            "TESS865": [
-                "Hillevi Cruel-Sea",
-                "a food vendor",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Hillevi Cruel-Sea's market stall"
-                    ]
-                ]
-            ],
-            "TESS866": [
-                "Hillevi Cruel-Sea's market stall",
-                "Hillevi Cruel-Sea's market stall",
-                [
-                    [
-                        "type",
-                        "location"
-                    ],
-                    [
-                        "connected to",
-                        "Hollyfrost Farm"
-                    ]
-                ]
-            ],
-            "TESS867": [
-                "Hollyfrost Farm",
-                "a farm owned by Hillevi Cruel-Sea's family",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "TESS868": [
-                "Wuunferth",
-                "the male court wizard",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Hillevi Cruel-Sea's market stall"
-                    ]
-                ]
-            ],
-            "TESS869": [
-                "Nightshade",
-                "a poisonous plant",
-                [
-                    [
-                        "type",
-                        "object"
-                    ],
-                    [
-                        "held by",
-                        "Hillevi Cruel-Sea"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Hillevi Cruel-Sea's goods are grown at Hollyfrost Farm"
-        ],
-        "quest": {
-            "title": "Who to Poison?",
-            "objective": "deliver a bottle of Nightshade extract to Wuunferth",
-            "tasks": [
-                "find Wuunferth",
-                "deliver a bottle of Nightshade extract to Wuunferth"
-            ],
-            "description": "Everything you see is grown at my family's own Hollyfrost Farm. Fresh and filling.\nI also do a little herb growing. The court wizard, Wuunferth, pays us to plant a little Nightshade. Who knows what he uses it for? A poison like that?\nHey, could you deliver this bottle of Nightshade extract to Wuunferth?"
-        }
-    },
-    {
-        "id": 245,
-        "game": "TESS",
-        "kbs": {
-            "TESS941": [
-                "Maramal",
-                "a priest of Mara",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Temple of Mara"
-                    ]
-                ]
-            ],
-            "TESS943": [
-                "Temple of Mara",
-                "Temple of Mara",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "TESS944": [
-                "Mara",
-                "the goddess of love",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Temple of Mara"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the player told Maramal that the player wants to get married",
-            "these are difficult times"
-        ],
-        "quest": {
-            "title": "The Bonds of Matrimony",
-            "objective": "get married",
-            "tasks": [
-                "Go to .",
-                "attend your wedding tomorrow, from dawn until dusk",
-                "get married"
-            ],
-            "description": "Mara is the Goddess of Love. The temple spreads her gifts by tending to the sick, the poor, and the lost. We also perform wedding ceremonies for all the loving couples.\nYou wish to be married to your future spouse? It's good to see love blossoming, even during these difficult times. Your wedding will be held tomorrow, from dawn until dusk, in the Temple of Mara."
-        }
-    },
-    {
-        "id": 51,
-        "game": "BG1",
-        "kbs": {
-            "BG1280": [
-                "Farthing",
-                "a 5 year old girl",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "the village"
-                    ]
-                ]
-            ],
-            "BG1281": [
-                "the village",
-                "the village",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "BG1282": [
-                "the woods",
-                "the woods",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "BG1283": [
-                "Farthing's doll",
-                "Farthing's doll",
-                [
-                    [
-                        "type",
-                        "object"
-                    ],
-                    [
-                        "held by",
-                        "Farthing"
-                    ],
-                    [
-                        "present in",
-                        "the woods"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the gatekeeper won't let Farthing go and get her doll"
-        ],
-        "quest": {
-            "title": "Farthing's Dolly",
-            "objective": "return Farthing's doll to her",
-            "tasks": [
-                "Go to .",
-                "find Farthing's doll",
-                "return Farthing's doll to her"
-            ],
-            "description": "My name's Farthing. I'm only five. In a few years my papa will let me hunt. Are you allowed to hunt?\nI've lost my dolly out in the woods. The gatekeeper won't let me go and get it. Can you get it for me?"
+            "description": "In the Imperial City there lives a High Elf who must be removed from existence. Finding this person may prove... challenging. Are you interested?\nYour target is a High Elf named Faelian. He lives somewhere in the Imperial City, and fancies long walks. Unfortunately, that's all we know. We don't know which district he calls home, which establishments he frequents, or anything about his schedule.\nThis contract will require a bit of detective work. I suggest you to speak to your fellow Brothers and Sisters and see if they can offer any advice. Ah yes, there is one more thing. The Imperial City is also home to an Imperial Legion captain named Adamus Phillida. Phillida has dedicated his life to eradicating the Dark Brotherhood. He will not tolerate our operations within the Imperial City.\nWhen that happens, he tends to make our lives uncomfortable. Let's not give the good captain any reason to go poking around in our affairs, hmm? If possible, do away with Faelian someplace out of the way. Definitely indoors, with no other people around. A secure location, with no witnesses. This will make it look like a simple murder. Phillida will be none the wiser, and you'll receive a nice bonus.\nNow go, and may the Reaper of Souls go with you."
         }
     },
     {
         "id": 32,
         "game": "BG2",
         "kbs": {
-            "BG2106": [
+            "BG2109": [
                 "Aerie",
                 "a scared winged elf",
                 [
@@ -767,7 +339,7 @@
                     ]
                 ]
             ],
-            "BG2107": [
+            "BG2110": [
                 "in the north side of this chamber",
                 "in the north side of this chamber",
                 [
@@ -777,7 +349,7 @@
                     ]
                 ]
             ],
-            "BG2108": [
+            "BG2111": [
                 "Quayle",
                 "Aerie's uncle",
                 [
@@ -810,12 +382,12 @@
         }
     },
     {
-        "id": 75,
-        "game": "BG2",
+        "id": 38,
+        "game": "TESS",
         "kbs": {
-            "BG2220": [
-                "Bodhi",
-                "a courteous woman",
+            "TESS148": [
+                "Shahvee",
+                "an Argonian woman",
                 [
                     [
                         "type",
@@ -823,42 +395,55 @@
                     ],
                     [
                         "present in",
-                        "the docks"
+                        "Black Marsh"
                     ]
                 ]
             ],
-            "BG2221": [
-                "the docks",
-                "the docks",
+            "TESS149": [
+                "Black Marsh",
+                "a province",
                 [
                     [
                         "type",
                         "location"
+                    ]
+                ]
+            ],
+            "TESS150": [
+                "Zenithar",
+                "the god of wealth",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Black Marsh"
                     ]
                 ]
             ]
         },
         "plots": [
-            "Bodhi wants to break a monopoly in this town",
-            "the shipment of supplies arrives by boat: if the player does not get the shipment of supplies in the next few days, the player will fail"
+            "thieves stole Shahvee's sacred amulet of Zenithar as soon as she bought it"
         ],
         "quest": {
-            "title": "Breaking a Monopoly",
-            "objective": "weaken the \"resources\" of the Shadow Thieves",
+            "title": "Good Fortunes",
+            "objective": "retrieve Shahvee's amulet for her",
             "tasks": [
-                "steal the shipment of supplies belonging to the Shadow Thieves",
-                "weaken the \"resources\" of the Shadow Thieves"
+                "find Shahvee's amulet",
+                "retrieve Shahvee's amulet for her"
             ],
-            "description": "I am Bodhi, and I greet you warmly.\nThere is a monopoly in this town, and I intend to break it. I will ask you to weaken the \"resources\" of the Shadow Thieves. I wish a campaign of disruption, and you will begin it. There is a shipment of supplies arriving by boat. You are to... confiscate it.\nI suggest you move against that ship coming in. They won't be at the docks for long, and if you do not get the cargo in the next few days, you will fail.\nFarewell and good fortune."
+            "description": "I'm Shahvee.\nWe Argonians have not fared well outside our native Black Marsh, but we're determined to make the best of things.\nI began praying to Zenithar, the god of wealth, to bring us some fortune, but thieves made off with my sacred amulet almost as soon as I bought it.\nIf you found my Amulet, Shahvee would be in your debt, kind one."
         }
     },
     {
-        "id": 46,
-        "game": "TL2",
+        "id": 5,
+        "game": "BG2",
         "kbs": {
-            "TL2211": [
-                "Trill-Bot 4000",
-                "the player's robot friend",
+            "BG225": [
+                "Talon Yarryl",
+                "a priest of Talos",
                 [
                     [
                         "type",
@@ -866,37 +451,51 @@
                     ],
                     [
                         "present in",
-                        "outside the dungeon"
+                        "Athkatla"
+                    ]
+                ]
+            ],
+            "BG212": [
+                "Athkatla",
+                "",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "BG219": [
+                "Sir Sarles",
+                "a good artist who is also a pretentious and demanding man",
+                [
+                    [
+                        "type",
+                        "character"
                     ],
                     [
                         "present in",
-                        "dungeon"
+                        "Athkatla"
                     ]
                 ]
             ],
-            "TL2212": [
-                "outside the dungeon",
-                "outside the dungeon",
+            "BG223": [
+                "Talos",
+                "the evil god of thunder and destruction",
                 [
                     [
                         "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "TL2213": [
-                "dungeon",
-                "dungeon",
-                [
+                        "character"
+                    ],
                     [
-                        "type",
-                        "location"
+                        "present in",
+                        "Athkatla"
                     ]
                 ]
             ],
-            "TL2214": [
-                "Azimuthoscope",
-                "an important component of Trill-Bot 4000",
+            "BG226": [
+                "illithium",
+                "an expensive material",
                 [
                     [
                         "type",
@@ -904,30 +503,672 @@
                     ],
                     [
                         "held by",
-                        "Trill-Bot 4000"
+                        "Talon Yarryl"
                     ]
                 ]
             ]
         },
         "plots": [
-            "the player showed Trill-Bot 4000 a robot component"
+            "Sir Sarles demands illithium as his art medium",
+            "if the player sees the representatives of the other churches, the player must kill them"
         ],
         "quest": {
-            "title": "Getting One's Bearings",
-            "objective": "find the Azimuthoscope",
+            "title": "Gain the services of Sir Sarles for the Temple of Talos",
+            "objective": "convince Sir Sarles to create a work of art for the temple of Talos",
+            "tasks": [
+                "Go to Athkatla.",
+                "find Sir Sarles",
+                "convince Sir Sarles to create a work of art for the temple of Talos"
+            ],
+            "description": "I, Talon Yarryl, priest of Talos, have a mission for you!\nTalos demands proper tribute, and that occasionally means artwork pleasing to the eye. If a piece of his fury can be represented, more might see and fear it.\nAn artist visits Athkatla now. The artist travels under the name Sir Sarles, though it is surely a fake. He is pretentious, demanding, and very good.\nWe must command a commission from him. But he is not being cooperative. His commission is outlandish, and he demands illithium as his medium! He may as well have asked for dragon tears.\nConvince him to work for Talos. Use whatever means you must. Other churches are trying the same... if you cross their representatives, kill them.\nIncur what debts you must, and use force where it will help. Stop at nothing. This man must realize there is no choice but to work in the service of Talos."
+        }
+    },
+    {
+        "id": 76,
+        "game": "BG2",
+        "kbs": {
+            "BG2233": [
+                "Bodhi",
+                "a courteous woman, and an enemy of the Shadow Thieves",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "on the second floor of the Shadow Thief guild house"
+                    ]
+                ]
+            ],
+            "BG2234": [
+                "on the second floor of the Shadow Thief guild house",
+                "on the second floor of the Shadow Thief guild house",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "BG2235": [
+                "Palern Flynn",
+                "a former male member of the Shadow Thieves",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "on the second floor of the Shadow Thief guild house"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the player has done assignments to Bodhi before",
+            "Palern Flynn betrayed the Shadow Thieves: the Shadow Thieves have been questioning Palern Flynn ruthlessly for some days",
+            "Palern Flynn will be killed once the Shadow Thieves are through"
+        ],
+        "quest": {
+            "title": "A Rescue Mission",
+            "objective": "do not let the Shadow Thieves kill Palern Flynn",
+            "tasks": [
+                "rescue Palern Flynn",
+                "do not let the Shadow Thieves kill Palern Flynn"
+            ],
+            "description": "I will give you your next assignment.\nThe Shadow Thieves have other enemies besides me. Recently, they uncovered a traitor, and have been questioning him quite ruthlessly for some days now.\nYou will rescue him. He will be killed once they are through, so go quickly. They have him at the Shadow Thief guild house on the second floor. You know the building, I think? The man's name is Palern Flynn. Remember, if he dies, you fail.\nGood luck."
+        }
+    },
+    {
+        "id": 80,
+        "game": "MC",
+        "kbs": {
+            "MC176": [
+                "Dan",
+                "a lamenting mason",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Stoneburg"
+                    ]
+                ]
+            ],
+            "MC178": [
+                "Stoneburg",
+                "a large village",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Dan wants reputation",
+            "the player is a friend of Dan"
+        ],
+        "quest": {
+            "title": "A Market for Stone",
+            "objective": "help Dan promote his stoneworks",
+            "tasks": [
+                "hand out promotional pamphlets to villagers",
+                "help Dan promote his stoneworks"
+            ],
+            "description": "No one in this village buys the beautiful stones cut by me. I'm a failure of a mason!\nFriend, could you promote my stoneworks? I really could use more customers. This village is quite large, there ought to be at least a few villagers who might be interested in my stone bricks and other stoneworks. Just hand out some promotional pamphlets to the villagers of Stoneburg.\nYou'll even net a load of emeralds for your services, my friend."
+        }
+    },
+    {
+        "id": 51,
+        "game": "MC",
+        "kbs": {
+            "MC106": [
+                "Kate",
+                "a woman who used to be a pirate queen",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Seaside Settlement"
+                    ]
+                ]
+            ],
+            "MC108": [
+                "Seaside Settlement",
+                "a coastal village",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "a beach not that far away from Seaside Settlement"
+                    ]
+                ]
+            ],
+            "MC109": [
+                "a beach not that far away from Seaside Settlement",
+                "a beach not that far away from Seaside Settlement",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Kate wants serenity",
+            "Kate has heard that the player helps people",
+            "Kate gives the player a map that points the player to the buried treasure"
+        ],
+        "quest": {
+            "title": "Roguish Past",
+            "objective": "bring Kate's notebook to her",
             "tasks": [
                 "Go to .",
-                "follow the trail of Trill-Bot 4000's parts",
-                "find the Azimuthoscope"
+                "find the buried treasure",
+                "bring Kate's notebook to her"
             ],
-            "description": "I believe you have found one of my missing components! There appears to be a trail of them, leading toward that dungeon.\nIf you follow the trail of my Parts, it might lead you to my Azimuthoscope: the component I need to direct you to another treasure trove!"
+            "description": "I have not always been a simple villager of Seaside Settlement. I was a pirate queen: I pillaged many a ship that linger the bottom of the ocean with my crew.\nAlas, my life was turned upside down one fateful day: my ship sank, and I washed up to the shore. A kind villager from this very village found me and helped me regain my strength. I left my pirate days behind, and settled down in Seaside Settlement.\nHowever, I'd still like to obtain my notebook from those days: I accidentally dropped it into the last treasure chest we buried into the ground. My adventuring days are over: you, however, are known to do odd tasks of more or less adventurous nature to others. I'll give you my treasure map: it will lead you to the buried treasure.\nYou may keep the buried treasure to yourself, I just ask you to give me my notebook."
+        }
+    },
+    {
+        "id": 221,
+        "game": "TESS",
+        "kbs": {
+            "TESS291": [
+                "Commander Maro",
+                "an army officer who has tracked the movements of the Dark Brotherhood",
+                [
+                    [
+                        "type",
+                        "character"
+                    ]
+                ]
+            ],
+            "TESS780": [
+                "Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood",
+                "Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS168": [
+                "Astrid",
+                "the female leader of the Dark Brotherhood",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood"
+                    ]
+                ]
+            ],
+            "TESS781": [
+                "the passphrase to the Dark Brotherhood Sanctuary: \"Silence, my brother.\"",
+                "the passphrase to the Dark Brotherhood Sanctuary: \"Silence, my brother.\"",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Commander Maro"
+                    ],
+                    [
+                        "present in",
+                        "Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the player told Commander Maro that the player killed Astrid"
+        ],
+        "quest": {
+            "title": "Destroy the Dark Brotherhood!",
+            "objective": "destroy the Dark Brotherhood",
+            "tasks": [
+                "use \"Silence, my brother.\" to enter the Dark Brotherhood Sanctuary",
+                "destroy the Dark Brotherhood"
+            ],
+            "description": "The leader of the Dark Brotherhood? You mean that woman Astrid? Dead? And this is no jest? Ha! This is a stroke of good fortune. Long have I watched the Dark Brotherhood's movements... waiting for the time to strike. That time is now!\nMy agents have recently acquired the passphrase to their Sanctuary. It is, \"Silence, my brother.\" Every assassin in that hole must be put down! You, my friend. You've slain their leader. This honor should be yours. Do this, and you will be rewarded most handsomely!"
+        }
+    },
+    {
+        "id": 115,
+        "game": "TESS",
+        "kbs": {
+            "TESS421": [
+                "Anska",
+                "an excited woman",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Vokun's crypt"
+                    ]
+                ]
+            ],
+            "TESS422": [
+                "Vokun's crypt",
+                "Vokun's crypt",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS423": [
+                "Vokun",
+                "a powerful old male priest who was buried long ago",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Vokun's crypt"
+                    ]
+                ]
+            ],
+            "TESS424": [
+                "Ysgramor",
+                "a famous male hero of old",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Vokun's crypt"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Anska's family legend states that they are descendants of Ysgramor"
+        ],
+        "quest": {
+            "title": "A Scroll For Anska",
+            "objective": "help Anska find a scroll about her family legend",
+            "tasks": [
+                "defeat Vokun, a powerful old priest buried here, with Anska",
+                "help Anska find a scroll about her family legend"
+            ],
+            "description": "I'm Anska. Are you here to help?\nI've finally located Vokun's crypt! The scroll I'm looking for just has to be here. Maybe you could help find it, I just know it's in here.\nVokun is some old priest buried here long ago. I've been searching for his tomb for a few years now. If Vokun is as powerful as I think, I may need a little help um... dealing with him. With the two of us this should be easy.\nYou can have anything except the scroll of course. It's probably meaningless to you, but according to family legend it links our bloodline back to Ysgramor himself."
+        }
+    },
+    {
+        "id": 207,
+        "game": "TESS",
+        "kbs": {
+            "TESS720": [
+                "Gorm",
+                "the worried housecarl of Idgrod",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Morthal"
+                    ]
+                ]
+            ],
+            "TESS63": [
+                "Morthal",
+                "a town",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Solitude"
+                    ]
+                ]
+            ],
+            "TESS43": [
+                "Solitude",
+                "a city",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS721": [
+                "Idgrod",
+                "the noblewoman who rules over Morthal, and a seer",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Morthal"
+                    ]
+                ]
+            ],
+            "TESS192": [
+                "Captain Aldis",
+                "a male official",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Solitude"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Idgrod gets lost in her visions"
+        ],
+        "quest": {
+            "title": "For the Good of Morthal",
+            "objective": "help Gorm to address his worries about Idgrod's leadership",
+            "tasks": [
+                "Go to Solitude.",
+                "deliver Gorm's letter to Captain Aldis",
+                "help Gorm to address his worries about Idgrod's leadership"
+            ],
+            "description": "My mind weighs heavy enough. Idgrod's so lost in her visions, and it's only getting worse. I've looked after her safety for so long... If she can't tell what's real and what's not, how will she continue to lead Morthal?\nThere is a letter, one I have had for some time now. I think it is time it gets delivered. I cannot leave Idgrod's side, so I must stay here. Could you see that it reaches Captain Aldis in Solitude?\nPlease, do not open it. It is... private."
+        }
+    },
+    {
+        "id": 84,
+        "game": "MC",
+        "kbs": {
+            "MC186": [
+                "Sam",
+                "a fame-seeking man",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "a village"
+                    ]
+                ]
+            ],
+            "MC2": [
+                "a village",
+                "a village",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Nether"
+                    ]
+                ]
+            ],
+            "MC81": [
+                "Nether",
+                "a dangerous, hellish ream",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Sam wants reputation"
+        ],
+        "quest": {
+            "title": "A Tour in Hell",
+            "objective": "explore the Nether with Sam",
+            "tasks": [
+                "Go to Nether.",
+                "go to the Nether with Sam",
+                "explore the Nether with Sam"
+            ],
+            "description": "I really want to see something more interesting than the bounds of this village. That would also elevate my status among the other villagers.\nTraveler, can you take me to the Nether? I want see that hellish realm myself, but I can't fend off its dangers all by myself. Let us explore the place together.\nYou will also get a fair reward for being my guide in the Nether: 10 diamonds. Don't spend them all at once."
+        }
+    },
+    {
+        "id": 21,
+        "game": "MC",
+        "kbs": {
+            "MC48": [
+                "Nick",
+                "an armorer",
+                [
+                    [
+                        "type",
+                        "character"
+                    ]
+                ]
+            ],
+            "MC45": [
+                "sticks",
+                "sticks",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Nick"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Nick wants comfort",
+            "the player can craft an armor stand with 6 sticks and a smooth stone slab"
+        ],
+        "quest": {
+            "title": "Assorted Armors",
+            "objective": "give an armor stand to Nick",
+            "tasks": [
+                "craft an armor stand",
+                "give an armor stand to Nick"
+            ],
+            "description": "I just don't know where I could display my armors for sale. I know that there are armor stands that could do the job, but I'm way too busy hammering down new armors to actually go and hunt for the needed crafting materials.\nYou don't seem to have a day job, stranger. Could you help a busy armorer, and craft an armor stand? You could even have some of my blocks of coal for your reward. Ten blocks of coal in total.\nYou just need six sticks and a smooth stone slab to craft an armor stand."
+        }
+    },
+    {
+        "id": 49,
+        "game": "MC",
+        "kbs": {
+            "MC102": [
+                "Ron",
+                "a paranoid villager",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "a village"
+                    ]
+                ]
+            ],
+            "MC2": [
+                "a village",
+                "a village",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Ron's home"
+                    ]
+                ]
+            ],
+            "MC103": [
+                "Ron's home",
+                "Ron's home",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Ron wants knowledge"
+        ],
+        "quest": {
+            "title": "Monsters Under Bed?",
+            "objective": "see that Ron's home is safe, and report to Ron",
+            "tasks": [
+                "Go to .",
+                "check that there's nothing dangerous inside",
+                "see that Ron's home is safe, and report to Ron"
+            ],
+            "description": "I don't feel safe in my own home. No one in this village believes me, when I tell them that something's observing me while I'm at home.\nTraveler, would you like to earn an emerald? You just have to verify that there's nothing dangerous in my home. Just see that my home is safe, and tell me what you've uncovered.\nThis paranoia is weighting heavily on me..."
+        }
+    },
+    {
+        "id": 137,
+        "game": "TESS",
+        "kbs": {
+            "TESS484": [
+                "Eisa Blackthorn",
+                "a bandit from Kyr's gang, giving quest via \"Eisa's Journal\"",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Frostmere Crypt"
+                    ]
+                ]
+            ],
+            "TESS486": [
+                "Frostmere Crypt",
+                "a crypt that contains a whole forest with a big old monument out in the center",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS487": [
+                "Kyr",
+                "a male bandit leader",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Frostmere Crypt"
+                    ]
+                ]
+            ],
+            "TESS488": [
+                "Ra'jirr",
+                "a tough male bandit",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Frostmere Crypt"
+                    ]
+                ]
+            ],
+            "TESS489": [
+                "Pale Lady",
+                "a swamp lady who abducts children at night",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Frostmere Crypt"
+                    ]
+                ]
+            ],
+            "TESS490": [
+                "\"Eisa's Journal\"",
+                "Eisa Blackthorn's journal",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Eisa Blackthorn"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Kyr's bandit gang dug up Frostmere Crypt: Kyr took the Pale Blade from the monument within",
+            "Ra'jirr keeps muttering about a Pale Lady, who is going to kill all of Kyr's bandits if they do not return the Pale Blade"
+        ],
+        "quest": {
+            "title": "The Pale Lady",
+            "objective": "Find out what happened in Frostmere Crypt",
+            "tasks": [
+                "go deeper into Frostmere Crypt",
+                "Find out what happened in Frostmere Crypt"
+            ],
+            "description": "Eisa's Journal\nby Eisa Blackthorn\n\nNight shift woke me to say they'd hit something big. Kyr, Ra'jirr, and I went down to take a look. It's huge, like a whole forest was just swallowed up by the earth, with a big old monument out in the center. Kyr took a sword from the monument as a trophy and dubbed it the \"Pale Blade\", proof his whole plan was finally paying off. For once, he might be right.\n\nRa'jirr's been having nightmares over the past few days. He keeps muttering about a \"Pale Lady\" - one of those swamp women who steal children away at night, I think. To think some fool story could turn the toughest bandit I know into a cowering kitten, frightened of his own shadow. I'm just glad none of the others see him like this.\n\nIt's getting worse. Ra'jirr can barely sleep at all now, and whenever he dozes off, he wakes up screaming - woke the whole place last night. He says the \"Pale Lady\" is coming for us - she's down in the forest, we have to return the sword or she'll kill us all. Not a chance - the boss clings to that thing like he was born with it. I've told everyone Ra'jirr just has a fever, but this can't go on. I've pulled a few things together. I'll slip out tonight and never look back."
         }
     },
     {
         "id": 98,
         "game": "MC",
         "kbs": {
-            "MC273": [
+            "MC9": [
                 "Desert Refuge",
                 "a desert village",
                 [
@@ -954,40 +1195,12 @@
         }
     },
     {
-        "id": 87,
-        "game": "TESS",
+        "id": 31,
+        "game": "TL2",
         "kbs": {
-            "TESS58": [
-                "Haelga",
-                "a woman who has not paid her debts to the Thieves Guild",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the player and Brynjolf did a little thievery at the market"
-        ],
-        "quest": {
-            "title": "Taking Care of Business",
-            "objective": "send a message that the Thieves Guild is not to be ignored",
-            "tasks": [
-                "collect some debts from Keerava, Bersi Honey-Hand, and Haelga without killing them",
-                "send a message that the Thieves Guild is not to be ignored"
-            ],
-            "description": "Well, well... Color me impressed kid. I wasn't certain I'd ever see you again!\nSo... now that I've whetted your appetite with our little scheme at the market, how about handling a few deadbeats for me? They are Keerava, Bersi Honey-Hand and Haelga.\nThey owe our organization some serious coin and they've decided not to pay. I want you to explain to them the error of their ways. Do this right, and I can promise you a permanent place in our organization.\nHonestly, the debt is secondary here. What's more important is that you get the message across that we aren't to be ignored. A word of warning though... I don't want any of them killed. Bad for business."
-        }
-    },
-    {
-        "id": 18,
-        "game": "TESS",
-        "kbs": {
-            "TESS53": [
-                "Molag Bal",
-                "the god of vampires",
+            "TL274": [
+                "Jessa",
+                "an anxious woman from Estheria",
                 [
                     [
                         "type",
@@ -995,250 +1208,26 @@
                     ],
                     [
                         "present in",
-                        "Swindler's Den"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the rings of blood magic increase the abilities of the player's vampiric powers: Molag Bal supposedly gave the rings to vampires"
-        ],
-        "quest": {
-            "title": "Rings of Blood Magic",
-            "objective": "retrieve a set of ancient rings of blood magic for yourself",
-            "tasks": [
-                "Go to Swindler's Den.",
-                "Go to Cragwallow Slope.",
-                "retrieve the Ring of the Erudite",
-                "retrieve the Ring of the Beast",
-                "retrieve a set of ancient rings of blood magic for yourself"
-            ],
-            "description": "I've discovered the whereabouts of a set of ancient rings of Blood Magic: the Ring of the Erudite in Swindler's Den and the Ring of the Beast in Cragwallow Slope. They belong among our kind, not gathering mold in some vagabond's treasure pile.\nThe rings increase the abilities of your vampiric powers. Some say Molag Bal himself gave these rings to ancient powerful vampire lords. Some say that is just a myth.\nYou'll be able to keep the rings. I wouldn't be telling you where to find them if I desired them for myself."
-        }
-    },
-    {
-        "id": 124,
-        "game": "TESS",
-        "kbs": {
-            "TESS103": [
-                "Arcadia",
-                "a female alchemist",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Whiterun"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the player asked Farengar Secret-Fire whether he is the only wizard in Whiterun: Farengar Secret-Fire is the only wizard, but Whiterun is also home to a priest, a priestess, and alchemist, and others"
-        ],
-        "quest": {
-            "title": "Salt for Arcadia",
-            "objective": "deliver some frost salts for Farengar Secret-Fire",
-            "tasks": [
-                "give the frost salts to Arcadia, the local alchemist",
-                "deliver some frost salts for Farengar Secret-Fire"
-            ],
-            "description": "I believe I am, yes. Technically speaking, of course. The city is also home to a priest, a priestess, an alchemist, and I'm sure others who practice. Ah, that reminds me. Speaking of alchemists, I have some frost salts for Arcadia. She asked me to obtain them for one of her potions.\nWould you be so kind as to deliver the frost salts for me? I'm sure Arcadia will provide some form of recompense\u2026"
-        }
-    },
-    {
-        "id": 45,
-        "game": "TESS",
-        "kbs": {
-            "TESS186": [
-                "Astrid",
-                "the player's guildleader in the Dark Brotherhood",
-                [
-                    [
-                        "type",
-                        "character"
+                        "Jessa and her father's camp"
                     ]
                 ]
             ],
-            "TESS187": [
-                "Gourmet",
-                "a famous master chef, whose true identity is not known",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ],
-            "TESS188": [
-                "Festus",
-                "a fellow Dark Brotherhood member, a man",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the Gourmet is the last target before he Dark Brotherhood strikes out at the emperor: the Gourmet is scheduled to cook for the emperor at a special dinner",
-            "Festus is close to uncovering the identity of the Gourmet"
-        ],
-        "quest": {
-            "title": "Recipe for Disaster",
-            "objective": "kill the Gourmet, steal his writ of passage, and assume his identity",
-            "tasks": [
-                "talk to Festus",
-                "kill the Gourmet, steal his writ of passage, and assume his identity"
-            ],
-            "description": "There's just one more target before we strike out at the Emperor.\nHave you by chance heard of the \"Gourmet\"? Read his cookbook? It's become quite a phenomenon. The Gourmet is scheduled to cook for the Emperor at a special dinner.\nYou'll kill him, steal his Writ of Passage, and assume the role of master chef. Festus has been spearheading this part of the assassination plan. He's close to uncovering the identity of the Gourmet.\nYou should report to him."
-        }
-    },
-    {
-        "id": 44,
-        "game": "MC",
-        "kbs": {
-            "MC101": [
-                "Jack",
-                "a fletcher",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "a village"
-                    ]
-                ]
-            ],
-            "MC102": [
-                "a village",
-                "a village",
+            "TL2133": [
+                "Jessa and her father's camp",
+                "Jessa and her father's camp",
                 [
                     [
                         "type",
                         "location"
-                    ]
-                ]
-            ],
-            "MC103": [
-                "Creepers",
-                "[Enemy] green monsters that sneak up on people and try to blow them up along with them",
-                [
-                    [
-                        "type",
-                        "character"
                     ],
                     [
-                        "present in",
-                        "a village"
+                        "connected to",
+                        "Temple"
                     ]
                 ]
             ],
-            "MC104": [
-                "Awesome Bow",
-                "a special bow crafted by Jack",
-                [
-                    [
-                        "type",
-                        "object"
-                    ],
-                    [
-                        "held by",
-                        "Jack"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Jack wants knowledge"
-        ],
-        "quest": {
-            "title": "Bowing Down Creepers",
-            "objective": "test out the Awesome Bow, and report back to Jack",
-            "tasks": [
-                "kill 15 Creepers with the Awesome Bow",
-                "test out the Awesome Bow, and report back to Jack"
-            ],
-            "description": "I'm a fletcher. Bows and arrows are my domain.\nIn fact, I've just crafted a special Bow I've dubbed the \"Awesome Bow\". I just need someone to test it out.\nYou could be just the right person for the job. Go, and kill 15 Creepers with the Awesome Bow. I friggin' hate those green suicide bombing monsters! I'll have 32 emeralds for you, as a tester's fee."
-        }
-    },
-    {
-        "id": 52,
-        "game": "TESO",
-        "kbs": {
-            "TESO204": [
-                "Big Head",
-                "a madman",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ],
-            "TESO205": [
-                "Bolwing",
-                "a mute male beggar",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ],
-            "TESO206": [
-                "Fork of Horripilation",
-                "a special fork",
-                [
-                    [
-                        "type",
-                        "object"
-                    ],
-                    [
-                        "held by",
-                        "Big Head"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Big Head will give the player his charm so that the player can speak with Bolwing"
-        ],
-        "quest": {
-            "title": "The Fork of Horripilation",
-            "objective": "find the Fork of Horripilation for Big Head",
-            "tasks": [
-                "talk to Bolwing to hear his secret",
-                "find the Fork of Horripilation for Big Head"
-            ],
-            "description": "Sing for Big Head.\nThe Fork for Big Head. Oh, where has Master put the Fork? It sings alone. Far from home. Sad, sad Fork. Sad, sad Big Head.\nThe Fork! The precious, precious fork! Hear how it sings to Big Head! Beautiful, perfect Fork of Horripilation! But it is gone. Gone, gone, gone. No more singing. No more ringing. Taken from Big Head, never returned. That is when Big Head came here. Master brought me! Whispered shouts into my ear! Songs of Madgods! Songs of bad gods! Softly, Master. Softly.\nIt went away. But it will come back! It always comes back! It is close. Big Head can hear it! The Fork of Horripilation! Hear it singing! Songs of home! It comes again. It brings presents! It is not present. Soon it will be! You will find it! Bring the Fork! Hear the music. Music of toads. Music of roads! Sing to yourself, so all can hear!\nTalk to the beggar! Talk to Bolwing! He knows secrets, but no one can hear them. No one but Big Head. Take Big Head's charm! Listen to Bolwing! His tongue is tied, but his mind is unraveled! He'll tell you the secret. Who has the Fork?"
-        }
-    },
-    {
-        "id": 24,
-        "game": "BG1",
-        "kbs": {
-            "BG1141": [
-                "Mirianne",
-                "a concerned wife",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Amn"
-                    ]
-                ]
-            ],
-            "BG1142": [
-                "Amn",
+            "TL220": [
+                "Estheria",
                 "a country",
                 [
                     [
@@ -1247,13 +1236,27 @@
                     ],
                     [
                         "connected to",
-                        "the southern roads"
+                        "Temple"
                     ]
                 ]
             ],
-            "BG1143": [
-                "the southern roads",
-                "the southern roads",
+            "TL2134": [
+                "Temple",
+                "a temple in Estheria",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "the catacombs, where dark things live"
+                    ]
+                ]
+            ],
+            "TL2135": [
+                "the catacombs, where dark things live",
+                "the catacombs, where dark things live",
                 [
                     [
                         "type",
@@ -1261,79 +1264,9 @@
                     ]
                 ]
             ],
-            "BG1144": [
-                "Roe",
-                "Mirianne's husband",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Amn"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Roe went on a business trip to Amn"
-        ],
-        "quest": {
-            "title": "Mirianne's Husband",
-            "objective": "tell Mirianne whether you found information about Roe or not",
-            "tasks": [
-                "find information about Roe",
-                "tell Mirianne whether you found information about Roe or not"
-            ],
-            "description": "My husband had to make a sudden business trip to Amn and I'm so worried for him.\n\"Mirianne,\" he always said, \"Mirianne, who knows the road better than old Roe?\" But the highways just aren't as safe as they once were and there hasn't been a messenger from Amn here in months.\nCould you keep your eyes open along the southern roads and let me know if you find anything?"
-        }
-    },
-    {
-        "id": 31,
-        "game": "TESO",
-        "kbs": {
-            "TESO132": [
-                "Maeva the Buxom",
-                "a regretful wife",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Fort Strand"
-                    ]
-                ]
-            ],
-            "TESO133": [
-                "Fort Strand",
-                "a marauder hideout",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "TESO134": [
-                "Bjalfi the Contemptible",
-                "Maeva the Buxom's husband",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Fort Strand"
-                    ]
-                ]
-            ],
-            "TESO135": [
-                "Rockshatter",
-                "a mace, and Maeva the Buxom's family heirloom",
+            "TL2136": [
+                "Wraithring",
+                "an ancient artifact which is said to have power over death",
                 [
                     [
                         "type",
@@ -1341,32 +1274,104 @@
                     ],
                     [
                         "held by",
-                        "Maeva the Buxom"
+                        "Jessa"
                     ]
                 ]
             ]
         },
         "plots": [
-            "Bjalfi the Contemptible snatched Rockshatter, and took off to join a local marauder gang at Fort Strand"
+            "Jessa and her father came here to recover the Wraithring: they wanted to bring it to the Temple for study",
+            "Jessa's father wears a locket around his neck"
         ],
         "quest": {
-            "title": "When the Vow Breaks",
-            "objective": "recover the Rockshatter for Maeva the Buxom",
+            "title": "The Wraithring",
+            "objective": "discover Jessa's father's fate",
             "tasks": [
-                "Go to Fort Strand.",
-                "find Bjalfi the Contemptible",
-                "recover the Rockshatter for Maeva the Buxom"
+                "Go to .",
+                "find Jessa's father",
+                "discover Jessa's father's fate"
             ],
-            "description": "Perhaps you can help me. I'm Maeva the Buxom. My husband's name is Bjalfi the Contemptible. My father said I was a fool to marry him, but I didn't listen. At our wedding, my father gave us a family heirloom as a gift; Rockshatter, a mace that's been in my family for many generations.\nBjalfi snatched Rockshatter from our mantle and took off to \"find his fortune\" with the local Marauder gang at Fort Strand. I want that mace back. Please, I don't think he's ever coming back, and I'd hate to lose such a precious heirloom to a gang of thugs."
+            "description": "Please, traveler! Wait a moment! I am Jessa - a traveler from Estheria. My father and I came to this place to recover an ancient artifact - the Wraithring - which is said to have power over death itself. We sought to bring it to the Temple for study.\nMy father entered the catacombs while I tended our camp - but he has not returned, and there are dark things stirring below.\nPlease - I only ask that you discover his fate - perhaps he is wounded and only needs aid to escape!\nIf the worst comes to pass... he wears a locket around his neck, and you will know him by it."
         }
     },
     {
-        "id": 197,
+        "id": 25,
+        "game": "BG1",
+        "kbs": {
+            "BG1137": [
+                "Nadine",
+                "a worried mother",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Baldur's Gate"
+                    ]
+                ]
+            ],
+            "BG116": [
+                "Baldur's Gate",
+                "a city",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "BG1138": [
+                "Euric",
+                "Nadine's youngest son, who knows how to take care of himself",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Baldur's Gate"
+                    ]
+                ]
+            ],
+            "BG1139": [
+                "a good luck talisman",
+                "a talisman",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Nadine"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Euric ran away from home",
+            "Nadine gives the player a good luck talisman"
+        ],
+        "quest": {
+            "title": "Nadine and Euric",
+            "objective": "give Euric a good luck talisman and return to Nadine",
+            "tasks": [
+                "find Euric",
+                "give Euric a good luck talisman and return to Nadine"
+            ],
+            "description": "I, Nadine, desperately need someone's help.\nEuric, my youngest son, has run away again... He's always had a touch of the wanderer in him and he knows how to take care of himself, but... Oh, I'm just worried sick. This city gets more dangerous every day... If you find him, could you give him this good luck talisman? I'm sure we'd all sleep a little better.\nLet me give you this necklace as a token of my thanks upon your return. I don't know if it's worth anything but it has been in the family for years."
+        }
+    },
+    {
+        "id": 196,
         "game": "TESS",
         "kbs": {
-            "TESS721": [
-                "Halbarn Iron-Fur",
-                "an old blacksmith",
+            "TESS673": [
+                "Hamal",
+                "the head priestess of Dibella",
                 [
                     [
                         "type",
@@ -1374,113 +1379,229 @@
                     ]
                 ]
             ],
+            "TESS440": [
+                "Karthwasten",
+                "a small village pressed against the stone, to the north",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS674": [
+                "Sybil",
+                "a mortal woman who proclaims the will of Dibella",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Karthwasten"
+                    ]
+                ]
+            ],
+            "TESS513": [
+                "Dibella",
+                "the goddess of love and passion",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Karthwasten"
+                    ]
+                ]
+            ],
+            "TESS675": [
+                "Exalted Protocol of the Dibellan Sybil",
+                "a secret ceremony known to the priestesses of Dibella, which is used to find a new Sybil after the death of the previous one",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Hamal"
+                    ],
+                    [
+                        "present in",
+                        "Karthwasten"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the player breached the inner sanctum of the Temple of Dibella and interrupted the Exalted Protocol of the Dibellan Sybil"
+        ],
+        "quest": {
+            "title": "The Heart of Dibella",
+            "objective": "find a new Sybil for the Temple of Dibella",
+            "tasks": [
+                "Go to Karthwasten.",
+                "retrieve the new Sybil, a young girl",
+                "find a new Sybil for the Temple of Dibella"
+            ],
+            "description": "You have committed a breach, and must pay the penalty. Normally, a quick death would be required. Luckily for you, there are more pressing matters.\nThe ceremony you so rudely interrupted was the Exalted Protocol of the Dibellan Sybil. I don't expect you to know what that means. Suffice to say that our Sybil was recently lost to us. Through the ceremony, we have seen the home of the next Sybil, to the north, in a small village pressed against the stone.\nIf you can travel there, and retrieve our young Sybil, your transgression will be forgiven. We believe the place in our vision to be Karthwasten. Now move quickly. The girl must be brought to the temple as soon as possible.\nYou, my dear, can earn the blessing of Dibella as your reward."
+        }
+    },
+    {
+        "id": 21,
+        "game": "TESO",
+        "kbs": {
+            "TESO90": [
+                "Tivela Lythandas",
+                "a distraught wife",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Tivela Lythandas and Rythe's home"
+                    ],
+                    [
+                        "present in",
+                        "Rythe's painting studio"
+                    ],
+                    [
+                        "present in",
+                        "Cyrodiil"
+                    ]
+                ]
+            ],
+            "TESO91": [
+                "Tivela Lythandas and Rythe's home",
+                "Tivela Lythandas and Rythe's home",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESO69": [
+                "Cyrodiil",
+                "a province",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESO92": [
+                "Rythe's painting studio",
+                "Rythe's painting studio",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESO93": [
+                "Rythe",
+                "Tivela Lythandas' husband, and one of the best painters in all Cyrodiil",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Cyrodiil"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Rythe makes lifelike paintings about the Great Forest",
+            "Rythe keeps his studio locked: he did not come out of his studio for a full day",
+            "Tivela Lythandas unlocked the studio with the key Rythe said to use only in emergencies: Rythe was not inside his studio",
+            "Tivela Lythandas gives the player the key to Rythe's studio",
+            "Tivela Lythandas will be around the house should the player need her"
+        ],
+        "quest": {
+            "title": "A Brush with Death",
+            "objective": "help Tivela Lythandas find her husband who has gone missing",
+            "tasks": [
+                "Go to .",
+                "find clues about Rythe's whereabouts",
+                "help Tivela Lythandas find her husband who has gone missing"
+            ],
+            "description": "I'm Tivela Lythandas. I apologize that I can't give you the respect a guest in my home would normally receive, but I am at my wit's end. I am sorry to be so forward, but I desperately need your help. It seems that my husband, Rythe, has gone missing, and I just don't know what to do.\nRythe is known far and wide as one of the best painters in all Cyrodiil. His specialty is setting the Great Forest to canvas. The paintings look so amazingly real that some say they can see the trees sway in the breeze. That's a silly notion of course, but it just goes to show the attention to detail Rythe uses when he paints.\nRythe likes to work in his studio with the door locked, so no one can disturb him. He usually comes out to eat dinner and sleep, but two days ago, he didn't come out at all. At first, I wasn't worried. He does that occasionally. But when he didn't come out for a full day, I unlocked the studio with the key he said to use only in emergencies. It turned out he wasn't inside! I'm sure he never left that room. So I have no idea where he's gone.\nPlease. Help me find Rythe. I love him dearly, and I am so worried. Here's the key to Rythe's studio. You may come and go as you please. If you need me, I'll be around the house."
+        }
+    },
+    {
+        "id": 22,
+        "game": "TESS",
+        "kbs": {
+            "TESS93": [
+                "Erik",
+                "a young man",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Rorikstead"
+                    ]
+                ]
+            ],
+            "TESS65": [
+                "Rorikstead",
+                "a village",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS94": [
+                "Mralki",
+                "Erik's father, an innkeeper in Rorikstead",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Rorikstead"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the player is an adventurer"
+        ],
+        "quest": {
+            "title": "Erik the Adventurer",
+            "objective": "help Erik become an adventurer",
+            "tasks": [
+                "convince Mralki buy armor for Erik",
+                "help Erik become an adventurer"
+            ],
+            "description": "You look like you've seen your share of adventure. I envy you that. In fact, maybe you can help me with something.\nI want to be an adventurer like you, but my father says I can't. He says that he needs me to stay here and work the farm, and even if he did let me be an adventurer, we couldn't afford to buy armor. His name's Mralki, and he's the innkeeper here. I hope you can change my father's mind. He can be a little stubborn.\nI can't stand the thought of being trapped in this village for the rest of my days."
+        }
+    },
+    {
+        "id": 208,
+        "game": "TESS",
+        "kbs": {
             "TESS722": [
-                "Ebony",
-                "an ore",
-                [
-                    [
-                        "type",
-                        "object"
-                    ],
-                    [
-                        "held by",
-                        "Halbarn Iron-Fur"
-                    ]
-                ]
-            ],
-            "TESS589": [
-                "Stalhrim",
-                "an ore",
-                [
-                    [
-                        "type",
-                        "object"
-                    ],
-                    [
-                        "held by",
-                        "Halbarn Iron-Fur"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the player drove Rieklings away from Halbarn Iron-Fur's forge"
-        ],
-        "quest": {
-            "title": "Materials for Smithing",
-            "objective": "bring Stalhrim or Ebony to Halbarn Iron-Fur",
-            "tasks": [
-                "find Stalhrim or Ebony",
-                "bring Stalhrim or Ebony to Halbarn Iron-Fur"
-            ],
-            "description": "Cleaning out the forge was the easy part. But those blasted Rieklings made off with most of my materials. And I can't forge air.\nYou tend to wander around, don't you? If you come across any Stalhrim or Ebony in your travels, bring them back to old Halbarn. Help each other out."
-        }
-    },
-    {
-        "id": 218,
-        "game": "TESS",
-        "kbs": {
-            "TESS55": [
-                "Dragonborn",
-                "the only person who can defeat dragons for good",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the player is Dragonborn"
-        ],
-        "quest": {
-            "title": "Dragon Hunting",
-            "objective": "kill a dragon with the Blades",
-            "tasks": [
-                "ask Esbern to send the Blades to the dragon",
-                "kill a dragon with the Blades"
-            ],
-            "description": "The Blades of the old hunted down many dragons in their day, and they have records of where the beasts lived.\nOnly you can truly defeat these monsters, Dragonborn, but you do not have to do so alone. The Blades can help you.\nJust ask whenever you're ready to take on a dragon. We will send the Blades to help you fulfill your destiny. The dragon's soul should make you stronger."
-        }
-    },
-    {
-        "id": 176,
-        "game": "TESO",
-        "kbs": {
-            "TESO266": [
-                "Varon Vamori",
-                "a man",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the player asked a recommendation from Kud-Ei",
-            "Varon Vamori stole Ardaline's mage's staff",
-            "Kud-Ei gives the player a scroll with a powerful Illusion charm spell"
-        ],
-        "quest": {
-            "title": "Mixed Feelings",
-            "objective": "recover Ardaline's mage's staff",
-            "tasks": [
-                "charm Varon Vamori and make him tell you where Ardaline's mage's staff is",
-                "recover Ardaline's mage's staff"
-            ],
-            "description": "I'm afraid I haven't had time to prepare anything conventional for your recommendation. I'm very preoccupied with this situation concerning Ardaline.\nPerhaps you can help with that, however. I can't directly get involved, for fear of embarrassing the poor girl. Varon Vamori's been bothering Ardaline every day for a while now. He even stole her Mages' Staff! Perhaps he thinks it's amusing; I don't know. But it needs to stop. It's making her miserable.\nI'll need you to have a little chat with Varon Vamori to get Ardaline's staff back, and you can learn something about the power of Illusion in the process. Take this charm scroll. With it, you should find Varon more receptive to questioning.\nDon't come back without that staff. I'll write you a recommendation for your help."
-        }
-    },
-    {
-        "id": 137,
-        "game": "TESO",
-        "kbs": {
-            "TESO440": [
-                "Valus Odiil",
-                "an old warrior turned farmer, and a worried father",
+                "Grosta",
+                "an angry wife",
                 [
                     [
                         "type",
@@ -1488,13 +1609,126 @@
                     ],
                     [
                         "present in",
+                        "Morrowind"
+                    ]
+                ]
+            ],
+            "TESS126": [
+                "Morrowind",
+                "a province inhabited by elves",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Broken Helm Hollow"
+                    ]
+                ]
+            ],
+            "TESS723": [
+                "Broken Helm Hollow",
+                "a camp east towards the border of Morrowind",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS724": [
+                "Liefnarr",
+                "Grosta's missing husband",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Broken Helm Hollow"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Liefnarr went to trade some grain with people at Broken Helm Hollow: he never came back"
+        ],
+        "quest": {
+            "title": "Flight or Fight",
+            "objective": "tell Liefnarr that he is not welcome home",
+            "tasks": [
+                "Go to Broken Helm Hollow.",
+                "find Liefnarr",
+                "tell Liefnarr that he is not welcome home"
+            ],
+            "description": "My husband Liefnarr said he was going east towards the border of Morrowind to trade some of our grain to some folks at Broken Helm Hollow.\nI waited and waited, and he never came back. Probably shacked up with some elven whore. Good riddance to him I say. If I only knew where he was, I'd sure give him a piece of my mind.\nIf you see him, tell him Grosta said he can go straight to hell... he's not welcome here any more."
+        }
+    },
+    {
+        "id": 67,
+        "game": "TESO",
+        "kbs": {
+            "TESO242": [
+                "Slythe Seringi",
+                "a worried man, giving quest via \"Slythe's Journal\"",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Kvatch"
+                    ],
+                    [
+                        "present in",
+                        "Imperial City"
+                    ]
+                ]
+            ],
+            "TESO243": [
+                "Kvatch",
+                "a great city",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Anvil"
+                    ]
+                ]
+            ],
+            "TESO115": [
+                "Anvil",
+                "a city",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
                         "Chorrol"
                     ]
                 ]
             ],
-            "TESO443": [
+            "TESO19": [
                 "Chorrol",
-                "a town",
+                "a city",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESO26": [
+                "Imperial City",
+                "the capital city",
                 [
                     [
                         "type",
@@ -1502,27 +1736,13 @@
                     ],
                     [
                         "connected to",
-                        "Odiil Farm"
+                        "Sandstone Cavern"
                     ]
                 ]
             ],
-            "TESO442": [
-                "Odiil Farm",
-                "Valus Odiil, Rallus and Antus' farm, not far from Chorrol",
-                [
-                    [
-                        "type",
-                        "location"
-                    ],
-                    [
-                        "connected to",
-                        "Weynon Priory"
-                    ]
-                ]
-            ],
-            "TESO444": [
-                "Weynon Priory",
-                "a monastery",
+            "TESO244": [
+                "Sandstone Cavern",
+                "the offering place of the Sunken One",
                 [
                     [
                         "type",
@@ -1530,9 +1750,9 @@
                     ]
                 ]
             ],
-            "TESO445": [
-                "Rallus, Antus",
-                "Valus Odiil's two sons",
+            "TESO245": [
+                "Sunken One, He Who Shakes The Ground",
+                "an old, forgotten god",
                 [
                     [
                         "type",
@@ -1540,117 +1760,568 @@
                     ],
                     [
                         "present in",
-                        "Weynon Priory"
+                        "Sandstone Cavern"
+                    ]
+                ]
+            ],
+            "TESO246": [
+                "\"Slythe's Journal\"",
+                "\"Slythe's Journal\"",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Slythe Seringi"
                     ]
                 ]
             ]
         },
         "plots": [
-            "Rallus may know more about the creatures that attacked the Odiil Farm"
+            "Kvatch was destroyed because they did not heed Slythe Seringi's warning about the Sunken One",
+            "Slythe Seringi has gone to give an offering to the Sunken One so that he does not sack any other cities: Anvil, Chorrol, the Imperial City"
         ],
         "quest": {
-            "title": "The Killing Field",
-            "objective": "reclaim the Odiil Farm from the creatures of the Great Forest with Rallus and Antus",
+            "title": "The Sunken One",
+            "objective": "investigate the Sunken One",
             "tasks": [
-                "Go to Weynon Priory.",
-                "meet up with Rallus and Antus",
-                "reclaim the Odiil Farm from the creatures of the Great Forest with Rallus and Antus"
+                "Go to Sandstone Cavern.",
+                "find Slythe Seringi",
+                "investigate the Sunken One"
             ],
-            "description": "My sons! Have you seen my sons Rallus and Antus? They're going to fight off the creatures at our farm, but I fear for their safety.\nFor the last few days, we've suffered attacks from these creatures at our farm not far from Chorrol. They're coming from someplace in the Great Forest. I don't know where, but Rallus may know more by now. My boys will take up the fight even if the guards won't. Doesn't matter if it's outside the town walls - it still affects us all. They expect me to go with them, but... I fear in my old age, I'm not the warrior I once was. Would you... would you go in my place?\nI'm supposed to meet them at Weynon Priory. You'd best get whatever supplies you need now, so you can get there in time.\nI... I need a drink to calm my nerves. Please, excuse me."
+            "description": "Slythe's Journal\nby Slythe Seringi\n\nAs midnight approaches, I still watch the fires burn. The great city of man, Kvatch, lay in ruins. They didn't heed my words. They didn't listen to my voice. Now, they are all paying the cost of ignorance. The Sunken One strikes swift and hard. He swats those who oppose Him as if they did not exist at all. The excuses of man fall upon deaf ears. The Sunken One has no pity; He has no mercy, He only sits below and passes sentence. And now, with a mighty stroke, He's toppled one of man's pitiful blights on His land. And yet, He still hungers. His appetite is voracious. Kvatch will not be the last city to fall by His hand. The world of man grows more and more corrupt, and it angers Him. Man's lies and deceit will be his undoing as The Sunken One grows impatient and no longer waits for or accepts the proper offering.\nThe burden is mine to shoulder. I am the last who knows of He Who Shakes The Ground. If I do not bring him the Offering, who knows what city may fall prey to his whim? Anvil? Chorrol? Or perhaps He will turn his eyes on the greatest boil of all, the great Imperial City itself. No, I must not let that happen. I must get the Offering to him like my father did before me. Man may be fallen in His eyes, but they must have time to learn The Sunken One's teachings. Destroying man now would be a waste, when I am certain that given the chance, they will come to see His ways. Yes, I will do this thing. I will brave the depths of Sandstone Cavern to see Him. My weapons will be my will and my word. The Sunken One will watch over me and guide me. I must depart soon, before it is too late. If anyone finds this journal, let them know that I, Slythe Seringi, do this for the good of all man."
+        }
+    },
+    {
+        "id": 8,
+        "game": "BG2",
+        "kbs": {
+            "BG234": [
+                "the mind flayers' arena",
+                "the mind flayers' arena",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the player was captured by the mind flayers while trespassing their home",
+            "the mind flayers like watching their captives fight in the arena",
+            "the player should not attack the mind flayers",
+            "the player should not anger the arena spectators: they are especially strong because of their big brain"
+        ],
+        "quest": {
+            "title": "Captured by Mind Flayers",
+            "objective": "survive the mind flayers' arena",
+            "tasks": [
+                "fight to survive",
+                "survive the mind flayers' arena"
+            ],
+            "description": "Me a servant ogre. Now it time to fight!\nYou fight in the arena. Listen, I tell you what you need to know.\nYou trespass on the home of the mind flayers, and you got caught. Now you pay for your stay. Understand?\nNext thing, you better fight well in the arena, because if you don't fight well, you die. If you don't fight at all, you die.\nOh, last rule, never attack the mind flayers. You are in their home. They kill you with their thoughts.\nYou will live if you fight well.\nI warn though: Do not anger spectators. They extra strong in this place because of big brain."
+        }
+    },
+    {
+        "id": 59,
+        "game": "TESO",
+        "kbs": {
+            "TESO56": [
+                "Sheogorath",
+                "the god of madness, one of the Daedric Princes",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "New Sheoth"
+                    ]
+                ]
+            ],
+            "TESO58": [
+                "New Sheoth",
+                "the capital city of Sheogorath's realm",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Cylarne"
+                    ]
+                ]
+            ],
+            "TESO219": [
+                "Cylarne",
+                "a fort",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESO220": [
+                "Flame of Agnon",
+                "a cold flame",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Sheogorath"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the Flame of Agnon is at Cylarne: Sheogorath's minions are fighting over Cylarne in their eternal quest to please him"
+        ],
+        "quest": {
+            "title": "The Cold Flame of Agnon",
+            "objective": "get the Flame of Agnon to relight the great torch over New Sheoth",
+            "tasks": [
+                "Go to Cylarne.",
+                "take care of Sheogorath's minions",
+                "get the Flame of Agnon to relight the great torch over New Sheoth"
+            ],
+            "description": "You've seen the Great Torch that burns brightly over New Sheoth? No? Because it doesn't. It should. But it doesn't. You'll fix that. You'll go to Cylarne and bring back the Flame of Agnon to relight the torch.\nOh... and take care with my minions at Cylarne. In their eternal quest to please me, they're constantly fighting over Cylarne. It can be tiresome. But, really, it's divine. Divinely tiresome. Well. That's your problem now.\nOff with you. I don't want to see you again until the Great Torch is lit. I wouldn't want to have to hurt you."
+        }
+    },
+    {
+        "id": 180,
+        "game": "TESO",
+        "kbs": {
+            "TESO336": [
+                "Martin",
+                "the player's friend",
+                [
+                    [
+                        "type",
+                        "character"
+                    ]
+                ]
+            ],
+            "TESO259": [
+                "Jauffre",
+                "the male Grandmaster of the Blades",
+                [
+                    [
+                        "type",
+                        "character"
+                    ]
+                ]
+            ],
+            "TESO555": [
+                "Tiber Septim",
+                "the legendary male Emperor who ascended to divinity",
+                [
+                    [
+                        "type",
+                        "character"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Martin needs the blood of a Divine for the ritual to open the portal to Camoran's Paradise in addition to the first item, the blood of a Daedra"
+        ],
+        "quest": {
+            "title": "Blood of the Divines",
+            "objective": "recover the blood of a Divine for Martin",
+            "tasks": [
+                "talk to Jauffre about obtaining the blood of Tiber Septim",
+                "recover the blood of a Divine for Martin"
+            ],
+            "description": "I've figured out another item needed for the ritual to open the portal to Camoran's Paradise. The second item is the counterpart to the first: the blood of a Divine.\nThis was a terrible puzzle to me. Unlike the Daedra, the gods have no artifacts, and do not physically manifest themselves in our world.\nHow then to obtain the blood of a god? But Jauffre solved it. The blood of Tiber Septim himself, who became one of the Divines. This is a secret remembered only by the Blades, passed down from one Grandmaster to the next.\nJauffre should tell it to you himself."
+        }
+    },
+    {
+        "id": 58,
+        "game": "TESS",
+        "kbs": {
+            "TESS196": [
+                "Vilkas",
+                "a fellow member of the Companions, and a werewolf",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Sovngarde"
+                    ]
+                ]
+            ],
+            "TESS110": [
+                "Sovngarde",
+                "the storied underworld of honorable heroes",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Tomb of Ysgramor"
+                    ]
+                ]
+            ],
+            "TESS216": [
+                "Tomb of Ysgramor",
+                "a tomb where lycanthropy can be cured",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS200": [
+                "Kodlak",
+                "the dead male leader of the Companions",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Sovngarde"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Kodlak's final teaching: those with beastblood cannot enter Sovngarde",
+            "the player has a head of the Glenmoril that is needed to cure lycanthropy"
+        ],
+        "quest": {
+            "title": "Purity",
+            "objective": "handle Vilkas' personal troubles",
+            "tasks": [
+                "Go to Tomb of Ysgramor.",
+                "help Vilkas give up his beastblood",
+                "handle Vilkas' personal troubles"
+            ],
+            "description": "There is always work for the Companions. But there is more personal task before me.\nKodlak's final teaching is troubling me. I think he was right about beastblood and Sovngarde. I wish to cleanse myself that I might know glory in the afterlife.\nWill you help me give up my beasthood? You still bear a head of the Glenmoril betrayers, yes? Then lead on, back to the Tomb of Ysgramor.\nMy soul is now prepared."
+        }
+    },
+    {
+        "id": 24,
+        "game": "TL2",
+        "kbs": {
+            "TL2109": [
+                "Hareph",
+                "a relieved Zeraphi master of explosives",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "an outpost"
+                    ]
+                ]
+            ],
+            "TL2110": [
+                "an outpost",
+                "an outpost",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Swarm Point"
+                    ]
+                ]
+            ],
+            "TL2111": [
+                "Swarm Point",
+                "a Skara nest",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Hareph and his Zeraphi crew came to the outpost to deal with the Skara: the crew went to investigate the stacks and never came back",
+            "Hareph gives the player explosives"
+        ],
+        "quest": {
+            "title": "Shadow of the Skara",
+            "objective": "help the Zeraphi any way you can",
+            "tasks": [
+                "Go to Swarm Point.",
+                "search for surviving Zeraphi",
+                "help the Zeraphi any way you can"
+            ],
+            "description": "I'm so relieved you have arrived! My crew and I journeyed to this outpost to deal with the increasingly aggressive Skara.\nI remained here to fashion additional explosives while my crew investigated the stacks, but they never returned. I have been unable to leave here because of the swarming Skara.\nPlease take these explosives with you and journey to Swarm Point, and search for any surviving Zeraphi and help them in any way you can!"
+        }
+    },
+    {
+        "id": 86,
+        "game": "TESS",
+        "kbs": {
+            "TESS24": [
+                "Riften",
+                "a city",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "just outside Riften"
+                    ]
+                ]
+            ],
+            "TESS324": [
+                "just outside Riften",
+                "just outside Riften",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the player is torturing their prisoner: the prisoner's father hid her dowry"
+        ],
+        "quest": {
+            "title": "Canceled Wedding",
+            "objective": "find the hidden dowry for yourself",
+            "tasks": [
+                "get your prisoner's dowry from a hollowed-out tree stump",
+                "find the hidden dowry for yourself"
+            ],
+            "description": "You... you can't do this to me. Do you have any idea who I am? When my father hears about this, he will gut you.\nAh, now I understand. This is about my father's hidden cache, isn't it? The dowry for my wedding? Ha! Well it's safely hidden away, in a hollowed-out tree stump. Just outside Riften, tucked away nice and secure. You'll never find it.\nDamn it. I gave it away, didn't I?"
+        }
+    },
+    {
+        "id": 19,
+        "game": "TESS",
+        "kbs": {
+            "TESS77": [
+                "Tolfdir",
+                "the player's teacher at the College of Winterhold",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "outside the College of Winterhold"
+                    ]
+                ]
+            ],
+            "TESS78": [
+                "outside the College of Winterhold",
+                "outside the College of Winterhold",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Labyrinthian"
+                    ]
+                ]
+            ],
+            "TESS79": [
+                "Labyrinthian",
+                "an ancient ruin",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "College of Winterhold"
+                    ]
+                ]
+            ],
+            "TESS12": [
+                "College of Winterhold",
+                "a school of mages",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS80": [
+                "Ancano",
+                "a power-hungry male wizard",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "College of Winterhold"
+                    ]
+                ]
+            ],
+            "TESS81": [
+                "Eye of Magnus",
+                "a dangerous, powerful artifact",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Tolfdir"
+                    ]
+                ]
+            ],
+            "TESS82": [
+                "Staff of Magnus",
+                "a powerful staff that can breach magical shields according to the Psijics",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Tolfdir"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "Tolfdir and the others can't crack Ancano's magical shield around the College of Winterhold",
+            "the player got the Staff of Magnus the Labyrinthian"
+        ],
+        "quest": {
+            "title": "The Eye of Magnus",
+            "objective": "force Ancano stop exploiting the Eye of Magnus",
+            "tasks": [
+                "get inside the College of Winterhold with the Staff of Magnus and reach Ancano",
+                "force Ancano stop exploiting the Eye of Magnus"
+            ],
+            "description": "Ancano has sealed himself inside the College! The Eye of Magnus is is growing his power. We can't crack whatever magic he's using to shield himself.\nI hope your trip to Labyrinthian was worth it. You have the Staff of Magnus, then? Let's hope it's as powerful as the Psijics believe it to be.\nYou're the one with the staff, my child. If it can help us get inside the College, and reach Ancano, we'll have to hope that there's a way to stop all this."
+        }
+    },
+    {
+        "id": 90,
+        "game": "TESS",
+        "kbs": {
+            "TESS331": [
+                "Torsten Cruel-Sea",
+                "a grieving father",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Windhelm"
+                    ],
+                    [
+                        "present in",
+                        "Niranye's house in Windhelm"
+                    ]
+                ]
+            ],
+            "TESS32": [
+                "Windhelm",
+                "a city",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS332": [
+                "Niranye's house in Windhelm",
+                "Niranye's house in Windhelm",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "TESS333": [
+                "Fjotli",
+                "Torsten Cruel-Sea's daughter, who liked wearing a lot of jewelry",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Niranye's house in Windhelm"
+                    ]
+                ]
+            ],
+            "TESS334": [
+                "Niranye",
+                "a woman affiliated with the Summerset Shadows",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Windhelm"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the player is a member of the Thieves Guild",
+            "Fjotli was robbed and murdered: Torsten Cruel-Sea tracked down the murderer, a member of the Summerset Shadows, and killed him"
+        ],
+        "quest": {
+            "title": "Summerset Shadows",
+            "objective": "remove the Summerset Shadows from the picture, and return Torsten Cruel-Sea's silver locket to him",
+            "tasks": [
+                "Go to .",
+                "find information about the Summerset Shadows",
+                "remove the Summerset Shadows from the picture, and return Torsten Cruel-Sea's silver locket to him"
+            ],
+            "description": "My daughter Fjotli... she was murdered a few months ago. Left her laying on the ground in a pool of her own blood. I assume they were after her valuables... she always wore far too much jewelry in public. When I told her it'd be the death of her, I never thought...\nNo need to explain, I'm well aware of your Guild's methods do not include killing. It took me weeks, but I finally tracked down the killer. A bloody Altmer at that. Can you imagine? Let's just say I'm a firm believer in an eye for an eye and leave it at that.\nThe killer fancied himself a thief in some sort of a new Guild forming around here. Gave me some valuable information before... well, you know. Well, I think we can help each other. You recover what I'm looking for and take out a rival Guild in the process. One of the pieces stolen from Fjotli was a silver locket, a Cruel-Sea family heirloom. I want it back.\nThe only name I have is Niranye. Has a house right here in Windhelm. That's where you should begin looking."
         }
     },
     {
         "id": 4,
-        "game": "TL2",
-        "kbs": {
-            "TL235": [
-                "Eldrayn",
-                "a local leader",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Wellspring Temple"
-                    ]
-                ]
-            ],
-            "TL236": [
-                "Wellspring Temple",
-                "a temple",
-                [
-                    [
-                        "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "TL237": [
-                "Commander Vale",
-                "a female military leader",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Wellspring Temple"
-                    ]
-                ]
-            ],
-            "TL238": [
-                "Alchemist",
-                "an evil man",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Wellspring Temple"
-                    ]
-                ]
-            ],
-            "TL239": [
-                "Guardian of Water",
-                "a powerful being upholding peace",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Wellspring Temple"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Commander Vale believes that the Alchemist might attack the Wellspring Temple: the Alchemist wants to reach the Guardian of Water"
-        ],
-        "quest": {
-            "title": "Protect the Guardian!",
-            "objective": "protect the Guardian of Water",
-            "tasks": [
-                "Go to Wellspring Temple.",
-                "scout the Wellspring Temple",
-                "protect the Guardian of Water"
-            ],
-            "description": "Commander Vale believes that the Alchemist might attack the Wellspring Temple, in an attempt to reach the Guardian of Water ... for what nefarious purpose I am afraid to speculate. There has been no word from either Vale, or the Guardian.\nScout the Wellspring Temple, and determine if the Guardian of Water is in any danger."
-        }
-    },
-    {
-        "id": 20,
         "game": "BG2",
         "kbs": {
-            "BG268": [
-                "Malaaq",
-                "a djinni",
+            "BG216": [
+                "Dawnbringer Sain",
+                "priest of Lathander",
                 [
                     [
                         "type",
@@ -1658,13 +2329,13 @@
                     ],
                     [
                         "present in",
-                        "Plane of Air"
+                        "temple of Lathander"
                     ]
                 ]
             ],
-            "BG269": [
-                "Plane of Air",
-                "realm of genies",
+            "BG220": [
+                "temple of Lathander",
+                "temple of Lathander",
                 [
                     [
                         "type",
@@ -1672,121 +2343,9 @@
                     ]
                 ]
             ],
-            "BG270": [
-                "Irenicus",
-                "an evil male wizard",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "Plane of Air"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Malaaq was bound to guard Irenicus' items and the player's weapon",
-            "Malaaq was captured from his home, Plane of Air, by Irenicus",
-            "Malaaq will be free if he is given his original flask"
-        ],
-        "quest": {
-            "title": "Free the Genie",
-            "objective": "return Malaaq's flask to him",
-            "tasks": [
-                "find Malaaq's flask",
-                "return Malaaq's flask to him"
-            ],
-            "description": "I am djinni Malaaq and I have been bound by a wizard to guard his items, and your item it seems. I can sense your touch upon this weapon.\nIf you can secure the means of my release, I will give you your weapon.\nI was captured in my home, on Plane of Air, by some wizard. He bound me to this flask that I might guard his things. You must find my original flask and bring it back to me. Once it is within my grasp, I can break the enchantment and be freed."
-        }
-    },
-    {
-        "id": 11,
-        "game": "BG1",
-        "kbs": {
-            "BG166": [
-                "Mr. Colquetle",
-                "a depressed man",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Mr. Colquetle's son and his wife traveled away and went missing"
-        ],
-        "quest": {
-            "title": "Colquetle's Family",
-            "objective": "find out what happened to Mr. Colquetle's son and his wife",
-            "tasks": [
-                "find Mr. Colquetle's son and his wife",
-                "find out what happened to Mr. Colquetle's son and his wife"
-            ],
-            "description": "What cruel whim of the fates controls this torment of me?!\nI, Mr. Colquetle, have heard nothing from my son and his wife for nigh unto a week now, and all else pales in importance until I do. I should have known better than to allow his travel in these dangerous times."
-        }
-    },
-    {
-        "id": 232,
-        "game": "TESS",
-        "kbs": {
-            "TESS193": [
-                "Arnbjorn",
-                "a fellow member of the Dark Brotherhood, a man",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "outside by the pool"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "the player is the Listener of the Dark Brotherhood",
-            "Cicero went berserk because he overheard Astrid complain about the Night Mother and the player being the listener: Cicero wounded Veezara and tried to kill Astrid before fleeing"
-        ],
-        "quest": {
-            "title": "The Cure for Madness",
-            "objective": "confront Cicero and kill him",
-            "tasks": [
-                "Go to .",
-                "Go to .",
-                "find Arnbjorn and make sure he is alright",
-                "search Cicero's room for clues about where he has gone and let Astrid know about your findings",
-                "confront Cicero and kill him"
-            ],
-            "description": "The fool Cicero went absolutely berserk! He wounded Veezara, tried to kill me, and then he fled. I knew that lunatic couldn't be trusted.\nNothing set Cicero off. At least nothing I'm aware of. Well... If I'm being honest, I haven't exactly been discreet lately in expressing my frustration with this whole situation. Obeying the Night Mother. You being the Listener. It's ridiculous. No offense. Cicero may have overheard me talking to one of the others about the Night Mother. It's possible I was... not entirely respectful. But to go this far. To attempt to murder the leader of a Sanctuary. Cicero must pay with his life. There is no other option.\nI want you to find that miserable little fool and end his life! But first... find my husband. Make sure he's all right. After the attack, Arnbjorn flew into a rage. When Cicero left... Arnbjorn went after him. They disappeared into the wild. Take my horse, Shadowmere. You'll find him outside, by the pool, when you go find Arnbjorn. Search Cicero's room here. Maybe there's something in there that sheds some light on where he might have gone.\nLet me know the minute you find something. I've got to see to Veezara, and calm everyone down."
-        }
-    },
-    {
-        "id": 187,
-        "game": "TESO",
-        "kbs": {
-            "TESO551": [
-                "Gin-Wulm",
-                "a blacksmith",
-                [
-                    [
-                        "type",
-                        "character"
-                    ],
-                    [
-                        "present in",
-                        "First Edition"
-                    ]
-                ]
-            ],
-            "TESO552": [
-                "First Edition",
-                "a bookstore",
+            "BG221": [
+                "the slums at night",
+                "the slums at night",
                 [
                     [
                         "type",
@@ -1794,9 +2353,9 @@
                     ]
                 ]
             ],
-            "TESO553": [
-                "Hazadir",
-                "a famous man related to the history of smithing",
+            "BG222": [
+                "Lathander, the Morninglord",
+                "the good god of dawn",
                 [
                     [
                         "type",
@@ -1804,32 +2363,13 @@
                     ],
                     [
                         "present in",
-                        "First Edition"
+                        "temple of Lathander"
                     ]
                 ]
-            ]
-        },
-        "plots": [
-            "the player asked smithing training from Gin-Wulm"
-        ],
-        "quest": {
-            "title": "Smithing Training",
-            "objective": "answer Gin-Wulm what the name Hazadir means, proving Gin-Wulm that you know about the history of smithing",
-            "tasks": [
-                "Go to First Edition.",
-                "find a book about Hazadir to find the answer",
-                "answer Gin-Wulm what the name Hazadir means, proving Gin-Wulm that you know about the history of smithing"
             ],
-            "description": "Mighty bold of you, asking for smithing training. What makes you think you're worth my time?\nI bet you don't know the first thing about smithing. Have you read up on the history of the craft? I doubt it. You answer a simple question, and I'll think about training you.\nSo here it is: What does the name Hazadir mean to you? Few recognize the name anymore, even though he was famous.\nHad a book written about him, in fact! I don't have a copy myself, but there was one in First Edition last time I was browsing there. At least some people take an interest in history."
-        }
-    },
-    {
-        "id": 6,
-        "game": "TL2",
-        "kbs": {
-            "TL239": [
-                "Alchemist",
-                "a man who has Ordrak's Heart",
+            "BG223": [
+                "Talos",
+                "an evil god",
                 [
                     [
                         "type",
@@ -1837,13 +2377,13 @@
                     ],
                     [
                         "present in",
-                        "Ossean Wastes"
+                        "temple of Lathander"
                     ]
                 ]
             ],
-            "TL240": [
-                "Ordrak's Heart",
-                "a destructive artifact",
+            "BG224": [
+                "Dawn Ring",
+                "a ring",
                 [
                     [
                         "type",
@@ -1851,37 +2391,38 @@
                     ],
                     [
                         "held by",
-                        "Commander Vale"
+                        "Dawnbringer Sain"
                     ],
                     [
                         "present in",
-                        "Ossean Wastes"
+                        "the slums at night"
                     ]
                 ]
             ]
         },
         "plots": [
-            "Ordrak's Heart wreaking havoc",
-            "the Guardian wants the player to go to the Ossean Wastes"
+            "there are many new artworks and aged relics on display at the temple of Lathander",
+            "Dawn Ring was stolen from the temple of Lathander",
+            "the thieves were hired by the Talassans of temple of Talos"
         ],
         "quest": {
-            "title": "Return to the Enclave",
-            "objective": "stop the Alchemist before it's too late",
+            "title": "Another Mission for the Temple of Lathander",
+            "objective": "return Dawn Ring to the temple of Lathander",
             "tasks": [
-                "Go to Ossean Wastes.",
-                "go to the Ossean Wastes with the help of Commander Vale",
-                "stop the Alchemist before it's too late"
+                "Go to .",
+                "intercept the thieves transporting Dawn Ring",
+                "return Dawn Ring to the temple of Lathander"
             ],
-            "description": "I don't know if the Alchemist understands that Ordrak's Heart is wreaking such havoc... or if he just doesn't care! I hope there's still a chance to stop him, one way or another, before it's too late.\nSo the Guardian wants you to head to the Ossean Wastes? You know what? I think I can help you with that..."
+            "description": "Good day, it's Dawnbringer Sain, the priest of Lathander.\nI would ask a dangerous thing of you. You're free to refuse, but the greater glory of Lathander is at stake.\nThe Morninglord takes great pride in the artifacts of his rule. We have many items on display at the temple of Lathander, from new artworks to the aged relics of bygone days. Today we are one less. We are the victims of thievery, and our followers have been shaken by this vulnerability. Quick steps must be taken to rectify this.\nWe know the culprits; they have not concealed their crime. Talassans, slinking from their temple to degrade our worship, hired common thieves for the deed! They fear no retribution. The Morninglord cannot suffer his relics in the hands of such evil.\nFind these thieves before the Talassans receive the items.\nThe spark of dawn has lit the way.\nGo to the filth of the slums at night and intercept the delivery of our Dawn Ring. Bring it back to its proper place."
         }
     },
     {
-        "id": 84,
-        "game": "MC",
+        "id": 1,
+        "game": "BG2",
         "kbs": {
-            "MC231": [
-                "Sam",
-                "a fame-seeking man",
+            "BG24": [
+                "Vithal",
+                "a mage and adventurer",
                 [
                     [
                         "type",
@@ -1889,13 +2430,71 @@
                     ],
                     [
                         "present in",
-                        "a village"
+                        "a svirfneblin village to the north"
                     ]
                 ]
             ],
-            "MC232": [
-                "a village",
-                "a village",
+            "BG26": [
+                "a svirfneblin village to the north",
+                "a svirfneblin village to the north",
+                [
+                    [
+                        "type",
+                        "location"
+                    ]
+                ]
+            ],
+            "BG27": [
+                "Vithal's book of rituals",
+                "Vithal's book of rituals",
+                [
+                    [
+                        "type",
+                        "object"
+                    ],
+                    [
+                        "held by",
+                        "Vithal"
+                    ]
+                ]
+            ]
+        },
+        "plots": [
+            "the player released Vithal from imprisonment",
+            "Vithal lost his book of rituals",
+            "Vithal needs the book of rituals to breach the walls between dimensions"
+        ],
+        "quest": {
+            "title": "A Mage's Proposal",
+            "objective": "help Vithal breach the walls between dimensions",
+            "tasks": [
+                "recover Vithal's book of rituals",
+                "help Vithal breach the walls between dimensions"
+            ],
+            "description": "Ahh! Thank you for releasing me. I'm Vithal, an adventuring mage. If you could aid me a bit, I would be forever grateful. There will be items enough for us both.\nThis spot is \"thin,\" and careful spells may breach the walls between dimensions. On the other side, one might find some valuable magic, if one knows where to look. I cannot cast the actual dimension-breaching spells without the procedures outlined in my book of rituals. I imagine it was taken after I was imprisoned. There were svirfneblin observing my conflict: Perhaps they took it. I cannot blame them. I am sure I appeared quite permanently lost.\nI believe there is a svirfneblin village to the north. They may have taken my gear there. If you go, tell them they may keep everything but the book."
+        }
+    },
+    {
+        "id": 40,
+        "game": "TESO",
+        "kbs": {
+            "TESO60": [
+                "Haskill",
+                "the player's servant",
+                [
+                    [
+                        "type",
+                        "character"
+                    ],
+                    [
+                        "present in",
+                        "Palace"
+                    ]
+                ]
+            ],
+            "TESO161": [
+                "Palace",
+                "Palace",
                 [
                     [
                         "type",
@@ -1903,42 +2502,23 @@
                     ],
                     [
                         "connected to",
-                        "Nether"
+                        "Fountainhead"
                     ]
                 ]
             ],
-            "MC233": [
-                "Nether",
-                "a dangerous, hellish ream",
+            "TESO162": [
+                "Fountainhead",
+                "beneath the Tree",
                 [
                     [
                         "type",
                         "location"
                     ]
                 ]
-            ]
-        },
-        "plots": [
-            "Sam wants reputation"
-        ],
-        "quest": {
-            "title": "A Tour in Hell",
-            "objective": "explore the Nether with Sam",
-            "tasks": [
-                "Go to Nether.",
-                "go to the Nether with Sam",
-                "explore the Nether with Sam"
             ],
-            "description": "I really want to see something more interesting than the bounds of this village. That would also elevate my status among the other villagers.\nTraveler, can you take me to the Nether? I want see that hellish realm myself, but I can't fend off its dangers all by myself. Let us explore the place together.\nYou will also get a fair reward for being my guide in the Nether: 10 diamonds. Don't spend them all at once."
-        }
-    },
-    {
-        "id": 2,
-        "game": "MC",
-        "kbs": {
-            "MC5": [
-                "Matt",
-                "an annoyed villager",
+            "TESO163": [
+                "Thadon",
+                "a man who betrayed the player by joining Jyggalag",
                 [
                     [
                         "type",
@@ -1946,113 +2526,49 @@
                     ],
                     [
                         "present in",
-                        "a village"
+                        "Palace"
                     ]
                 ]
             ],
-            "MC7": [
-                "a village",
-                "a village",
+            "TESO164": [
+                "Jyggalag",
+                "a man who wants the player's Realm",
                 [
                     [
                         "type",
-                        "location"
-                    ]
-                ]
-            ],
-            "MC8": [
-                "Ender Pearls",
-                "spawn Endermites when thrown",
-                [
-                    [
-                        "type",
-                        "object"
+                        "character"
                     ],
                     [
-                        "held by",
-                        "Matt"
+                        "present in",
+                        "Fountainhead"
                     ]
                 ]
             ]
         },
         "plots": [
-            "Matt wants comfort"
+            "the player has come back to the Palace",
+            "The Font of Madness in the middle of the throne room in the Palace has been tainted with Order: as goes the Font of Madness, so goes the Realm",
+            "soon we will all be serving a new master, Jyggalag: the forces of Order have poisoned the Pools of Mania and Dementia that feed the Font of Madness",
+            "the traitor Thadon is probably behind the poisoning instead of Jyggalag himself"
         ],
         "quest": {
-            "title": "Pests Be Come",
-            "objective": "take care of the Endermites that have been bothering the villagers",
+            "title": "The Roots of Madness",
+            "objective": "cleanse the Pools of Madness and the Font of Madness from the taint of Order",
             "tasks": [
-                "Go to .",
-                "kill Endermites",
-                "take care of the Endermites that have been bothering the villagers"
+                "Go to Fountainhead.",
+                "find the source of the taint of Order",
+                "cleanse the Pools of Madness and the Font of Madness from the taint of Order"
             ],
-            "description": "Some incredibly foolish individual's been throwing Ender Pearls all over our village! Now the whole place is crawling with Endermites!\nCould you take care of those little critters before they cause any serious issues? Kill them all, and receive 16 golden carrots for your trouble. You would have all our thanks, too."
+            "description": "Ah, you're back. You may have noticed that we have a... bit of a problem.\nMy Liege of course noticed the Font when you arrived in the Palace. The Font of Madness, in the middle of the throne room.\nThe taint of Order appeared only a short time ago, but it has spread quickly. As goes the Font of Madness, so goes the Realm. Soon we will all be serving a new master, Jyggalag.\nSomehow the forces of Order have poisoned the Pools of Mania and Dementia that feed the Font. I suspect the traitor Thadon. Jyggalag has never had an original thought in his existence. Be that as it may. You will have to enter the Fountainhead beneath the Tree and find the source of the poison."
         }
     },
     {
-        "id": 153,
+        "id": 78,
         "game": "TESS",
         "kbs": {
-            "TESS587": [
-                "Deor Woodcutter",
-                "a Skaal man in a bad mood",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ],
-            "TESS588": [
-                "Baldor Iron-Shaper",
-                "a Skaal man, the only blacksmith in the Skaal village",
-                [
-                    [
-                        "type",
-                        "character"
-                    ]
-                ]
-            ],
-            "TESS589": [
-                "Stalhrim",
-                "a strange metal",
-                [
-                    [
-                        "type",
-                        "object"
-                    ],
-                    [
-                        "held by",
-                        "Deor Woodcutter"
-                    ],
-                    [
-                        "held by",
-                        "Baldor Iron-Shaper"
-                    ]
-                ]
-            ]
-        },
-        "plots": [
-            "Baldor Iron-Shaper is the keeper of an ancient tradition, the forging of Stalhrim",
-            "Deor Woodcutter saw two elves in the far distance, dragging something behind them in the woods on the day Baldor Iron-Shaper disappeared: the elves went south and west"
-        ],
-        "quest": {
-            "title": "A New Source of Stalhrim",
-            "objective": "find Baldor Iron-Shaper",
-            "tasks": [
-                "search for any sign of Baldor",
-                "find Baldor Iron-Shaper"
-            ],
-            "description": "I am in no mood to talk, outsider. One of the Skaal has gone missing. It is Baldor Iron-Shaper. As our only smith, Baldor is very important to the village.\nBaldor is the keeper of an ancient tradition, the forging of Stalhrim. It is an art we Skaal hold sacred. If someone wanted to make such weapons, they would have to get that knowledge from Baldor.\nI did see something in the woods on the day he disappeared. I saw two elves in the far distance, dragging something behind them. Hunters often visit our lands, so I thought little of it.\nThe elves went south and west. If your road takes you that way, perhaps you could search for any sign of Baldor. The Skaal would be grateful."
-        }
-    },
-    {
-        "id": 10,
-        "game": "TL2",
-        "kbs": {
-            "TL253": [
-                "Edovar",
-                "a spirit of an ambitious thief",
+            "TESS296": [
+                "Revyn Sadri",
+                "a merchant dealing in used goods",
                 [
                     [
                         "type",
@@ -2060,13 +2576,27 @@
                     ],
                     [
                         "present in",
-                        "Wellspring Basin"
+                        "Revyn Sadri's store"
                     ]
                 ]
             ],
-            "TL254": [
-                "Wellspring Basin",
-                "a temple",
+            "TESS297": [
+                "Revyn Sadri's store",
+                "Revyn Sadri's store",
+                [
+                    [
+                        "type",
+                        "location"
+                    ],
+                    [
+                        "connected to",
+                        "Viola Giordano's house"
+                    ]
+                ]
+            ],
+            "TESS298": [
+                "Viola Giordano's house",
+                "Viola Giordano's house",
                 [
                     [
                         "type",
@@ -2074,33 +2604,33 @@
                     ]
                 ]
             ],
-            "TL255": [
-                "Glyph of Balthazar",
-                "an artifact that has power over water",
+            "TESS299": [
+                "Viola Giordano",
+                "a woman who fancies herself a criminal investigator",
                 [
                     [
                         "type",
-                        "object"
+                        "character"
                     ],
                     [
-                        "held by",
-                        "Edovar"
+                        "present in",
+                        "Viola Giordano's house"
                     ]
                 ]
             ]
         },
         "plots": [
-            "Edovar stole the Glyph of Balthazar from the Wellspring Basin: he died while trying to use the Glyph of Balthazar and was trapped drowning forever"
+            "the player asked Revyn Sadri whether something in his store is stolen"
         ],
         "quest": {
-            "title": "Wash Away My Sins",
-            "objective": "set Edovar free",
+            "title": "That Was Always There",
+            "objective": "return Viola Giordano's gold ring to her without her knowing",
             "tasks": [
-                "Go to Wellspring Basin.",
-                "return the Glyph of Balthazar",
-                "set Edovar free"
+                "Go to .",
+                "sneak inside the house and place Viola Giordano's gold ring in a dresser",
+                "return Viola Giordano's gold ring to her without her knowing"
             ],
-            "description": "I am merely spirit, but I mean you no harm. In life, I was an ambitious thief, and I thought I was invincible. My greatest achievement was when I stole the Glyph of Balthazar from the Wellspring Basin. I thought I could master its power over water, but I was very, very wrong.\nNow I am trapped here in eternal torment, drowning forever, unable to rectify my mistake. Will you return the Glyph of Balthazar to the Wellspring Basin, and set my spirit free at last?"
+            "description": "Of course nothing in here is stolen. Only a careless, shameful, idiotic fetcher would do something as stupid as to buy pilfered goods....\nOh by Azura, I've made a terrible mistake. I bought a gold ring, and Viola Giordano has been missing a ring that looks just like it.\nCould you return the ring to her? It's not that easy. She'd go to the guard if she knew I was even remotely involved. You have to get it to her some other way.\nLook, it's dangerous, but if you sneak the ring into her house. Put it in a dresser or something. I will make it worth your while."
         }
     }
 ]

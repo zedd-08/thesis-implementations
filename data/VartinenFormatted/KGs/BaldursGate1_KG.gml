@@ -369,6 +369,7 @@ graph [
     id 61
     label "next to Dreppin"
     type "location"
+    description "next to Dreppin"
   ]
   node [
     id 62
@@ -470,6 +471,7 @@ graph [
     id 78
     label "Brun's farm"
     type "location"
+    description "Brun's farm"
   ]
   node [
     id 79
@@ -661,6 +663,7 @@ graph [
     id 110
     label "next to Laerta"
     type "location"
+    description "next to Laerta"
   ]
   node [
     id 111
@@ -738,6 +741,7 @@ graph [
     id 123
     label "the marker square"
     type "location"
+    description "the marker square"
   ]
   node [
     id 124
@@ -863,6 +867,7 @@ graph [
     id 144
     label "outside Candlekeep Inn"
     type "location"
+    description "outside Candlekeep Inn"
   ]
   node [
     id 145
@@ -922,6 +927,7 @@ graph [
     id 154
     label "outside Reevor's storehouse"
     type "location"
+    description "outside Reevor's storehouse"
   ]
   node [
     id 155
@@ -945,6 +951,7 @@ graph [
     id 158
     label "the gnoll stronghold"
     type "location"
+    description "the gnoll stronghold"
   ]
   node [
     id 159
@@ -956,6 +963,7 @@ graph [
     id 160
     label "with Minsc"
     type "location"
+    description "with Minsc"
   ]
   node [
     id 161
@@ -1027,6 +1035,7 @@ graph [
     id 172
     label "with Lena"
     type "location"
+    description "with Lena"
   ]
   node [
     id 173
@@ -1038,6 +1047,7 @@ graph [
     id 174
     label "the Temple of Wisdom"
     type "location"
+    description "the Temple of Wisdom"
   ]
   node [
     id 175
@@ -1115,6 +1125,7 @@ graph [
     id 187
     label "in his room in Feldepost's Inn"
     type "location"
+    description "in his room in Feldepost's Inn"
   ]
   node [
     id 188
@@ -1126,6 +1137,7 @@ graph [
     id 189
     label "the town"
     type "location"
+    description "the town"
   ]
   node [
     id 190
@@ -1203,6 +1215,7 @@ graph [
     id 202
     label "the Flaming Fist compound"
     type "location"
+    description "the Flaming Fist compound"
   ]
   node [
     id 203
@@ -1352,6 +1365,7 @@ graph [
     id 227
     label "Bentha's tent"
     type "location"
+    description "Bentha's tent"
   ]
   node [
     id 228
@@ -1399,6 +1413,7 @@ graph [
     id 235
     label "the village"
     type "location"
+    description "the village"
   ]
   node [
     id 236
@@ -1494,6 +1509,7 @@ graph [
     id 251
     label "forest"
     type "location"
+    description "forest"
   ]
   node [
     id 252
@@ -1679,6 +1695,7 @@ graph [
     id 282
     label "the Flaming Fist barracks"
     type "location"
+    description "the Flaming Fist barracks"
   ]
   node [
     id 283
@@ -1696,6 +1713,7 @@ graph [
     id 285
     label "a cabin"
     type "location"
+    description "a cabin"
   ]
   node [
     id 286
@@ -1719,6 +1737,7 @@ graph [
     id 289
     label "the Merchants' League Estate"
     type "location"
+    description "the Merchants' League Estate"
   ]
   edge [
     source 1

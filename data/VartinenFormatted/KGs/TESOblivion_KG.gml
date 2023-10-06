@@ -51,6 +51,7 @@ graph [
     id 8
     label "a small campsite"
     type "location"
+    description "a small campsite"
   ]
   node [
     id 9
@@ -308,6 +309,7 @@ graph [
     id 51
     label "Sheogorath's realm"
     type "location"
+    description "Sheogorath's realm"
   ]
   node [
     id 52
@@ -367,6 +369,7 @@ graph [
     id 61
     label "Pyke's home in Shivering Isles"
     type "location"
+    description "Pyke's home in Shivering Isles"
   ]
   node [
     id 62
@@ -504,6 +507,7 @@ graph [
     id 84
     label "Tivela Lythandas and Rythe's home"
     type "location"
+    description "Tivela Lythandas and Rythe's home"
   ]
   node [
     id 85
@@ -611,6 +615,7 @@ graph [
     id 102
     label "Rosentia Gallenus' home in Leyawiin"
     type "location"
+    description "Rosentia Gallenus' home in Leyawiin"
   ]
   node [
     id 103
@@ -742,6 +747,7 @@ graph [
     id 124
     label "Oblivion"
     type "location"
+    description "Oblivion"
   ]
   node [
     id 125
@@ -795,6 +801,7 @@ graph [
     id 133
     label "Arkved's Tower"
     type "location"
+    description "Arkved's Tower"
   ]
   node [
     id 134
@@ -812,6 +819,7 @@ graph [
     id 136
     label "Waterfront District"
     type "location"
+    description "Waterfront District"
   ]
   node [
     id 137
@@ -901,6 +909,7 @@ graph [
     id 151
     label "Palace"
     type "location"
+    description "Palace"
   ]
   node [
     id 152
@@ -960,6 +969,7 @@ graph [
     id 161
     label "a roof"
     type "location"
+    description "a roof"
   ]
   node [
     id 162
@@ -1067,6 +1077,7 @@ graph [
     id 179
     label "a tavern"
     type "location"
+    description "a tavern"
   ]
   node [
     id 180
@@ -1150,6 +1161,7 @@ graph [
     id 193
     label "outdoors"
     type "location"
+    description "outdoors"
   ]
   node [
     id 194
@@ -1179,6 +1191,7 @@ graph [
     id 198
     label "the inner sanctum of Vitharn"
     type "location"
+    description "the inner sanctum of Vitharn"
   ]
   node [
     id 199
@@ -1622,6 +1635,7 @@ graph [
     id 272
     label "Herminia Cinna's home"
     type "location"
+    description "Herminia Cinna's home"
   ]
   node [
     id 273
@@ -1891,6 +1905,7 @@ graph [
     id 317
     label "Leyawiin, in the City Watch barracks"
     type "location"
+    description "Leyawiin, in the City Watch barracks"
   ]
   node [
     id 318
@@ -1932,6 +1947,7 @@ graph [
     id 324
     label "Mankar Camoran's Paradise"
     type "location"
+    description "Mankar Camoran's Paradise"
   ]
   node [
     id 325
@@ -1955,6 +1971,7 @@ graph [
     id 328
     label "Bloodworks in the Imperial City"
     type "location"
+    description "Bloodworks in the Imperial City"
   ]
   node [
     id 329
@@ -2008,6 +2025,7 @@ graph [
     id 337
     label "the sanctuary of the Order of the Virtuous Blood in the Imperial City"
     type "location"
+    description "the sanctuary of the Order of the Virtuous Blood in the Imperial City"
   ]
   node [
     id 338
@@ -2745,6 +2763,7 @@ graph [
     id 460
     label "Malene's inn"
     type "location"
+    description "Malene's inn"
   ]
   node [
     id 461
@@ -3026,6 +3045,7 @@ graph [
     id 507
     label "Molag Bal's Shrine"
     type "location"
+    description "Molag Bal's Shrine"
   ]
   node [
     id 508
@@ -3055,6 +3075,7 @@ graph [
     id 512
     label "Umbacano's house"
     type "location"
+    description "Umbacano's house"
   ]
   node [
     id 513
@@ -3102,6 +3123,7 @@ graph [
     id 520
     label "J'Ghasta's house"
     type "location"
+    description "J'Ghasta's house"
   ]
   node [
     id 521
@@ -3221,6 +3243,7 @@ graph [
     id 540
     label "Baenlin's house"
     type "location"
+    description "Baenlin's house"
   ]
   node [
     id 541
@@ -3364,6 +3387,7 @@ graph [
     id 564
     label "Malintus' house"
     type "location"
+    description "Malintus' house"
   ]
   node [
     id 565
@@ -5652,6 +5676,11 @@ graph [
     label "NA"
   ]
   edge [
+    source 248
+    target 538
+    label "NA"
+  ]
+  edge [
     source 249
     target 250
     label "present in"
@@ -5930,11 +5959,6 @@ graph [
     source 322
     target 497
     label "held by"
-  ]
-  edge [
-    source 322
-    target 538
-    label "NA"
   ]
   edge [
     source 322
@@ -6417,7 +6441,7 @@ graph [
     label "present in"
   ]
   edge [
-    source 508
+    source 507
     target 509
     label "present in"
   ]
