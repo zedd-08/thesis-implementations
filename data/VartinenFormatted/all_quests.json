@@ -126,6 +126,7 @@
             "title": "The Coldest Sleep",
             "objective": "receive Silencer's next contract after killing Havilstein Hoar-Blood",
             "tasks": [
+                "Make your way to a small campsite, on the summit of Gnoll Mountain.",
                 "assassinate Havilstein Hoar-Blood",
                 "receive Silencer's next contract after killing Havilstein Hoar-Blood"
             ],
@@ -398,7 +399,7 @@
             "title": "Caught in the Hunt",
             "objective": "find Aleron Loche",
             "tasks": [
-                "Go to Lonely Suitor Lodge.",
+                "Reach Lonely Suitor Lodge.",
                 "speak with Kurdan gro-Dragol",
                 "find Aleron Loche"
             ],
@@ -596,7 +597,7 @@
             "title": "Clavicus Vile's Lost Sword",
             "objective": "retrieve Umbra the Sword for Clavicus Vile",
             "tasks": [
-                "Go to Pell's Gate.",
+                "Find your way to Pell's Gate.",
                 "begin your search for Umbra the Sword",
                 "retrieve Umbra the Sword for Clavicus Vile"
             ],
@@ -851,7 +852,7 @@
             "title": "Understanding Madness",
             "objective": "meet the Duke of Mania and the Duchess of Dementia, and join their courts",
             "tasks": [
-                "Go to Sheogorath's Palace.",
+                "Reach Sheogorath's Palace.",
                 "seek out the Duke of Mania and the Duchess of Dementia",
                 "meet the Duke of Mania and the Duchess of Dementia, and join their courts"
             ],
@@ -999,7 +1000,7 @@
             "title": "To Help A Hero",
             "objective": "bring Pyke's gold medallion back to him",
             "tasks": [
-                "Go to Fetid Grove.",
+                "Make your way to Fetid Grove.",
                 "retrieve Pyke's gold medallion from Grummites",
                 "bring Pyke's gold medallion back to him"
             ],
@@ -1078,7 +1079,7 @@
             "title": "The Sword of the Crusader",
             "objective": "avenge Sir Roderic, and recover the Sword of the Crusader for yourself",
             "tasks": [
-                "Go to Underpall Cave.",
+                "Make your way to Underpall Cave.",
                 "find the the wraith of Sir Berich",
                 "avenge Sir Roderic, and recover the Sword of the Crusader for yourself"
             ],
@@ -1182,7 +1183,7 @@
             "title": "Umaril the Unfeathered",
             "objective": "defeat Umaril the Unfeathered and kill him for good, in both the physical and spiritual planes",
             "tasks": [
-                "Go to Garlas Malatar.",
+                "Arrive at Garlas Malatar.",
                 "find Umaril the Unfeathered",
                 "defeat Umaril the Unfeathered and kill him for good, in both the physical and spiritual planes"
             ],
@@ -1346,7 +1347,7 @@
             "title": "Wisdom of the Ages",
             "objective": "get the Shield of the Crusader for yourself",
             "tasks": [
-                "Go to Fort Bulwark.",
+                "Head to Fort Bulwark.",
                 "find the Shield of the Crusader",
                 "get the Shield of the Crusader for yourself"
             ],
@@ -1422,7 +1423,7 @@
             "title": "A Brush with Death",
             "objective": "help Tivela Lythandas find her husband who has gone missing",
             "tasks": [
-                "Go to .",
+                "Proceed to Rythe's painting studio.",
                 "find clues about Rythe's whereabouts",
                 "help Tivela Lythandas find her husband who has gone missing"
             ],
@@ -1484,7 +1485,7 @@
             "title": "Nature's Fury",
             "objective": "retrieve the Boots of the Crusader for yourself",
             "tasks": [
-                "Go to Shrine of Kynareth.",
+                "Arrive at Shrine of Kynareth.",
                 "talk to the priests of Kynareth",
                 "retrieve the Boots of the Crusader for yourself"
             ],
@@ -1561,6 +1562,7 @@
             "title": "The Path of the Righteous",
             "objective": "retrieve the Mace of Zenithar for yourself",
             "tasks": [
+                "Travel to a shrine to Saint Kaladas, below the Chapel of Zenithar in Leyawiin.",
                 "complete the challenge of Zenithar",
                 "retrieve the Mace of Zenithar for yourself"
             ],
@@ -1648,7 +1650,7 @@
             "title": "Zero Visibility",
             "objective": "help the citizens of Aleswell become visible again",
             "tasks": [
-                "Go to ruins of Fort Caractacus.",
+                "Proceed to ruins of Fort Caractacus.",
                 "find Ancotar and make him remove the invisibility",
                 "help the citizens of Aleswell become visible again"
             ],
@@ -1686,7 +1688,7 @@
             "title": "Pilgrimage",
             "objective": "show that you are a worthy knight to seek out the holy relics of Pelinal Whitestrake",
             "tasks": [
-                "Go to Wayshrines of the Nine Divines.",
+                "Find your way to Wayshrines of the Nine Divines.",
                 "complete the Pilgrimage of the Nine Divines",
                 "show that you are a worthy knight to seek out the holy relics of Pelinal Whitestrake"
             ],
@@ -1850,7 +1852,7 @@
             "title": "Whodunit?",
             "objective": "assassinate the other five guests at the party",
             "tasks": [
-                "Go to Summitmist Manor.",
+                "Head to Summitmist Manor.",
                 "talk to the doorman",
                 "assassinate the other five guests at the party"
             ],
@@ -1925,6 +1927,7 @@
             "title": "A Watery Grave",
             "objective": "assassinate Gaston Tussaud",
             "tasks": [
+                "Reach Waterfront District of the Imperial City.",
                 "board the Marie Elena",
                 "assassinate Gaston Tussaud"
             ],
@@ -1986,7 +1989,7 @@
             "title": "When the Vow Breaks",
             "objective": "recover the Rockshatter for Maeva the Buxom",
             "tasks": [
-                "Go to Fort Strand.",
+                "Proceed to Fort Strand.",
                 "find Bjalfi the Contemptible",
                 "recover the Rockshatter for Maeva the Buxom"
             ],
@@ -2110,7 +2113,7 @@
             "title": "Vahtacen's Secret",
             "objective": "help with Irlav Jarol's research project at Vahtacen",
             "tasks": [
-                "Go to Arch Mage's Tower.",
+                "Find your way to Arch Mage's Tower.",
                 "talk to Irlav Jarol",
                 "help with Irlav Jarol's research project at Vahtacen"
             ],
@@ -2182,6 +2185,7 @@
             "title": "Vaermina's Orb of Nightmares",
             "objective": "retrieve the Orb",
             "tasks": [
+                "Travel to Arkved's tower.",
                 "find the Orb",
                 "retrieve the Orb"
             ],
@@ -2306,7 +2310,7 @@
             "title": "The Unfortunate Shopkeeper",
             "objective": "stop the break-ins to Quality Merchandise",
             "tasks": [
-                "Go to Quality Merchandise.",
+                "Reach Quality Merchandise.",
                 "talk to Norbert Lelles",
                 "stop the break-ins to Quality Merchandise"
             ],
@@ -2466,7 +2470,7 @@
             "title": "Vampire Cure",
             "objective": "report to Janus Hassildor's steward after finding a cure for vampirism",
             "tasks": [
-                "Go to .",
+                "Travel to along the Corbolo, east of the Imperial City and south of Cheydinhal.",
                 "find the witch of Glenmoril",
                 "report to Janus Hassildor's steward after finding a cure for vampirism"
             ],
@@ -2516,7 +2520,7 @@
             "title": "Unfinished Business",
             "objective": "find out why Maglir has defaulted on a contract",
             "tasks": [
-                "Go to Skingrad.",
+                "Find your way to Skingrad.",
                 "find Maglir",
                 "find out why Maglir has defaulted on a contract"
             ],
@@ -2593,7 +2597,7 @@
             "title": "The Roots of Madness",
             "objective": "cleanse the Pools of Madness and the Font of Madness from the taint of Order",
             "tasks": [
-                "Go to Fountainhead.",
+                "Arrive at Fountainhead.",
                 "find the source of the taint of Order",
                 "cleanse the Pools of Madness and the Font of Madness from the taint of Order"
             ],
@@ -2659,7 +2663,7 @@
             "title": "Stendarr's Mercy",
             "objective": "retrieve the Gauntlets of the Crusader for yourself",
             "tasks": [
-                "Go to Chorrol.",
+                "Head to Chorrol.",
                 "talk to the priests of Stendarr",
                 "retrieve the Gauntlets of the Crusader for yourself"
             ],
@@ -2735,7 +2739,7 @@
             "title": "Symbols of Office",
             "objective": "remake the Staff of Sheogorath and fill the throne of Madness after Sheogorath's passing",
             "tasks": [
-                "Go to Knifepoint Hollow.",
+                "Arrive at Knifepoint Hollow.",
                 "find the being who can help you to remake the Staff of Sheogorath",
                 "remake the Staff of Sheogorath and fill the throne of Madness after Sheogorath's passing"
             ],
@@ -2810,7 +2814,7 @@
             "title": "Rebuilding the Gatekeeper",
             "objective": "rebuild the Gatekeeper",
             "tasks": [
-                "Go to Xaselm.",
+                "Make your way to Xaselm.",
                 "talk to Relmyna",
                 "rebuild the Gatekeeper"
             ],
@@ -2946,7 +2950,7 @@
             "title": "The Paranoid Roof Watcher",
             "objective": "find the hidden stash of Unknown",
             "tasks": [
-                "Go to .",
+                "Reach the sewage near the back of Bernice's inn, in Crucible.",
                 "find the sunken urn",
                 "find the hidden stash of Unknown"
             ],
@@ -3021,7 +3025,7 @@
             "title": "Ritual of Accession",
             "objective": "become a ruler in the Court of Madness",
             "tasks": [
-                "Go to Sacellum Arden-Sul.",
+                "Travel to Sacellum Arden-Sul.",
                 "speak to Arctus and Dervenin",
                 "become a ruler in the Court of Madness"
             ],
@@ -3059,7 +3063,7 @@
             "title": "Retaking the Fringe",
             "objective": "defend the Fringe",
             "tasks": [
-                "Go to Fringe.",
+                "Reach Fringe.",
                 "help Sheogorath's armies to retake the Fringe from the forces of Order",
                 "defend the Fringe"
             ],
@@ -3174,7 +3178,7 @@
             "title": "A Liquid Solution",
             "objective": "bring Aquanostrum to Sickly Bernice",
             "tasks": [
-                "Go to Knotty Bramble.",
+                "Proceed to Knotty Bramble.",
                 "find Aquanostrum to cure Sickly Bernice's illness",
                 "bring Aquanostrum to Sickly Bernice"
             ],
@@ -3496,7 +3500,7 @@
             "title": "Ghosts of Vitharn",
             "objective": "break the cycle of torment for the ghosts of Vitharn",
             "tasks": [
-                "Go to Vitharn.",
+                "Arrive at Vitharn.",
                 "correct the mistakes of the four people who failed to protect the gate lever",
                 "break the cycle of torment for the ghosts of Vitharn"
             ],
@@ -3534,6 +3538,7 @@
             "title": "The End of Order",
             "objective": "fight the last battle against Jyggalag and his forces of Order",
             "tasks": [
+                "Reach Palace courtyard.",
                 "deactivate the Obelisk of Order",
                 "fight the last battle against Jyggalag and his forces of Order"
             ],
@@ -3582,7 +3587,7 @@
                 "relations": [
                     [
                         "present in",
-                        "Shivering Isles"
+                        "Xedilian"
                     ]
                 ],
                 "type": "character"
@@ -3619,7 +3624,7 @@
             "title": "A Better Mousetrap",
             "objective": "activate Xedilian to make unwanted guests to stay away from Sheogorath's realm",
             "tasks": [
-                "Go to Xedilian.",
+                "Make your way to Xedilian.",
                 "use the Attenuator of Judgement and the small book to activate Xedilian",
                 "activate Xedilian to make unwanted guests to stay away from Sheogorath's realm"
             ],
@@ -3754,7 +3759,7 @@
             "title": "The Cold Flame of Agnon",
             "objective": "get the Flame of Agnon to relight the great torch over New Sheoth",
             "tasks": [
-                "Go to Cylarne.",
+                "Arrive at Cylarne.",
                 "take care of Sheogorath's minions",
                 "get the Flame of Agnon to relight the great torch over New Sheoth"
             ],
@@ -3967,7 +3972,7 @@
             "title": "Turning a Blind Eye",
             "objective": "return to the Gray Fox with Savilla's Stone",
             "tasks": [
-                "Go to Temple of the Ancestor Moths.",
+                "Find your way to Temple of the Ancestor Moths.",
                 "steal Savilla's Stone",
                 "return to the Gray Fox with Savilla's Stone"
             ],
@@ -4056,7 +4061,7 @@
             "title": "Two Sides of the Coin",
             "objective": "find out where Jorundr and Arnora Auria's stolen gold is hidden",
             "tasks": [
-                "Go to Bruma Castle Dungeons.",
+                "Make your way to Bruma Castle Dungeons.",
                 "speak to Jorundr",
                 "find out where Jorundr and Arnora Auria's stolen gold is hidden"
             ],
@@ -4106,7 +4111,7 @@
             "title": "Trolls of Forsaken Mine",
             "objective": "find out what happened at Forsaken Mine and report back to Modryn Oreyn",
             "tasks": [
-                "Go to Forsaken Mine.",
+                "Arrive at Forsaken Mine.",
                 "find Viranus Donton and other Fighters Guild members who went missing",
                 "find out what happened at Forsaken Mine and report back to Modryn Oreyn"
             ],
@@ -4233,8 +4238,8 @@
             "title": "The Ultimate Heist",
             "objective": "steal one of the Elder Scrolls from the Imperial Palace",
             "tasks": [
-                "Go to Imperial Sewers.",
-                "Go to Imperial Palace.",
+                "Reach Imperial Sewers.",
+                "Travel to Imperial Palace.",
                 "locate the Old Way and use it to travel to the Imperial Palace",
                 "find the reading room",
                 "steal one of the Elder Scrolls from the Imperial Palace"
@@ -4347,8 +4352,8 @@
             "title": "Taking Care of Lex",
             "objective": "get Hieronymus Lex reassigned as the captain of the guard in Anvil",
             "tasks": [
-                "Go to Anvil.",
-                "Go to Imperial City Prison.",
+                "Reach Anvil.",
+                "Make your way to Imperial City Prison.",
                 "steal the list of guard captain candidates from Dairihill's desk",
                 "find a forger to make a forgery of the candidate list",
                 "sneak into the Legion Commander's office and seal the forged letter with his seal",
@@ -4461,7 +4466,7 @@
             "title": "The Sunken One",
             "objective": "investigate the Sunken One",
             "tasks": [
-                "Go to Sandstone Cavern.",
+                "Make your way to Sandstone Cavern.",
                 "find Slythe Seringi",
                 "investigate the Sunken One"
             ],
@@ -4525,7 +4530,7 @@
             "title": "The Assassinated Man",
             "objective": "help Francois Motierre fake his death to escape his debts",
             "tasks": [
-                "Go to Chorrol.",
+                "Make your way to Chorrol.",
                 "break into Francois Motierre's house",
                 "help Francois Motierre fake his death to escape his debts"
             ],
@@ -4587,7 +4592,7 @@
             "title": "The Stone of St. Alessia",
             "objective": "return the stolen Stone of St. Alessia to the Bruma Chapel",
             "tasks": [
-                "Go to Bruma.",
+                "Travel to Bruma.",
                 "talk to Cirroc",
                 "return the stolen Stone of St. Alessia to the Bruma Chapel"
             ],
@@ -4735,7 +4740,7 @@
             "title": "Tears of the Savior",
             "objective": "find as many Garridan's Tears for S'Drassa as possible",
             "tasks": [
-                "Go to Arcane University.",
+                "Reach Arcane University.",
                 "talk to Julienne Fanis",
                 "find as many Garridan's Tears for S'Drassa as possible"
             ],
@@ -4784,7 +4789,7 @@
             "title": "Speechcraft Training",
             "objective": "do a task for Gruiand Garrana and return to her afterwards",
             "tasks": [
-                "Go to .",
+                "Travel to all cities in Cyrodiil.",
                 "speak to all beggars",
                 "do a task for Gruiand Garrana and return to her afterwards"
             ],
@@ -4859,7 +4864,7 @@
             "title": "Spies",
             "objective": "track down the spies, kill them and find out what they know",
             "tasks": [
-                "Go to Bruma.",
+                "Proceed to Bruma.",
                 "talk to Steffan",
                 "talk to Captain Burd",
                 "track down the spies, kill them and find out what they know"
@@ -4960,7 +4965,7 @@
             "title": "The Siren's Deception",
             "objective": "get Maelona's family heirloom back from an all-female gang of thieves that prey on the married men of Anvil",
             "tasks": [
-                "Go to Flowing Bowl.",
+                "Find your way to Flowing Bowl.",
                 "find leads about the all-female gang",
                 "get Maelona's family heirloom back from an all-female gang of thieves that prey on the married men of Anvil"
             ],
@@ -5049,7 +5054,7 @@
             "title": "Sins of the Father",
             "objective": "recover an item stolen by Albert Jemane from ogres",
             "tasks": [
-                "Go to Redguard Valley.",
+                "Reach Redguard Valley.",
                 "find the item in a troll lair",
                 "recover an item stolen by Albert Jemane from ogres"
             ],
@@ -5087,7 +5092,7 @@
             "title": "Separated at Birth",
             "objective": "investigate the rumors about another Reynald Jemane in Cheydinhal",
             "tasks": [
-                "Go to Cheydinhal.",
+                "Proceed to Cheydinhal.",
                 "find the person whose impersonating Reynald Jemane and tell him to stop",
                 "investigate the rumors about another Reynald Jemane in Cheydinhal"
             ],
@@ -5226,7 +5231,7 @@
             "title": "Secrets of the Ayleids",
             "objective": "escort Umbacano to the Throne Room of Nenalata",
             "tasks": [
-                "Go to .",
+                "Go to Herminia Cinna's home, in the Imperial City, the Elven Gardens district.",
                 "try to buy the Crown of Nenalata from Herminia Cinna",
                 "escort Umbacano to the Throne Room of Nenalata"
             ],
@@ -5276,7 +5281,7 @@
             "title": "Lockpicking Training",
             "objective": "get the message to J'baana from S'Krivva",
             "tasks": [
-                "Go to Bravil.",
+                "Proceed to Bravil.",
                 "speak with S'Krivva",
                 "get the message to J'baana from S'Krivva"
             ],
@@ -5349,6 +5354,7 @@
             "title": "Scheduled for Execution",
             "objective": "assassinate Valen Dreth in the Imperial Prison",
             "tasks": [
+                "Reach Imperial City's sewers.",
                 "infiltrate the Imperial Prison via a set of secret tunnels",
                 "assassinate Valen Dreth in the Imperial Prison"
             ],
@@ -5435,7 +5441,7 @@
             "title": "A Shadow Over Hackdirt",
             "objective": "find Dar-Ma",
             "tasks": [
-                "Go to Hackdirt.",
+                "Make your way to Hackdirt.",
                 "find clues about Dar-Ma's whereabouts from Etira Moslin",
                 "find Dar-Ma"
             ],
@@ -5488,7 +5494,7 @@
             "title": "Sanguine, the Party Prince",
             "objective": "crash a dinner party at Castle Leyawiin and play a prank on the guests",
             "tasks": [
-                "Go to Castle Leyawiin.",
+                "Head to Castle Leyawiin.",
                 "find a way in to the dinner party",
                 "crash a dinner party at Castle Leyawiin and play a prank on the guests"
             ],
@@ -5651,7 +5657,7 @@
             "title": "Seeking Your Roots",
             "objective": "collect more Nirnroot",
             "tasks": [
-                "Go to Shadeleaf Copse.",
+                "Head to Shadeleaf Copse.",
                 "collect 10 samples of Nirnroot for Sinderion",
                 "collect more Nirnroot"
             ],
@@ -5713,7 +5719,7 @@
             "title": "Revenge Served Cold",
             "objective": "find Kayleen's jade amulet that was stolen by goblins, and bring it back to Corrick Northwode",
             "tasks": [
-                "Go to Exhausted Mine.",
+                "Proceed to Exhausted Mine.",
                 "avenge Kayleen by killing the goblins that killed her",
                 "find Kayleen's jade amulet that was stolen by goblins, and bring it back to Corrick Northwode"
             ],
@@ -5800,7 +5806,7 @@
             "title": "The Renegade Shadowscale",
             "objective": "bring back Scar-Tail's heart as proof for Teinaava",
             "tasks": [
-                "Go to Bogwater.",
+                "Make your way to Bogwater.",
                 "assassinate Scar-Tail",
                 "bring back Scar-Tail's heart as proof for Teinaava"
             ],
@@ -5974,7 +5980,7 @@
             "title": "Peryite's Foolish Followers",
             "objective": "rescue the souls of Peryite's worshipers from Oblivion",
             "tasks": [
-                "Go to Realm of Peryite.",
+                "Proceed to Realm of Peryite.",
                 "enter the plane of Oblivion where Peryite's worshipers' souls are trapped",
                 "rescue the souls of Peryite's worshipers from Oblivion"
             ],
@@ -6058,7 +6064,7 @@
             "title": "Permanent Retirement",
             "objective": "assassinate Adamus Phillida when he is out of his Legion armor with or without the Rose of Sithis",
             "tasks": [
-                "Go to Leyawiin.",
+                "Proceed to Leyawiin.",
                 "find Adamus Phillida",
                 "assassinate Adamus Phillida when he is out of his Legion armor with or without the Rose of Sithis"
             ],
@@ -6283,7 +6289,7 @@
             "title": "Origin of the Gray Prince",
             "objective": "find proof of Agronak gro-Malog's noble birthright",
             "tasks": [
-                "Go to Crowhaven.",
+                "Make your way to Crowhaven.",
                 "travel to the place of Agronak gro-Malog's birth",
                 "find proof of Agronak gro-Malog's noble birthright"
             ],
@@ -6360,7 +6366,7 @@
             "title": "The Purification",
             "objective": "perform the ancient rite known as Purification by killing everyone at the Cheydinhal Sanctuary, and return to Lucien Lachance",
             "tasks": [
-                "Go to Cheydinhal Sanctuary.",
+                "Head to Cheydinhal Sanctuary.",
                 "assassinate Ocheeva, Vicente Valtieri, Antoinetta Marie, Gogron gro-Bolmog, Telaendril, M'raaj-Dar and Teinaava",
                 "perform the ancient rite known as Purification by killing everyone at the Cheydinhal Sanctuary, and return to Lucien Lachance"
             ],
@@ -6436,7 +6442,7 @@
             "title": "Order of the Virtuous Blood",
             "objective": "kill Roland Jenseric",
             "tasks": [
-                "Go to .",
+                "Travel to Roland Jenseric's house in the Temple District of the Imperial City.",
                 "search for clues about Roland Jenseric's whereabouts",
                 "kill Roland Jenseric"
             ],
@@ -6511,7 +6517,7 @@
             "title": "Paranoia",
             "objective": "check out some people for Glarthir",
             "tasks": [
-                "Go to .",
+                "Travel to outside Glarthir's house in Skingrad at 6 am.",
                 "see where Bernadette Peneles goes and what she does",
                 "meet Glarthir again tomorrow night",
                 "check out some people for Glarthir"
@@ -6602,7 +6608,7 @@
             "title": "Nocturnal's Missing Eye",
             "objective": "bring Nocturnal's Eye back to Nocturnal",
             "tasks": [
-                "Go to Leyawiin.",
+                "Head to Leyawiin.",
                 "recover Nocturnal's Eye from Argonians",
                 "bring Nocturnal's Eye back to Nocturnal"
             ],
@@ -6652,7 +6658,7 @@
             "title": "No Stone Unturned",
             "objective": "help Lithnilian recover his research notes",
             "tasks": [
-                "Go to Bramblepoint Cave.",
+                "Make your way to Bramblepoint Cave.",
                 "find Lithnilian's research notes",
                 "help Lithnilian recover his research notes"
             ],
@@ -6849,7 +6855,7 @@
             "title": "Next of Kin",
             "objective": "assassinate all five members of the Draconis",
             "tasks": [
-                "Go to Applewatch.",
+                "Travel to Applewatch.",
                 "get the locations of other Draconis from Perennia Draconis, and assassinate her",
                 "assassinate all five members of the Draconis"
             ],
@@ -6911,6 +6917,7 @@
             "title": "Den of Thieves",
             "objective": "get rid of the gang of thieves that has thieved around Anvil",
             "tasks": [
+                "Find your way to near Anvil.",
                 "track down the gang of thieves with Maglir",
                 "get rid of the gang of thieves that has thieved around Anvil"
             ],
@@ -7036,7 +7043,7 @@
             "title": "Mystery at Harlun's Watch",
             "objective": "investigate the disappearances at Harlun's Watch",
             "tasks": [
-                "Go to Harlun's Watch.",
+                "Travel to Harlun's Watch.",
                 "talk to Drarana Thelis for the details about the missing people",
                 "investigate the disappearances at Harlun's Watch"
             ],
@@ -7097,7 +7104,7 @@
                 "relations": [
                     [
                         "present in",
-                        "Mystic Archives"
+                        "Arcane University"
                     ]
                 ],
                 "type": "character"
@@ -7110,7 +7117,7 @@
             "title": "Necromancer's Moon",
             "objective": "find information on Black Soul Gems, especially about their powers and creation",
             "tasks": [
-                "Go to Mystic Archives.",
+                "Proceed to Mystic Archives.",
                 "speak to Tar-Meena about Black Soul Gems",
                 "find information on Black Soul Gems, especially about their powers and creation"
             ],
@@ -7173,7 +7180,7 @@
             "title": "The Lonely Wanderer",
             "objective": "assassinate Faelian without attraction the attention of Adamus Phillida",
             "tasks": [
-                "Go to Imperial City.",
+                "Arrive at Imperial City.",
                 "find Faelian",
                 "assassinate Faelian without attraction the attention of Adamus Phillida"
             ],
@@ -7287,6 +7294,7 @@
             "title": "Molag Bal's Dark Bidding",
             "objective": "goad Melus Petilius into killing you with the Cursed Mace",
             "tasks": [
+                "Find your way to near Brindle Home.",
                 "find Melus Petilius",
                 "goad Melus Petilius into killing you with the Cursed Mace"
             ],
@@ -7361,7 +7369,7 @@
             "title": "Miscarcand",
             "objective": "recover a Great Welkynd Stone for Martin",
             "tasks": [
-                "Go to Miscarcand.",
+                "Head to Miscarcand.",
                 "find a Great Welkynd Stone",
                 "recover a Great Welkynd Stone for Martin"
             ],
@@ -7447,7 +7455,7 @@
             "title": "Misdirection",
             "objective": "help the Thieves Guild get the Imperial City Waterfront back to normal",
             "tasks": [
-                "Go to Imperial City.",
+                "Proceed to Imperial City.",
                 "find Methredhel, who is co-ordinating the Thieves Guild's response",
                 "help the Thieves Guild get the Imperial City Waterfront back to normal"
             ],
@@ -7486,7 +7494,7 @@
             "title": "Meridia Smites Necromancers",
             "objective": "wipe out a band of necromancers",
             "tasks": [
-                "Go to Howling Cave.",
+                "Reach Howling Cave.",
                 "find the necromancers",
                 "wipe out a band of necromancers"
             ],
@@ -7792,7 +7800,7 @@
             "title": "The Master's Son",
             "objective": "bolster Viranus Donton's confidence by find Galtus Previa in Nonwyll Cavern with Viranus Donton",
             "tasks": [
-                "Go to Donton house.",
+                "Make your way to Donton house.",
                 "take Viranus Donton on a mission with you",
                 "bolster Viranus Donton's confidence by find Galtus Previa in Nonwyll Cavern with Viranus Donton"
             ],
@@ -7843,6 +7851,7 @@
             "title": "Malacath's Family of Monsters",
             "objective": "rescue ogres from slavery under Lord Drad",
             "tasks": [
+                "Find your way to Lord Drad's estate.",
                 "let Malacath's ogres loose and get them out of Lord Drad's mines",
                 "rescue ogres from slavery under Lord Drad"
             ],
@@ -7956,7 +7965,7 @@
             "title": "Mephala's Web of Lies",
             "objective": "Start a feud between two prominent families",
             "tasks": [
-                "Go to Bleaker's Way.",
+                "Head to Bleaker's Way.",
                 "kill the leaders of the two families and plant evidence to implicate the other family as the killer",
                 "Start a feud between two prominent families"
             ],
@@ -8045,7 +8054,7 @@
             "title": "May the Best Thief Win",
             "objective": "win the contest against Methredhel and Amusei",
             "tasks": [
-                "Go to Imperial City.",
+                "Head to Imperial City.",
                 "steal Amantius Allectus's diary without killing him, Methredhel, or Amusei",
                 "win the contest against Methredhel and Amusei"
             ],
@@ -8107,6 +8116,7 @@
             "title": "A Mage's Staff",
             "objective": "complete your induction into the Mages Guild by creating your own staff",
             "tasks": [
+                "Arrive at the grove, to the northeast of the Imperial City, near Wellspring Cave.",
                 "speak to Zahrasha or Eletta, and choose wisely",
                 "complete your induction into the Mages Guild by creating your own staff"
             ],
@@ -8218,7 +8228,7 @@
             "title": "Light the Dragonfires",
             "objective": "light the Dragonfires with Martin to close the Gates of Oblivion and stop Mehrunes Dagon's invasion",
             "tasks": [
-                "Go to Imperial City.",
+                "Reach Imperial City.",
                 "escort Martin to High Chancellor Ocato, who is waiting for you both",
                 "light the Dragonfires with Martin to close the Gates of Oblivion and stop Mehrunes Dagon's invasion"
             ],
@@ -8447,7 +8457,7 @@
             "title": "Lost Histories",
             "objective": "help Theranis bring back the \"Lost Histories of Tamriel\", or bring it yourself if Theranis is unwilling or unable",
             "tasks": [
-                "Go to Skingrad.",
+                "Find your way to Skingrad.",
                 "find Theranis who was sent to find \"Lost Histories of Tamriel\"",
                 "help Theranis bring back the \"Lost Histories of Tamriel\", or bring it yourself if Theranis is unwilling or unable"
             ],
@@ -8535,6 +8545,7 @@
             "title": "Legacy Lost",
             "objective": "help Guilbert Jemane and Reynald Jemane recover Weatherleah",
             "tasks": [
+                "Head to somewhere south of Chorrol, but southwest of Fort Carmala.",
                 "find Weatherleah, and see if it is still inhabited by ogres",
                 "help Guilbert Jemane and Reynald Jemane recover Weatherleah"
             ],
@@ -8596,7 +8607,7 @@
             "title": "Lifting the Vale",
             "objective": "bring the Draconian Madstone to Countess Narina Carvain",
             "tasks": [
-                "Go to .",
+                "Proceed to the ruins in Pale Pass.",
                 "find the Draconian Madstone",
                 "bring the Draconian Madstone to Countess Narina Carvain"
             ],
@@ -8709,7 +8720,7 @@
             "title": "Liberation or Apprehension?",
             "objective": "locate Mucianus Allias, and return him safely to the Arcane University",
             "tasks": [
-                "Go to Nenyond Twyll.",
+                "Make your way to Nenyond Twyll.",
                 "find Mucianus Allias before the battlemages of the Mages Guild apprehend him",
                 "locate Mucianus Allias, and return him safely to the Arcane University"
             ],
@@ -8784,7 +8795,7 @@
             "title": "A Knife in the Dark",
             "objective": "complete your initiation to the Dark Brotherhood",
             "tasks": [
-                "Go to Inn of Ill Omen.",
+                "Travel to Inn of Ill Omen.",
                 "assassinate Rufio",
                 "complete your initiation to the Dark Brotherhood"
             ],
@@ -8882,7 +8893,7 @@
             "title": "A Kiss Before Dying",
             "objective": "assassinate Ungolim",
             "tasks": [
-                "Go to Bravil.",
+                "Reach Bravil.",
                 "eliminate Ungolim when he visits the Lucky Old Lady at night between 6:00 PM and 1:00 AM",
                 "assassinate Ungolim"
             ],
@@ -8945,6 +8956,7 @@
             "title": "Join the Mages Guild",
             "objective": "advance in the Mages Guild",
             "tasks": [
+                "Proceed to each local guild hall in Cyrodiil.",
                 "receive a recommendation",
                 "advance in the Mages Guild"
             ],
@@ -9018,7 +9030,7 @@
             "title": "The Killing Field",
             "objective": "reclaim the Odiil Farm from the creatures of the Great Forest with Rallus and Antus",
             "tasks": [
-                "Go to Weynon Priory.",
+                "Reach Weynon Priory.",
                 "meet up with Rallus and Antus",
                 "reclaim the Odiil Farm from the creatures of the Great Forest with Rallus and Antus"
             ],
@@ -9082,7 +9094,7 @@
             "title": "Information Gathering",
             "objective": "bring Ajum-Kajin to Modryn Oreyn so that Modryn Oreyn can \"persuade\" Ajum-Kajin to talk",
             "tasks": [
-                "Go to Glademist Cave.",
+                "Arrive at Glademist Cave.",
                 "capture Ajum-Kajin",
                 "bring Ajum-Kajin to Modryn Oreyn so that Modryn Oreyn can \"persuade\" Ajum-Kajin to talk"
             ],
@@ -9133,7 +9145,7 @@
             "title": "Information at a Price",
             "objective": "receive vital information from Count Hassildor",
             "tasks": [
-                "Go to Skingrad.",
+                "Travel to Skingrad.",
                 "visit Count Hassildor",
                 "receive vital information from Count Hassildor"
             ],
@@ -9184,7 +9196,7 @@
             "title": "Infiltration",
             "objective": "infiltrate the Blackwood Company, and find the secret of their success",
             "tasks": [
-                "Go to Leyawiin.",
+                "Find your way to Leyawiin.",
                 "join the Blackwood Company",
                 "infiltrate the Blackwood Company, and find the secret of their success"
             ],
@@ -9374,7 +9386,7 @@
             "title": "Honor Thy Mother",
             "objective": "perform an ancient ritual to wake the Night Mother from her slumber, and seek her guidance",
             "tasks": [
-                "Go to Bravil.",
+                "Arrive at Bravil.",
                 "ask about the Night Mother from Arquen between 12.00 PM and 3:00 AM",
                 "go to the Night Mother's home with Arquen",
                 "perform an ancient ritual to wake the Night Mother from her slumber, and seek her guidance"
@@ -9413,7 +9425,7 @@
             "title": "Hircine's Unicorn Hunt",
             "objective": "bring an unicorn horn to Hircine",
             "tasks": [
-                "Go to Harcane Grove.",
+                "Reach Harcane Grove.",
                 "hunt the unicorn",
                 "bring an unicorn horn to Hircine"
             ],
@@ -9488,7 +9500,7 @@
             "title": "The Hist",
             "objective": "return to the Blackwood Company hall to destroy the Hist Tree and anyone that stands in your way",
             "tasks": [
-                "Go to Blackwood Company hall.",
+                "Find your way to Blackwood Company hall.",
                 "find Ri'Zakar's key that opens the door to the Hist tree",
                 "return to the Blackwood Company hall to destroy the Hist Tree and anyone that stands in your way"
             ],
@@ -9671,7 +9683,7 @@
             "title": "The Gravefinder's Repose",
             "objective": "help Malene deal with Raelynn the Gravefinder",
             "tasks": [
-                "Go to Moss Rock Cavern.",
+                "Arrive at Moss Rock Cavern.",
                 "kill Raelynn the Gravefinder",
                 "help Malene deal with Raelynn the Gravefinder"
             ],
@@ -9771,7 +9783,7 @@
             "title": "Go Fish",
             "objective": "bring 12 slaughterfish scales to Aelwin Merowald",
             "tasks": [
-                "Go to Lake Rumare.",
+                "Make your way to Lake Rumare.",
                 "kill slaughterfish and collect their scales",
                 "bring 12 slaughterfish scales to Aelwin Merowald"
             ],
@@ -9884,7 +9896,7 @@
             "title": "The Ghost Ship of Anvil",
             "objective": "return the crystal ball to Varulae",
             "tasks": [
-                "Go to Serpent's Wake.",
+                "Proceed to Serpent's Wake.",
                 "get Varulae's crystal ball from a chest in the Serpent's Wake's hold",
                 "return the crystal ball to Varulae"
             ],
@@ -9934,7 +9946,7 @@
             "title": "The Fugitives",
             "objective": "find 4 escaped prison fugitives that have been causing trouble near Bravil",
             "tasks": [
-                "Go to Bravil.",
+                "Arrive at Bravil.",
                 "ask people about the 4 escaped prison fugitives",
                 "find 4 escaped prison fugitives that have been causing trouble near Bravil"
             ],
@@ -9997,7 +10009,7 @@
             "title": "The Forlorn Watchman",
             "objective": "lay the Watchman to rest",
             "tasks": [
-                "Go to Bawnwatch Camp.",
+                "Find your way to Bawnwatch Camp.",
                 "go see the Watchman at 8 o'clock at night",
                 "lay the Watchman to rest"
             ],
@@ -10060,7 +10072,7 @@
             "title": "The Forgotten Chests of Pale Pass",
             "objective": "find the magical ring that G.S. hid inside some old barrels",
             "tasks": [
-                "Go to Pale Pass.",
+                "Arrive at Pale Pass.",
                 "use a key to open a chest to find another key for an another chest until you find the ring",
                 "find the magical ring that G.S. hid inside some old barrels"
             ],
@@ -10282,7 +10294,7 @@
             "title": "Final Justice",
             "objective": "assassinate Shaleez",
             "tasks": [
-                "Go to Flooded Mine.",
+                "Arrive at Flooded Mine.",
                 "locate Shaleez",
                 "assassinate Shaleez"
             ],
@@ -10369,7 +10381,7 @@
             "title": "Bad Medicine",
             "objective": "assassinate Roderick without been seen by his company of loyal mercenaries",
             "tasks": [
-                "Go to Fort Sutch.",
+                "Arrive at Fort Sutch.",
                 "replace Roderick's medicine with a poisoned bottle Ocheeva gives you",
                 "assassinate Roderick without been seen by his company of loyal mercenaries"
             ],
@@ -10419,7 +10431,7 @@
             "title": "Drunk and Disorderly",
             "objective": "find out why several of your fellow members of the Fighters Guild are causing trouble in Leyawiin",
             "tasks": [
-                "Go to Leyawiin.",
+                "Reach Leyawiin.",
                 "find out what is wrong with Rellian, Vantus Prelius, and Dubok gro-Shagk",
                 "find out why several of your fellow members of the Fighters Guild are causing trouble in Leyawiin"
             ],
@@ -10631,7 +10643,7 @@
             "title": "Defense of Bruma",
             "objective": "have the Countess meet Martin in the Chapel of Talos for a council of war",
             "tasks": [
-                "Go to Bruma.",
+                "Proceed to Bruma.",
                 "explain Martin's plan to the Countess",
                 "have the Countess meet Martin in the Chapel of Talos for a council of war"
             ],
@@ -10717,7 +10729,7 @@
             "title": "Affairs of a Wizard",
             "objective": "assassinate Celedaen",
             "tasks": [
-                "Go to Leafrot Cave.",
+                "Arrive at Leafrot Cave.",
                 "search for Celedaen's written records that may contain evidence of some kind of weakness of his",
                 "assassinate Celedaen"
             ],
@@ -10791,7 +10803,7 @@
             "title": "Corruption and Conscience",
             "objective": "do something about Ulrich Leland",
             "tasks": [
-                "Go to .",
+                "Proceed to County Hall, in the Cheydinhal castle.",
                 "speak to Garrus Darelliun, the second-in-command of the guard, about Ulrich Leland",
                 "do something about Ulrich Leland"
             ],
@@ -10839,7 +10851,7 @@
                 "relations": [
                     [
                         "present in",
-                        "Molag Bal's Shrine"
+                        "a shrine to Molag Bal"
                     ]
                 ],
                 "type": "character"
@@ -10864,7 +10876,7 @@
             "title": "Conjuration Training",
             "objective": "prove Olyn Seran that you are worthy of his teachings",
             "tasks": [
-                "Go to .",
+                "Go to a shrine to Molag Bal.",
                 "summon a Faded Wraith right here, before Olyn Seran",
                 "prove Olyn Seran that you are worthy of his teachings"
             ],
@@ -10959,7 +10971,7 @@
             "title": "The Collector",
             "objective": "recover the complete set of 10 ancient statues for Umbacano",
             "tasks": [
-                "Go to Ayleid Ruins.",
+                "Travel to Ayleid Ruins.",
                 "find the 10 ancient statues",
                 "recover the complete set of 10 ancient statues for Umbacano"
             ],
@@ -11058,7 +11070,7 @@
             "title": "Magely Mischief",
             "objective": "find J'skar, and make him re-appear",
             "tasks": [
-                "Go to .",
+                "Reach Bruma Mages Guild, one of the guild halls of the Mages Guild.",
                 "talk to the mages about J'skar's disappearance",
                 "find J'skar, and make him re-appear"
             ],
@@ -11133,6 +11145,7 @@
             "title": "Bruma Gate",
             "objective": "help the Bruma guard close an Oblivion Gate just outside Bruma",
             "tasks": [
+                "Head to outside the Bruma city gate.",
                 "meet up with Captain Burd and let him show you the Oblivion Gate",
                 "help the Bruma guard close an Oblivion Gate just outside Bruma"
             ],
@@ -11231,6 +11244,7 @@
             "title": "Broken Vows",
             "objective": "assassinate J'Ghasta",
             "tasks": [
+                "Arrive at J'Ghasta's house in Bruma.",
                 "find J'Ghasta",
                 "assassinate J'Ghasta"
             ],
@@ -11341,7 +11355,7 @@
             "title": "Boots of Springheel Jak",
             "objective": "find out where Springheel Jak is buried, and retrieve his boots for the Gray Fox",
             "tasks": [
-                "Go to Imperial City.",
+                "Proceed to Imperial City.",
                 "search for clues in the Earl of Imbel's house",
                 "find out where Springheel Jak is buried, and retrieve his boots for the Gray Fox"
             ],
@@ -11509,6 +11523,7 @@
             "title": "Boethia's Bloody Tournament",
             "objective": "prove your worthiness to Boethia in the Tournament of Ten Bloods",
             "tasks": [
+                "Find your way to one of Boethia's realms in Oblivion.",
                 "survive the Tournament of Ten Bloods",
                 "prove your worthiness to Boethia in the Tournament of Ten Bloods"
             ],
@@ -11595,7 +11610,7 @@
             "title": "The Bloodworm Helm",
             "objective": "return the Bloodworm Helm to the Arcane University",
             "tasks": [
-                "Go to Fort Teleman.",
+                "Make your way to Fort Teleman.",
                 "find Irlav Jarol, his group of mages, and the Bloodworm Helm",
                 "return the Bloodworm Helm to the Arcane University"
             ],
@@ -11708,7 +11723,7 @@
             "title": "Accidents Happen",
             "objective": "assassinate Baenlin by staging an accident",
             "tasks": [
-                "Go to Bruma.",
+                "Make your way to Bruma.",
                 "enter Baenlin's house secretly and avoid Gromm",
                 "assassinate Baenlin by staging an accident"
             ],
@@ -11932,7 +11947,7 @@
             "title": "Azura's Unfortunate Followers",
             "objective": "perform a service to Azura",
             "tasks": [
-                "Go to Gutted Mine.",
+                "Proceed to Gutted Mine.",
                 "kill 5 followers of Azura",
                 "perform a service to Azura"
             ],
@@ -11982,7 +11997,7 @@
             "title": "Smithing Training",
             "objective": "answer Gin-Wulm what the name Hazadir means, proving Gin-Wulm that you know about the history of smithing",
             "tasks": [
-                "Go to First Edition.",
+                "Arrive at First Edition.",
                 "find a book about Hazadir to find the answer",
                 "answer Gin-Wulm what the name Hazadir means, proving Gin-Wulm that you know about the history of smithing"
             ],
@@ -12081,7 +12096,7 @@
             "title": "Arrow of Extrication",
             "objective": "steal the Arrow of Extrication from Fathis Aren, and bring it to the Gray Fox",
             "tasks": [
-                "Go to Bravil.",
+                "Reach Bravil.",
                 "talk to the beggars about locating the Arrow of Extrication",
                 "steal the Arrow of Extrication from Fathis Aren, and bring it to the Gray Fox"
             ],
@@ -12195,7 +12210,8 @@
             "title": "Azani Blackheart",
             "objective": "help Modryn Oreyn prove that the Blackwood Company lied about completing a contract for Argoth",
             "tasks": [
-                "Go to Arpenia.",
+                "Proceed to Leyawiin guild hall.",
+                "Reach Arpenia.",
                 "meet up with Modryn Oreyn",
                 "investigate Arpenia with Modryn Oreyn",
                 "help Modryn Oreyn prove that the Blackwood Company lied about completing a contract for Argoth"
@@ -12246,7 +12262,7 @@
             "title": "Amelion's Contract",
             "objective": "retrieve something from Biene Amelion's ancestral tomb for her",
             "tasks": [
-                "Go to Water's Edge.",
+                "Travel to Water's Edge.",
                 "talk to Biene Amelion about her contract",
                 "retrieve something from Biene Amelion's ancestral tomb for her"
             ],
@@ -12285,6 +12301,7 @@
             "title": "Alteration Training",
             "objective": "prove Tooth-in-the-Sea that you are worthy of Alteration training",
             "tasks": [
+                "Make your way to during the day, out under the waves in the bay.",
                 "meet up with Tooth-in-the-Sea",
                 "prove Tooth-in-the-Sea that you are worthy of Alteration training"
             ],
@@ -12347,7 +12364,7 @@
             "title": "Ambush",
             "objective": "retrieve a unique Black Soul Gem from the necromancers, and return immediately to Arch-Mage Traven",
             "tasks": [
-                "Go to Silorn.",
+                "Proceed to Silorn.",
                 "oversee a contingent of Battlemages in their fight with the necromancers",
                 "retrieve a unique Black Soul Gem from the necromancers, and return immediately to Arch-Mage Traven"
             ],
@@ -12401,7 +12418,7 @@
             "title": "Blood Money",
             "objective": "investigate a number of merchants' deaths along the Gold Road",
             "tasks": [
-                "Go to Brina Cross Inn.",
+                "Reach Brina Cross Inn.",
                 "speak with Arielle Jurard about further instructions",
                 "investigate a number of merchants' deaths along the Gold Road"
             ],
@@ -12596,7 +12613,7 @@
             "title": "Alchemy Acquisitions",
             "objective": "use the expertise of Julienne Fanis for your own benefit",
             "tasks": [
-                "Go to Lustratorium.",
+                "Travel to Lustratorium.",
                 "talk to Julienne Fanis about her collecting alchemical ingredients for you",
                 "use the expertise of Julienne Fanis for your own benefit"
             ],
@@ -12692,6 +12709,7 @@
             "title": "Unseen Visions",
             "objective": "read \"Blood\"",
             "tasks": [
+                "Proceed to an Ancestor Glade in Skyrim, in the pine forest.",
                 "perform the ritual of the Ancestor Moth to gain the second sight needed to decipher the Elder Scrolls",
                 "read \"Blood\""
             ],
@@ -13001,7 +13019,6 @@
             "title": "Lost to the Ages",
             "objective": "search for the Aetherium Forge with Katria",
             "tasks": [
-                "Go to .",
                 "find Katria's journal, which contains her notes about the Aetherium Forge",
                 "search for the Aetherium Forge with Katria"
             ],
@@ -13063,7 +13080,7 @@
             "title": "Judgment",
             "objective": "destroy Harkon",
             "tasks": [
-                "Go to Castle Volkihar.",
+                "Head to Castle Volkihar.",
                 "meet up with Isran and the rest of your Dawnguard allies",
                 "destroy Harkon"
             ],
@@ -13171,7 +13188,7 @@
             "title": "Durnehviir",
             "objective": "learn a dragon shout from Durnehviir",
             "tasks": [
-                "Go to Tamriel.",
+                "Arrive at Tamriel.",
                 "summon Durnehviir by speaking his name to the heavens",
                 "learn a dragon shout from Durnehviir"
             ],
@@ -13258,6 +13275,7 @@
             "title": "Destroying the Dawnguard",
             "objective": "prevent the Dawnguard from becoming a serious threat against the vampires",
             "tasks": [
+                "Travel to an abandoned fort in the Reach.",
                 "kill the Dawnguard leaders",
                 "prevent the Dawnguard from becoming a serious threat against the vampires"
             ],
@@ -13307,6 +13325,7 @@
             "title": "The Affairs of Hagravens",
             "objective": "help Melka reclaim her tower by killing Petra",
             "tasks": [
+                "Go to Melka's tower.",
                 "let Melka out of the cage",
                 "help Melka reclaim her tower by killing Petra"
             ],
@@ -13406,7 +13425,7 @@
             "title": "A Cornered Rat",
             "objective": "locate Esbern, and ask where he was on the 30th of Frostfall",
             "tasks": [
-                "Go to Riften.",
+                "Find your way to Riften.",
                 "talk to Brynjolf about finding Esbern",
                 "locate Esbern, and ask where he was on the 30th of Frostfall"
             ],
@@ -13517,7 +13536,7 @@
             "title": "Dawnguard",
             "objective": "join the Dawnguard",
             "tasks": [
-                "Go to Fort Dawnguard.",
+                "Make your way to Fort Dawnguard.",
                 "speak with Isran about joining the Dawnguard",
                 "join the Dawnguard"
             ],
@@ -13579,8 +13598,8 @@
             "title": "Rings of Blood Magic",
             "objective": "retrieve a set of ancient rings of blood magic for yourself",
             "tasks": [
-                "Go to Swindler's Den.",
-                "Go to Cragwallow Slope.",
+                "Reach Swindler's Den.",
+                "Travel to Cragwallow Slope.",
                 "retrieve the Ring of the Erudite",
                 "retrieve the Ring of the Beast",
                 "retrieve a set of ancient rings of blood magic for yourself"
@@ -13767,7 +13786,7 @@
             "title": "Evil in Waiting",
             "objective": "help Valdar defeat Hevnoraak before he awakens",
             "tasks": [
-                "Go to .",
+                "Find your way to in the tomb below.",
                 "collect the three vessels needed to vanquish Hevnoraak, and bring them to Valdar",
                 "help Valdar defeat Hevnoraak before he awakens"
             ],
@@ -13943,7 +13962,7 @@
             "title": "Mead for Elmus",
             "objective": "retrieve one bottle of Ashfire Mead for Elmus",
             "tasks": [
-                "Go to Thirsk Mead Hall.",
+                "Head to Thirsk Mead Hall.",
                 "grab a bottle of Ashfire Mead",
                 "retrieve one bottle of Ashfire Mead for Elmus"
             ],
@@ -14005,6 +14024,7 @@
             "title": "Elisif's Tribute",
             "objective": "help Elisif the Fair make the offering to Talos to complete her husband's burial",
             "tasks": [
+                "Go to a hidden shrine to Talos.",
                 "take Torygg's war horn to the shrine",
                 "help Elisif the Fair make the offering to Talos to complete her husband's burial"
             ],
@@ -14066,7 +14086,7 @@
             "title": "Berries for Elmus",
             "objective": "retrieve some juniper berries for Elmus",
             "tasks": [
-                "Go to Skyrim.",
+                "Reach Skyrim.",
                 "find juniper berries",
                 "retrieve some juniper berries for Elmus"
             ],
@@ -14116,7 +14136,6 @@
             "title": "The Ebony Warrior",
             "objective": "fight the Ebony Warrior",
             "tasks": [
-                "Go to .",
                 "locate the Ebony Warrior",
                 "fight the Ebony Warrior"
             ],
@@ -14178,7 +14197,7 @@
             "title": "Elder Knowledge",
             "objective": "recover an Elder Scroll to learn Dragonrend",
             "tasks": [
-                "Go to College of Winterhold.",
+                "Arrive at College of Winterhold.",
                 "talk to the mages about finding an Elder Scroll",
                 "recover an Elder Scroll to learn Dragonrend"
             ],
@@ -14229,7 +14248,7 @@
             "title": "A Shield for Igmund",
             "objective": "retrieve the shield for Igmund",
             "tasks": [
-                "Go to Hag's End.",
+                "Find your way to Hag's End.",
                 "get Igmund's father's shield back from Hagravens",
                 "retrieve the shield for Igmund"
             ],
@@ -14428,7 +14447,7 @@
             "title": "A Journal of Regret",
             "objective": "retrieve Runil's journal for him",
             "tasks": [
-                "Go to Darkshade Copse.",
+                "Arrive at Darkshade Copse.",
                 "find Runil's journal",
                 "retrieve Runil's journal for him"
             ],
@@ -14526,7 +14545,7 @@
             "title": "Roggi's Family Shield",
             "objective": "retrieve the Knot-Beard shield for Roggi Knot-Beard",
             "tasks": [
-                "Go to Ansilvund.",
+                "Make your way to Ansilvund.",
                 "find the Knot-Beard shield",
                 "retrieve the Knot-Beard shield for Roggi Knot-Beard"
             ],
@@ -14589,7 +14608,7 @@
             "title": "The Queen's Sword",
             "objective": "retrieve High Queen Freydis' sword for Oengul War-Anvil",
             "tasks": [
-                "Go to Cronvangr Cave.",
+                "Reach Cronvangr Cave.",
                 "find High Queen Freydis' sword",
                 "retrieve High Queen Freydis' sword for Oengul War-Anvil"
             ],
@@ -14651,7 +14670,7 @@
             "title": "A Sharp Heirloom",
             "objective": "retrieve Amren's father's sword for Amren",
             "tasks": [
-                "Go to Halted Stream Camp.",
+                "Make your way to Halted Stream Camp.",
                 "find Amren's father's sword",
                 "retrieve Amren's father's sword for Amren"
             ],
@@ -14847,7 +14866,7 @@
             "title": "The Numbers Job",
             "objective": "make the shortfalls from Thieves Guild's other jobs look legit",
             "tasks": [
-                "Go to Bits and Pieces.",
+                "Arrive at Bits and Pieces.",
                 "change the numbers in the business ledger",
                 "make the shortfalls from Thieves Guild's other jobs look legit"
             ],
@@ -15006,7 +15025,7 @@
             "title": "Recipe for Distraction",
             "objective": "tell Modyn Veleth the location of a hidden stash of Emberbrand Wine",
             "tasks": [
-                "Go to .",
+                "Head to not in the Bulwark, one of the abandoned houses on the outskirts of Raven Rock.",
                 "locate the hidden stash of Emberbrand Wine",
                 "tell Modyn Veleth the location of a hidden stash of Emberbrand Wine"
             ],
@@ -15165,6 +15184,7 @@
             "title": "Recipe for Death",
             "objective": "assassinate the Gourmet, a famous master chef, and get his Writ of Passage to assume his identity",
             "tasks": [
+                "Reach the keep in Markarth.",
                 "question Anton Virane to learn the true identity of the Gourmet, and kill Anton Virane",
                 "assassinate the Gourmet, a famous master chef, and get his Writ of Passage to assume his identity"
             ],
@@ -15240,6 +15260,8 @@
             "objective": "acquire the materials necessary to repair the White Phial",
             "tasks": [
                 "Go to Throat of the World.",
+                "Reach giant camps.",
+                "Make your way to Forsworn camps in the Reach.",
                 "get unmelting snow",
                 "get mammoth tusk powder",
                 "get a briar heart",
@@ -15314,7 +15336,7 @@
             "title": "The Raid",
             "objective": "help Laila Law-Giver to uncover and stop the illegal Skooma trade in Riften",
             "tasks": [
-                "Go to .",
+                "Travel to the warehouse within Riften.",
                 "convince Sarthis close down his Skooma operation permanently",
                 "help Laila Law-Giver to uncover and stop the illegal Skooma trade in Riften"
             ],
@@ -15575,7 +15597,7 @@
             "title": "Purity of Revenge",
             "objective": "avenge Kodlak",
             "tasks": [
-                "Go to Driftshade Refuge.",
+                "Head to Driftshade Refuge.",
                 "retrieve the fragments of Wuuthrad and wipe out the Silver Hand",
                 "avenge Kodlak"
             ],
@@ -15662,7 +15684,7 @@
             "title": "The Pursuit",
             "objective": "search for clues about Mercer Frey's whereabouts",
             "tasks": [
-                "Go to Riftweald Manor.",
+                "Reach Riftweald Manor.",
                 "break into Mercer Frey's house",
                 "search for clues about Mercer Frey's whereabouts"
             ],
@@ -15749,7 +15771,7 @@
             "title": "Promises to Keep",
             "objective": "help Louis Letrush get Frost and his lineage papers from Sibbi Black-Briar",
             "tasks": [
-                "Go to Riften Jail.",
+                "Head to Riften Jail.",
                 "talk to Sibbi Black-Briar about Frost and the lineage papers",
                 "help Louis Letrush get Frost and his lineage papers from Sibbi Black-Briar"
             ],
@@ -15886,7 +15908,7 @@
             "title": "Pilgrimage",
             "objective": "help Alessandra make peace with her dead father",
             "tasks": [
-                "Go to Hall of the Dead.",
+                "Travel to Hall of the Dead.",
                 "bring Alessandra's ceremonial dagger to Andurs so it can be interred with Alessandra's father's remains",
                 "help Alessandra make peace with her dead father"
             ],
@@ -15949,7 +15971,7 @@
             "title": "Purity",
             "objective": "handle Vilkas' personal troubles",
             "tasks": [
-                "Go to Tomb of Ysgramor.",
+                "Make your way to Tomb of Ysgramor.",
                 "help Vilkas give up his beastblood",
                 "handle Vilkas' personal troubles"
             ],
@@ -16024,6 +16046,7 @@
             "title": "Sanctity",
             "objective": "cure Farkas' lycanthropy",
             "tasks": [
+                "Travel to the place that is already known to the player.",
                 "get a special Hagraven's head with Farkas",
                 "cure Farkas' lycanthropy"
             ],
@@ -16182,7 +16205,7 @@
             "title": "The Words of Power",
             "objective": "find a lost word of power",
             "tasks": [
-                "Go to Skyrim.",
+                "Reach Skyrim.",
                 "get to the location marked on your map",
                 "find a lost word of power"
             ],
@@ -16545,7 +16568,7 @@
             "title": "Whispers in the Dark",
             "objective": "spy on Cicero and the person he is talking with",
             "tasks": [
-                "Go to .",
+                "Arrive at Night Mother's Chamber in the Dark Brotherhood Sanctuary.",
                 "hide inside the Night Mother's coffin to eavesdrop on the meeting between Cicero and a mystery person",
                 "spy on Cicero and the person he is talking with"
             ],
@@ -16607,6 +16630,7 @@
             "title": "The Way of the Voice",
             "objective": "answer the summons of the Greybeards",
             "tasks": [
+                "Head to hight up the slopes of the Throat of the World.",
                 "reach High Hrothgar",
                 "answer the summons of the Greybeards"
             ],
@@ -16930,7 +16954,6 @@
             "title": "Unearthed",
             "objective": "become Ralis Sedarys' business partner in his search for the Relics of Ahzidal in Kolbjorn Barrow",
             "tasks": [
-                "Go to .",
                 "give 1,000 gold to Ralis Sedarys so that he can hire some diggers from Raven Rock to dig up Kolbjorn Barrow",
                 "become Ralis Sedarys' business partner in his search for the Relics of Ahzidal in Kolbjorn Barrow"
             ],
@@ -17078,7 +17101,7 @@
             "title": "Toying With The Dead",
             "objective": "retrieve the 4 volumes of Arondil's journals for Vekel the Man",
             "tasks": [
-                "Go to Yngvild.",
+                "Head to Yngvild.",
                 "find the 4 volumes of Arondil's journals",
                 "retrieve the 4 volumes of Arondil's journals for Vekel the Man"
             ],
@@ -17231,7 +17254,7 @@
             "title": "To Kill an Empire",
             "objective": "assassinate Titus Mede II while disguised as the Gourmet",
             "tasks": [
-                "Go to Castle Dour.",
+                "Find your way to Castle Dour.",
                 "present the Gourmet's writ of passage to Commander Maro to gain unrestricted access to the kitchens, and poison Titus Mede II's meal with Jarrin Root",
                 "assassinate Titus Mede II while disguised as the Gourmet"
             ],
@@ -17342,7 +17365,7 @@
             "title": "That Was Always There",
             "objective": "return Viola Giordano's gold ring to her without her knowing",
             "tasks": [
-                "Go to .",
+                "Arrive at Viola Giordano's house.",
                 "sneak inside the house and place Viola Giordano's gold ring in a dresser",
                 "return Viola Giordano's gold ring to her without her knowing"
             ],
@@ -17477,7 +17500,7 @@
             "title": "The Temple of Miraak",
             "objective": "uncover what lies beneath the Temple of Miraak",
             "tasks": [
-                "Go to Temple of Miraak.",
+                "Proceed to Temple of Miraak.",
                 "find a way into the Temple of Miraak with Frea",
                 "uncover what lies beneath the Temple of Miraak"
             ],
@@ -17623,7 +17646,7 @@
             "title": "Tending the Flames",
             "objective": "become a member of the Bards College",
             "tasks": [
-                "Go to Dead Men's Respite.",
+                "Find your way to Dead Men's Respite.",
                 "retrieve King Olaf's Verse",
                 "become a member of the Bards College"
             ],
@@ -17662,6 +17685,7 @@
             "title": "The Inheritance",
             "objective": "find the hidden treasure for yourself",
             "tasks": [
+                "Head to the marsh south of Solitude.",
                 "get your prisoner's treasure from a hollowed-out tree stump",
                 "find the hidden treasure for yourself"
             ],
@@ -17699,6 +17723,7 @@
             "title": "No More Pain",
             "objective": "find your prisoner's treasure for yourself",
             "tasks": [
+                "Proceed to just north of Windhelm.",
                 "get your prisoner's hidden things from a hollowed-out rock",
                 "find your prisoner's treasure for yourself"
             ],
@@ -17736,6 +17761,7 @@
             "title": "Kill Me and Be Done with It...",
             "objective": "find your prisoner's hidden treasure for yourself",
             "tasks": [
+                "Find your way to the tundra a bit west of Whiterun.",
                 "get your prisoner's treasure from a hollowed-out rock",
                 "find your prisoner's hidden treasure for yourself"
             ],
@@ -17773,6 +17799,7 @@
             "title": "Canceled Wedding",
             "objective": "find the hidden dowry for yourself",
             "tasks": [
+                "Make your way to just outside Riften.",
                 "get your prisoner's dowry from a hollowed-out tree stump",
                 "find the hidden dowry for yourself"
             ],
@@ -17881,7 +17908,7 @@
             "title": "The Taste of Death",
             "objective": "find your place as a follower of Namira",
             "tasks": [
-                "Go to Reachcliff Cave.",
+                "Find your way to Reachcliff Cave.",
                 "meet Eola and fight your way through the undead with her",
                 "find your place as a follower of Namira"
             ],
@@ -18016,7 +18043,7 @@
             "title": "Summerset Shadows",
             "objective": "remove the Summerset Shadows from the picture, and return Torsten Cruel-Sea's silver locket to him",
             "tasks": [
-                "Go to .",
+                "Arrive at Niranye's house in Windhelm.",
                 "find information about the Summerset Shadows",
                 "remove the Summerset Shadows from the picture, and return Torsten Cruel-Sea's silver locket to him"
             ],
@@ -18103,7 +18130,7 @@
             "title": "Spread the Love",
             "objective": "distribute all religious missives to the citizens of Riften",
             "tasks": [
-                "Go to Riften.",
+                "Reach Riften.",
                 "speak to the citizens",
                 "distribute all religious missives to the citizens of Riften"
             ],
@@ -18202,7 +18229,7 @@
             "title": "A Mail Delivery",
             "objective": "make a delivery for Sylgja to her parents",
             "tasks": [
-                "Go to Darkwater Crossing.",
+                "Proceed to Darkwater Crossing.",
                 "deliver a satchel of letters to Verner",
                 "make a delivery for Sylgja to her parents"
             ],
@@ -18275,7 +18302,7 @@
             "title": "Special Delivery",
             "objective": "help Bolli sell his fish to an untapped market",
             "tasks": [
-                "Go to The Silver Blood Inn.",
+                "Head to The Silver Blood Inn.",
                 "deliver a purchase agreement to Kleppr",
                 "help Bolli sell his fish to an untapped market"
             ],
@@ -18374,7 +18401,7 @@
             "title": "The Staff of Magnus",
             "objective": "bring the Staff of Magnus to the College of Winterhold",
             "tasks": [
-                "Go to Labyrinthian.",
+                "Arrive at Labyrinthian.",
                 "find the Staff of Magnus",
                 "bring the Staff of Magnus to the College of Winterhold"
             ],
@@ -18436,7 +18463,7 @@
             "title": "Lusting After Gold",
             "objective": "steal a child-sized gold statue for Degaine",
             "tasks": [
-                "Go to Temple of Dibella.",
+                "Head to Temple of Dibella.",
                 "sneak inside the temple and find the gold statue",
                 "steal a child-sized gold statue for Degaine"
             ],
@@ -18585,7 +18612,7 @@
             "title": "Speaking With Silence",
             "objective": "catch Karliah",
             "tasks": [
-                "Go to Snow Veil Sanctum.",
+                "Head to Snow Veil Sanctum.",
                 "find Karliah with Mercer Frey",
                 "catch Karliah"
             ],
@@ -18671,7 +18698,7 @@
             "title": "Keeping Up the Appearances",
             "objective": "give Nelacar's mage's staff to Malur Seloth",
             "tasks": [
-                "Go to Frozen Hearth.",
+                "Proceed to Frozen Hearth.",
                 "steal Nelacar's mage's staff from his room",
                 "give Nelacar's mage's staff to Malur Seloth"
             ],
@@ -18768,7 +18795,7 @@
             "title": "Imperial Spy?",
             "objective": "give Lod's letter to Dengeir of Stuhn",
             "tasks": [
-                "Go to .",
+                "Reach Lod's house in Falkreath.",
                 "steal Lod's letter",
                 "give Lod's letter to Dengeir of Stuhn"
             ],
@@ -18817,7 +18844,7 @@
             "title": "Soljund's Sinkhole",
             "objective": "make Soljund's Sinkhole safe again",
             "tasks": [
-                "Go to Soljund's Sinkhole.",
+                "Proceed to Soljund's Sinkhole.",
                 "clear out draugr",
                 "make Soljund's Sinkhole safe again"
             ],
@@ -19025,7 +19052,7 @@
             "title": "Last Goodbyes",
             "objective": "take Bera's necklace to Runil, and return to Morwen",
             "tasks": [
-                "Go to Falkreath.",
+                "Find your way to Falkreath.",
                 "give Bera's necklace to Runil and tell him that Morwen sent you",
                 "take Bera's necklace to Runil, and return to Morwen"
             ],
@@ -19101,7 +19128,7 @@
             "title": "Silver Lining",
             "objective": "recover Endon's stolen silver mold for him",
             "tasks": [
-                "Go to Pinewatch.",
+                "Arrive at Pinewatch.",
                 "find Endon's stolen silver mold",
                 "recover Endon's stolen silver mold for him"
             ],
@@ -19418,7 +19445,7 @@
             "title": "Shalidor's Insights",
             "objective": "bring the writings of Shalidor to Urag gro-Shub",
             "tasks": [
-                "Go to Skyrim.",
+                "Travel to Skyrim.",
                 "discover the writings of Shalidor",
                 "bring the writings of Shalidor to Urag gro-Shub"
             ],
@@ -19567,7 +19594,7 @@
             "title": "Served Cold",
             "objective": "search Raven Rock and root out traitors who want to assassinate Councilor Morvayn",
             "tasks": [
-                "Go to Retching Netch Cornerclub.",
+                "Make your way to Retching Netch Cornerclub.",
                 "talk to Geldis Sadri and check out any leads he provides you",
                 "search Raven Rock and root out traitors who want to assassinate Councilor Morvayn"
             ],
@@ -19629,6 +19656,7 @@
             "title": "A Scroll For Anska",
             "objective": "help Anska find a scroll about her family legend",
             "tasks": [
+                "Make your way to Vokun's crypt.",
                 "defeat Vokun, a powerful old priest buried here, with Anska",
                 "help Anska find a scroll about her family legend"
             ],
@@ -19899,7 +19927,7 @@
             "title": "Season Unending",
             "objective": "negotiate a truce between Ulfric and General Tullius",
             "tasks": [
-                "Go to High Hrothgar.",
+                "Reach High Hrothgar.",
                 "ask the Greybeards hold a peace council",
                 "negotiate a truce between Ulfric and General Tullius"
             ],
@@ -19986,7 +20014,7 @@
             "title": "Scoundrel's Folly",
             "objective": "squeeze Gulum-Ei for information",
             "tasks": [
-                "Go to East Empire Company.",
+                "Proceed to East Empire Company.",
                 "find Gulum-Ei",
                 "squeeze Gulum-Ei for information"
             ],
@@ -20109,6 +20137,7 @@
             "title": "Salty Sea-Dogs",
             "objective": "bring Fine-Cut Void Salts back to Captain Wayfinder",
             "tasks": [
+                "Find your way to some cave.",
                 "find the Fine-Cut Void Salts",
                 "bring Fine-Cut Void Salts back to Captain Wayfinder"
             ],
@@ -20170,6 +20199,7 @@
             "title": "Sanctuary",
             "objective": "begin your new life as a member of the Dark Brotherhood, and see Astrid",
             "tasks": [
+                "Arrive at in the southwest reaches of the realm, in the pine forest.",
                 "find the entrance to the Dark Brotherhood Sanctuary, and answer \"Silence, my brother.\" when questioned by the black door",
                 "begin your new life as a member of the Dark Brotherhood, and see Astrid"
             ],
@@ -20268,7 +20298,7 @@
             "title": "Rogatus's Letter",
             "objective": "deliver a letter to Leontius",
             "tasks": [
-                "Go to Old Hroldan Inn.",
+                "Head to Old Hroldan Inn.",
                 "find Leontius",
                 "deliver a letter to Leontius"
             ],
@@ -20412,7 +20442,7 @@
             "title": "Rjorn's Drum",
             "objective": "retrieve the Rjorn' drum for  Giraud Gemane",
             "tasks": [
-                "Go to Halldir's Cairn.",
+                "Proceed to Halldir's Cairn.",
                 "find the drum",
                 "retrieve the Rjorn' drum for  Giraud Gemane"
             ],
@@ -20498,7 +20528,7 @@
             "title": "Rise in the East",
             "objective": "help Orthus Endario prove that the Shatter-Shields are in league with pirates",
             "tasks": [
-                "Go to Windhelm.",
+                "Find your way to Windhelm.",
                 "steal Suvaris Atheron's logbook and bring it to Orthus Endario",
                 "help Orthus Endario prove that the Shatter-Shields are in league with pirates"
             ],
@@ -20591,7 +20621,7 @@
             "title": "Revealing the Unseen",
             "objective": "learn the location of the Staff of Magnus",
             "tasks": [
-                "Go to Mzulft.",
+                "Head to Mzulft.",
                 "find the members of the Synod",
                 "learn the location of the Staff of Magnus"
             ],
@@ -20685,7 +20715,7 @@
             "title": "Retaking Thirsk",
             "objective": "help Bujold the Unworthy and his warriors retake Thirsk Mead Hall",
             "tasks": [
-                "Go to Thirsk Mead Hall.",
+                "Arrive at Thirsk Mead Hall.",
                 "fight Rieklings with Bujold the Unworthy and his warriors",
                 "help Bujold the Unworthy and his warriors retake Thirsk Mead Hall"
             ],
@@ -20774,7 +20804,7 @@
             "title": "Pantea's Flute",
             "objective": "recover Pantea's flute for her",
             "tasks": [
-                "Go to Hob's Fall Cave.",
+                "Head to Hob's Fall Cave.",
                 "find the flute",
                 "recover Pantea's flute for her"
             ],
@@ -20823,7 +20853,7 @@
             "title": "Pain in the Necklace",
             "objective": "bring East Empire Pendants to Fethis Alor",
             "tasks": [
-                "Go to Solstheim.",
+                "Proceed to Solstheim.",
                 "find East Empire Pendants",
                 "bring East Empire Pendants to Fethis Alor"
             ],
@@ -20960,7 +20990,7 @@
             "title": "Paid in Full",
             "objective": "recover the bonemold formula for Glover Mallory",
             "tasks": [
-                "Go to Castle Karstaag.",
+                "Arrive at Castle Karstaag.",
                 "find the bonemold formula",
                 "recover the bonemold formula for Glover Mallory"
             ],
@@ -21011,7 +21041,7 @@
             "title": "The Path of Knowledge",
             "objective": "find the Black Book",
             "tasks": [
-                "Go to Nchardak.",
+                "Find your way to Nchardak.",
                 "go to Nchardak with Neloth",
                 "find the Black Book"
             ],
@@ -21099,7 +21129,7 @@
             "title": "Out of Balance",
             "objective": "remove pollution from the various points of focus for magic energies with specially enchanted gloves, and return the gloves to Drevis Neloren afterwards",
             "tasks": [
-                "Go to .",
+                "Find your way to around the College of Winterhold.",
                 "find the focus points for magical energy",
                 "remove pollution from the various points of focus for magic energies with specially enchanted gloves, and return the gloves to Drevis Neloren afterwards"
             ],
@@ -21193,7 +21223,7 @@
             "title": "No Stone Unturned",
             "objective": "talk to Vex after collecting the 24 Stones of Barenziah",
             "tasks": [
-                "Go to Skyrim.",
+                "Make your way to Skyrim.",
                 "find the 24 Stones of Barenziah",
                 "talk to Vex after collecting the 24 Stones of Barenziah"
             ],
@@ -21304,7 +21334,7 @@
             "title": "Nimhe, the Poisoned One",
             "objective": "kill Nimhe",
             "tasks": [
-                "Go to Nchuand-Zel.",
+                "Travel to Nchuand-Zel.",
                 "locate Nimhe",
                 "kill Nimhe"
             ],
@@ -21389,7 +21419,7 @@
             "title": "The Only Cure",
             "objective": "kill Orchendor, and return to Peryite",
             "tasks": [
-                "Go to Bthardamz.",
+                "Reach Bthardamz.",
                 "find Orchendor",
                 "kill Orchendor, and return to Peryite"
             ],
@@ -21640,7 +21670,7 @@
             "title": "Mourning Never Comes",
             "objective": "assassinate an ex-lover for Muiri",
             "tasks": [
-                "Go to The Hag's Cure.",
+                "Reach The Hag's Cure.",
                 "speak with Muiri, set up the contract with her, and fulfill it",
                 "assassinate an ex-lover for Muiri"
             ],
@@ -21738,7 +21768,7 @@
             "title": "Moss Mother Cavern",
             "objective": "help Valdr avenge his fallen friends",
             "tasks": [
-                "Go to Moss Mother Cavern.",
+                "Head to Moss Mother Cavern.",
                 "kill 3 Spriggans with Valdr",
                 "help Valdr avenge his fallen friends"
             ],
@@ -21888,7 +21918,7 @@
             "title": "Mine or Yours",
             "objective": "help Filnjar by clearing out spiders from the Redbelly Mine",
             "tasks": [
-                "Go to Redbelly Mine.",
+                "Arrive at Redbelly Mine.",
                 "kill the spiders",
                 "help Filnjar by clearing out spiders from the Redbelly Mine"
             ],
@@ -21938,6 +21968,7 @@
             "title": "Missing In Action",
             "objective": "find Thorald",
             "tasks": [
+                "Arrive at Fralia Gray-Mane's home.",
                 "talk to Fralia Gray-Mane privately about the Battle-Borns and their lies",
                 "find Thorald"
             ],
@@ -21988,7 +22019,7 @@
             "title": "Message to Whiterun",
             "objective": "make a delivery for Ulfric",
             "tasks": [
-                "Go to Whiterun.",
+                "Reach Whiterun.",
                 "deliver an axe to Balgruuf the Greater",
                 "make a delivery for Ulfric"
             ],
@@ -22065,7 +22096,7 @@
             "title": "The Mind of Madness",
             "objective": "gain access to the Pelagius Wing, and find Dervenin's master",
             "tasks": [
-                "Go to Blue Palace.",
+                "Arrive at Blue Palace.",
                 "talk to Una or Erdi about entering the Pelagius Wing",
                 "gain access to the Pelagius Wing, and find Dervenin's master"
             ],
@@ -22127,7 +22158,7 @@
             "title": "A Decisive Message",
             "objective": "deliver a sensitive intelligence message for General Tullius",
             "tasks": [
-                "Go to Whiterun.",
+                "Make your way to Whiterun.",
                 "deliver the message to Jarl Baalgruf",
                 "deliver a sensitive intelligence message for General Tullius"
             ],
@@ -22301,7 +22332,6 @@
             "title": "March of the Dead",
             "objective": "stop the ash spawn attacks on Raven Rock",
             "tasks": [
-                "Go to .",
                 "search for clues about where the ash spawn come from",
                 "stop the ash spawn attacks on Raven Rock"
             ],
@@ -22451,7 +22481,7 @@
             "title": "Loud and Clear",
             "objective": "teach Aringoth a lesson",
             "tasks": [
-                "Go to Goldenglow Estate.",
+                "Make your way to Goldenglow Estate.",
                 "burn down three bee hives without burning the whole Goldenglow Estate down, and clear out the safe in the main house of the Goldenglow Estate",
                 "teach Aringoth a lesson"
             ],
@@ -22548,7 +22578,7 @@
             "title": "Lost Legacy",
             "objective": "protect Tharstan while he researches an old tomb",
             "tasks": [
-                "Go to .",
+                "Go to outside Vahlok's Tomb.",
                 "meet Tharstan",
                 "protect Tharstan while he researches an old tomb"
             ],
@@ -22621,7 +22651,7 @@
             "title": "Lost Knowledge",
             "objective": "retrieve a Black Book so that Neloth can make a copy of it",
             "tasks": [
-                "Go to Benkongerike.",
+                "Reach Benkongerike.",
                 "find the Black Book",
                 "retrieve a Black Book so that Neloth can make a copy of it"
             ],
@@ -22707,7 +22737,7 @@
             "title": "Lights Out!",
             "objective": "help run the Icerunner aground",
             "tasks": [
-                "Go to Solitude Lighthouse.",
+                "Travel to Solitude Lighthouse.",
                 "put out the lighthouse fire",
                 "meet Jaree-Ra",
                 "help run the Icerunner aground"
@@ -22771,7 +22801,7 @@
             "title": "Lifting the Shroud",
             "objective": "investigate Shroud Hearth Barrow",
             "tasks": [
-                "Go to Shroud Hearth Barrow.",
+                "Proceed to Shroud Hearth Barrow.",
                 "go to the barrow",
                 "investigate Shroud Hearth Barrow"
             ],
@@ -22821,7 +22851,7 @@
             "title": "Locate the Assassin of Old",
             "objective": "go on an adventure",
             "tasks": [
-                "Go to Hag's End.",
+                "Travel to Hag's End.",
                 "find the final resting place of the assassin of old",
                 "go on an adventure"
             ],
@@ -22995,7 +23025,7 @@
             "title": "Laid to Rest",
             "objective": "investigate Hroggar's house fire",
             "tasks": [
-                "Go to .",
+                "Make your way to Hroggar's house in Morthal.",
                 "find clues among the ashes",
                 "investigate Hroggar's house fire"
             ],
@@ -23045,7 +23075,7 @@
             "title": "Kill the Bandits",
             "objective": "slay bandits for Siddgeir",
             "tasks": [
-                "Go to Embershard Mine.",
+                "Travel to Embershard Mine.",
                 "find all bandits, and kill them",
                 "slay bandits for Siddgeir"
             ],
@@ -23096,7 +23126,7 @@
             "title": "Painting the Seas Red",
             "objective": "assassinate Safia",
             "tasks": [
-                "Go to Red Wave.",
+                "Proceed to Red Wave.",
                 "find Safia",
                 "assassinate Safia"
             ],
@@ -23146,7 +23176,7 @@
             "title": "Deadly Research",
             "objective": "assassinate Maluril",
             "tasks": [
-                "Go to Mzinchaleft.",
+                "Make your way to Mzinchaleft.",
                 "find Maluril",
                 "assassinate Maluril"
             ],
@@ -23208,7 +23238,7 @@
             "title": "Undead to Plain Dead",
             "objective": "assassinate Hern",
             "tasks": [
-                "Go to Half-Moon Mill.",
+                "Find your way to Half-Moon Mill.",
                 "find Hern",
                 "assassinate Hern"
             ],
@@ -23270,7 +23300,7 @@
             "title": "Swim for Your Life",
             "objective": "assassinate Deekus",
             "tasks": [
-                "Go to Hela's Folly.",
+                "Head to Hela's Folly.",
                 "locate Deekus",
                 "assassinate Deekus"
             ],
@@ -23320,7 +23350,7 @@
             "title": "Lethal Competition",
             "objective": "assassinate Beitild",
             "tasks": [
-                "Go to Dawnstar.",
+                "Proceed to Dawnstar.",
                 "find Beitild",
                 "assassinate Beitild"
             ],
@@ -23370,7 +23400,7 @@
             "title": "Serving the Empire",
             "objective": "prove yourself worthy of joining the Imperial Legion",
             "tasks": [
-                "Go to Fort Hraggstad.",
+                "Proceed to Fort Hraggstad.",
                 "wipe out bandits",
                 "prove yourself worthy of joining the Imperial Legion"
             ],
@@ -23455,6 +23485,7 @@
             "title": "The Jagged Crown",
             "objective": "find the Jagged Crown for Ulfric",
             "tasks": [
+                "Make your way to outside Korvanjund.",
                 "meet Galmar Stone-Fist and your fellow Stormcloaks",
                 "find the Jagged Crown for Ulfric"
             ],
@@ -23566,7 +23597,7 @@
             "title": "Innocence Lost",
             "objective": "do an assassination contract for Aventus Aretino",
             "tasks": [
-                "Go to Honorhall Orphanage.",
+                "Arrive at Honorhall Orphanage.",
                 "kill Grelod the Kind, the evil, cruel woman who works as the headmistress",
                 "do an assassination contract for Aventus Aretino"
             ],
@@ -23715,8 +23746,8 @@
             "title": "Imitation Amnesty",
             "objective": "help Olfrid Battle-Born save Arn from getting executed for a serious crime in Solitude",
             "tasks": [
-                "Go to .",
-                "Go to .",
+                "Arrive at the Jarl's or Steward's chambers in Dragonsreach.",
+                "Reach the Jarl's or Steward's chambers in Dragonsreach.",
                 "steal a letter that was sent from Solitude warning the Whiterun guard to be on the lookout for Arn",
                 "change Arn's name in the prison registry to his new identity",
                 "help Olfrid Battle-Born save Arn from getting executed for a serious crime in Solitude"
@@ -23816,7 +23847,7 @@
             "title": "Ice Cold",
             "objective": "bring five ice wraith teeth to Marise Aravel",
             "tasks": [
-                "Go to Ancient's Ascent.",
+                "Travel to Ancient's Ascent.",
                 "find five ice wraith teeth",
                 "bring five ice wraith teeth to Marise Aravel"
             ],
@@ -23892,7 +23923,7 @@
             "title": "Ill Met by Moonlight",
             "objective": "take the Ring of Hircine back to Hircine",
             "tasks": [
-                "Go to .",
+                "Find your way to these woods.",
                 "hunt down the beast to draw out Hircine",
                 "take the Ring of Hircine back to Hircine"
             ],
@@ -23954,7 +23985,7 @@
             "title": "The House of Horrors",
             "objective": "investigate the Abandoned House with Tyranus",
             "tasks": [
-                "Go to Abandoned House.",
+                "Arrive at Abandoned House.",
                 "follow Tyranus inside the Abandoned House",
                 "investigate the Abandoned House with Tyranus"
             ],
@@ -24036,7 +24067,7 @@
             "title": "The Horn of Jurgen Windcaller",
             "objective": "retrieve the horn of Jurgen Windcaller",
             "tasks": [
-                "Go to Ustengrav.",
+                "Arrive at Ustengrav.",
                 "find the horn of Jurgen Windcaller in his tomb",
                 "retrieve the horn of Jurgen Windcaller"
             ],
@@ -24098,7 +24129,7 @@
             "title": "Hitting the Books",
             "objective": "find the books needed to identify the artifact you found",
             "tasks": [
-                "Go to Fellglow Keep.",
+                "Proceed to Fellglow Keep.",
                 "talk to Orthorn",
                 "find the books needed to identify the artifact you found"
             ],
@@ -24329,7 +24360,7 @@
             "title": "The Heart of Dibella",
             "objective": "find a new Sybil for the Temple of Dibella",
             "tasks": [
-                "Go to Karthwasten.",
+                "Reach Karthwasten.",
                 "retrieve the new Sybil, a young girl",
                 "find a new Sybil for the Temple of Dibella"
             ],
@@ -24464,7 +24495,7 @@
             "title": "Hail Sithis!",
             "objective": "assassinate Titus Mede II",
             "tasks": [
-                "Go to Katariah.",
+                "Reach Katariah.",
                 "get onboard",
                 "assassinate Titus Mede II"
             ],
@@ -24576,7 +24607,7 @@
             "title": "The Golden Claw",
             "objective": "retrieve a golden dragon claw for Lucan Valerius",
             "tasks": [
-                "Go to Bleak Falls Barrow.",
+                "Make your way to Bleak Falls Barrow.",
                 "find the golden dragon claw",
                 "retrieve a golden dragon claw for Lucan Valerius"
             ],
@@ -24824,7 +24855,7 @@
             "title": "A Tragedy at Frostflow",
             "objective": "uncover the tragic events inside Frostflow Lighthouse",
             "tasks": [
-                "Go to Frostflow Lighthouse.",
+                "Head to Frostflow Lighthouse.",
                 "investigate the cellar",
                 "uncover the tragic events inside Frostflow Lighthouse"
             ],
@@ -24923,7 +24954,7 @@
             "title": "Forgotten Names",
             "objective": "complete a summoning ritual in the Midden",
             "tasks": [
-                "Go to Arcanaeum.",
+                "Head to Arcanaeum.",
                 "find the 4 rings needed in the ritual",
                 "complete a summoning ritual in the Midden"
             ],
@@ -25047,7 +25078,7 @@
             "title": "For the Good of Morthal",
             "objective": "help Gorm to address his worries about Idgrod's leadership",
             "tasks": [
-                "Go to Solitude.",
+                "Head to Solitude.",
                 "deliver Gorm's letter to Captain Aldis",
                 "help Gorm to address his worries about Idgrod's leadership"
             ],
@@ -25109,7 +25140,7 @@
             "title": "Flight or Fight",
             "objective": "tell Liefnarr that he is not welcome home",
             "tasks": [
-                "Go to Broken Helm Hollow.",
+                "Arrive at Broken Helm Hollow.",
                 "find Liefnarr",
                 "tell Liefnarr that he is not welcome home"
             ],
@@ -25259,8 +25290,8 @@
             "objective": "investigate the forgotten legend of Gauldur, and find the 3 pieces of the Gauldur Amulet",
             "tasks": [
                 "Go to Folgunthur.",
-                "Go to Saarthal.",
-                "Go to Geirmund's Hall.",
+                "Reach Saarthal.",
+                "Proceed to Geirmund's Hall.",
                 "find Mikrul's amulet piece",
                 "find Jyrik's amulet piece",
                 "find Sigdis' amulet piece",
@@ -25335,7 +25366,7 @@
             "title": "Fit for a Jarl",
             "objective": "promote the Radiant Raiment to Jarl Elisif",
             "tasks": [
-                "Go to Blue Palace.",
+                "Reach Blue Palace.",
                 "wear one of the Radiant Raiment's outfits, and speak to Elisif about it",
                 "promote the Radiant Raiment to Jarl Elisif"
             ],
@@ -25409,7 +25440,7 @@
             "title": "Finn's Lute",
             "objective": "return Finn's Lute to Inge Six Fingers",
             "tasks": [
-                "Go to Stony Creek Cave.",
+                "Arrive at Stony Creek Cave.",
                 "find Finn's Lute",
                 "return Finn's Lute to Inge Six Fingers"
             ],
@@ -25484,7 +25515,7 @@
             "title": "Assassin at Large",
             "objective": "kill the Khajiit who wants to assassinate Malborn",
             "tasks": [
-                "Go to .",
+                "Travel to around the main gate of Windhelm.",
                 "find the Khajiit",
                 "kill the Khajiit who wants to assassinate Malborn"
             ],
@@ -25904,6 +25935,7 @@
             "title": "Destroy the Dark Brotherhood!",
             "objective": "destroy the Dark Brotherhood",
             "tasks": [
+                "Make your way to Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood.",
                 "use \"Silence, my brother.\" to enter the Dark Brotherhood Sanctuary",
                 "destroy the Dark Brotherhood"
             ],
@@ -26013,7 +26045,7 @@
             "title": "Sating the Steward's Thirst",
             "objective": "deliver a bottle of Stros M'Kai Rum to Falk Firebeard",
             "tasks": [
-                "Go to Blue Palace.",
+                "Make your way to Blue Palace.",
                 "find Falk Firebeard",
                 "deliver a bottle of Stros M'Kai Rum to Falk Firebeard"
             ],
@@ -26110,7 +26142,8 @@
             "title": "Diplomatic Immunity",
             "objective": "infiltrate the party at the Thalmor Embassy, and find Elenwen's secret files",
             "tasks": [
-                "Go to The Winking Skeever.",
+                "Proceed to The Winking Skeever.",
+                "Make your way to Solitude stables.",
                 "talk to Malborn",
                 "meet Delphine",
                 "infiltrate the party at the Thalmor Embassy, and find Elenwen's secret files"
@@ -26160,7 +26193,7 @@
                 "relations": [
                     [
                         "present in",
-                        "Hollyfrost Farm"
+                        "Hillevi Cruel-Sea's market stall"
                     ]
                 ],
                 "type": "character"
@@ -26246,7 +26279,7 @@
             "title": "A Bad Cough",
             "objective": "deliver a message about medicines for miners to Quintus",
             "tasks": [
-                "Go to White Phial.",
+                "Reach White Phial.",
                 "find Quintus",
                 "deliver a message about medicines for miners to Quintus"
             ],
@@ -26349,7 +26382,7 @@
             "title": "Dark Ancestor",
             "objective": "destroy Vighar",
             "tasks": [
-                "Go to Bloodlet Throne.",
+                "Proceed to Bloodlet Throne.",
                 "find Vighar",
                 "destroy Vighar"
             ],
@@ -26471,7 +26504,8 @@
             "title": "The Dainty Sload",
             "objective": "frame Captain Volf by planting some contraband",
             "tasks": [
-                "Go to Dainty Sload.",
+                "Find your way to down by the docks.",
+                "Arrive at Dainty Sload.",
                 "get some Balmora Blue from Sabine Nyette",
                 "plant the Balmora Blue in Captain Volf's footlocker",
                 "frame Captain Volf by planting some contraband"
@@ -26754,8 +26788,8 @@
             "title": "The Cure for Madness",
             "objective": "confront Cicero and kill him",
             "tasks": [
-                "Go to .",
-                "Go to .",
+                "Reach the wilderness.",
+                "Make your way to Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood.",
                 "find Arnbjorn and make sure he is alright",
                 "search Cicero's room for clues about where he has gone and let Astrid know about your findings",
                 "confront Cicero and kill him"
@@ -26818,6 +26852,7 @@
             "title": "Your Will Be Done",
             "objective": "learn powerful, new conjuration spells",
             "tasks": [
+                "Arrive at the top of the Hall of Attainment.",
                 "summon an unbound Dremora, prove that you are in control, and order the Dremora bring you a sigil stone from an Oblivion gate",
                 "learn powerful, new conjuration spells"
             ],
@@ -26867,7 +26902,7 @@
             "title": "A Daedra's Best Friend",
             "objective": "settle the disagreement between Barbas and Clavicus Vile",
             "tasks": [
-                "Go to Haemar's Shame.",
+                "Proceed to Haemar's Shame.",
                 "talk to Clavicus Vile at his shrine",
                 "settle the disagreement between Barbas and Clavicus Vile"
             ],
@@ -26942,7 +26977,7 @@
             "title": "Pushing Beliefs",
             "objective": "blackmail Raerek into helping the Stormcloaks",
             "tasks": [
-                "Go to Markarth.",
+                "Find your way to Markarth.",
                 "find proofs of Raerek's Talos worship in his quarters, and use them to blackmail Raerek",
                 "blackmail Raerek into helping the Stormcloaks"
             ],
@@ -26992,7 +27027,7 @@
             "title": "Compelling Tribute",
             "objective": "use Anuriel to gain intelligence on the Stormcloaks",
             "tasks": [
-                "Go to Riften.",
+                "Head to Riften.",
                 "find evidence about Anuriel's corrupt activities in her private quarters, and use it to blackmail her",
                 "use Anuriel to gain intelligence on the Stormcloaks"
             ],
@@ -27053,7 +27088,7 @@
             "title": "Clean Sweep",
             "objective": "cleanse the Ancestral Tomb",
             "tasks": [
-                "Go to .",
+                "Make your way to an Ancestral Tomb beneath the Temple.",
                 "kill the ash spawn that defile the Ancestral Tomb",
                 "cleanse the Ancestral Tomb"
             ],
@@ -27235,7 +27270,7 @@
             "title": "An Offer",
             "objective": "help Calcelmo with his research",
             "tasks": [
-                "Go to Markarth.",
+                "Reach Markarth.",
                 "bring the Dwemer sword you bough from Warmaiden's to Calcelmo",
                 "help Calcelmo with his research"
             ],
@@ -27309,6 +27344,7 @@
             "title": "Briarheart Necropsy",
             "objective": "examine a Briarheart for Neloth so that he can improve his heart stone experiments",
             "tasks": [
+                "Travel to the hills on the western edge of Skyrim.",
                 "find a Briarheart",
                 "examine a Briarheart for Neloth so that he can improve his heart stone experiments"
             ],
@@ -27520,7 +27556,7 @@
             "title": "Bound Until Death",
             "objective": "lure Titus Mede II to Skyrim so that the Dark Brotherhood can assassinate him",
             "tasks": [
-                "Go to Temple of the Divines.",
+                "Find your way to Temple of the Divines.",
                 "assassinate Vittoria Vici at her own wedding",
                 "lure Titus Mede II to Skyrim so that the Dark Brotherhood can assassinate him"
             ],
@@ -27571,7 +27607,6 @@
             "title": "The Bonds of Matrimony",
             "objective": "get married",
             "tasks": [
-                "Go to .",
                 "attend your wedding tomorrow, from dawn until dusk",
                 "get married"
             ],
@@ -27695,6 +27730,7 @@
             "title": "Blood's Honor",
             "objective": "claim the head of a Glenmoril Witch so that Kodlak Whitemane can cure the Companions' lycanthropy",
             "tasks": [
+                "Find your way to Glenmoril coven in the wilderness.",
                 "seek out the Glenmoril witches, kill them, and collect their heads",
                 "claim the head of a Glenmoril Witch so that Kodlak Whitemane can cure the Companions' lycanthropy"
             ],
@@ -27803,7 +27839,7 @@
             "title": "The Blessings of Nature",
             "objective": "restore the Gildergreen with the sap of the Eldergleam",
             "tasks": [
-                "Go to Orphan Rock.",
+                "Make your way to Orphan Rock.",
                 "get Nettlebane",
                 "restore the Gildergreen with the sap of the Eldergleam"
             ],
@@ -27915,7 +27951,8 @@
             "title": "Blood on the Ice",
             "objective": "investigate the brutal murders of women",
             "tasks": [
-                "Go to Hall of the Dead.",
+                "Head to the murder scene.",
+                "Travel to Hall of the Dead.",
                 "check out a trail of blood leading away from the murder scene",
                 "talk with Helgird",
                 "investigate the brutal murders of women"
@@ -28052,7 +28089,7 @@
             "title": "Before the Storm",
             "objective": "inform Balgruuf about the dragon in Helgen",
             "tasks": [
-                "Go to Whiterun.",
+                "Arrive at Whiterun.",
                 "find Balgruuf",
                 "inform Balgruuf about the dragon in Helgen"
             ],
@@ -28114,7 +28151,7 @@
             "title": "Extinguishing the Flames of Rebellion",
             "objective": "put an end to the Stormcloak rebellion",
             "tasks": [
-                "Go to Windhelm.",
+                "Make your way to Windhelm.",
                 "fight your way in Ulric's castle, and make Ulfric face justice",
                 "put an end to the Stormcloak rebellion"
             ],
@@ -28165,7 +28202,7 @@
             "title": "Storm over Whiterun",
             "objective": "take Whiterun in the name of the Stormcloaks",
             "tasks": [
-                "Go to Whiterun.",
+                "Reach Whiterun.",
                 "tear through the barricades, and find a way to drop the drawbridge into Whiterun",
                 "take Whiterun in the name of the Stormcloaks"
             ],
@@ -28227,7 +28264,7 @@
             "title": "Weather the Storm",
             "objective": "protect Whiterun from the Stormcloak invasion",
             "tasks": [
-                "Go to Whiterun.",
+                "Head to Whiterun.",
                 "go with Legate Rikke",
                 "protect Whiterun from the Stormcloak invasion"
             ],
@@ -28402,6 +28439,7 @@
             "title": "Thorough Cleaning",
             "objective": "purify a soul gem",
             "tasks": [
+                "Find your way to Skyrim ruins.",
                 "place the soul gem in 3 Dwarven Convectors and heat them for 3 seconds with Arniel Gane's spell",
                 "purify a soul gem"
             ],
@@ -28512,7 +28550,7 @@
             "title": "Alduin's Bane",
             "objective": "defeat Alduin",
             "tasks": [
-                "Go to Time-Wound.",
+                "Find your way to Time-Wound.",
                 "take the Elder Scroll to the Time-Wound",
                 "defeat Alduin"
             ],
@@ -28597,7 +28635,7 @@
             "title": "Alduin's Wall",
             "objective": "locate Alduin's Wall in Sky Haven Temple",
             "tasks": [
-                "Go to Karthspire.",
+                "Proceed to Karthspire.",
                 "find the entrance to Sky Haven Temple with Esbern",
                 "locate Alduin's Wall in Sky Haven Temple"
             ],
@@ -28708,7 +28746,7 @@
             "title": "Aftershock",
             "objective": "take care of a magical disturbance",
             "tasks": [
-                "Go to Markarth.",
+                "Reach Markarth.",
                 "contain the power from the Eye of Magnus with the Staff of Magnus",
                 "take care of a magical disturbance"
             ],
@@ -28794,6 +28832,7 @@
             "title": "Chasing Echoes",
             "objective": "get information about an Elder Scroll from Valerica",
             "tasks": [
+                "Make your way to a courtyard in Castle Volkihar with Valerica's garden, a peaceful place that Serana's father could not stand.",
                 "search for clues about Valerica's whereabouts with Serana",
                 "get information about an Elder Scroll from Valerica"
             ],
@@ -28947,7 +28986,7 @@
             "title": "Awakening",
             "objective": "find out what vampires are looking for at Dimhollow Crypt",
             "tasks": [
-                "Go to Dimhollow Crypt.",
+                "Head to Dimhollow Crypt.",
                 "meet Tolan, who will try to assist you",
                 "find out what vampires are looking for at Dimhollow Crypt"
             ],
@@ -29109,7 +29148,7 @@
             "title": "Hidden Costs",
             "objective": "bring enchanting tools to Baldrick the Enchanter",
             "tasks": [
-                "Go to Path of the Honored Dead.",
+                "Head to Path of the Honored Dead.",
                 "search Path of the Honored Dead for a Beornen",
                 "bring enchanting tools to Baldrick the Enchanter"
             ],
@@ -29171,7 +29210,7 @@
             "title": "Little Lost Ones",
             "objective": "help Bellethe find Finnas and their precious animals",
             "tasks": [
-                "Go to Widow's Veil.",
+                "Travel to Widow's Veil.",
                 "find Finnas",
                 "help Bellethe find Finnas and their precious animals"
             ],
@@ -29330,7 +29369,7 @@
             "title": "Protect the Guardian!",
             "objective": "protect the Guardian of Water",
             "tasks": [
-                "Go to Wellspring Temple.",
+                "Make your way to Wellspring Temple.",
                 "scout the Wellspring Temple",
                 "protect the Guardian of Water"
             ],
@@ -29392,7 +29431,7 @@
             "title": "Regroup at the Enclave",
             "objective": "plan your next move with Commander Vale",
             "tasks": [
-                "Go to Estherian Enclave.",
+                "Arrive at Estherian Enclave.",
                 "return to the Estherian Enclave",
                 "plan your next move with Commander Vale"
             ],
@@ -29613,7 +29652,7 @@
             "title": "Warn the Estherians",
             "objective": "head up the pass to the Enclave, and warn the Estherians that the Alchemist is coming to them",
             "tasks": [
-                "Go to Enclave.",
+                "Arrive at Enclave.",
                 "find Commander Vale and let her know what happened",
                 "head up the pass to the Enclave, and warn the Estherians that the Alchemist is coming to them"
             ],
@@ -29651,7 +29690,7 @@
             "title": "Risk and Reward",
             "objective": "meet Duros the Blade in Zeryphesh",
             "tasks": [
-                "Go to Zeryphesh.",
+                "Reach Zeryphesh.",
                 "see if your luck holds out",
                 "meet Duros the Blade in Zeryphesh"
             ],
@@ -29701,7 +29740,7 @@
             "title": "Wash Away My Sins",
             "objective": "set Edovar free",
             "tasks": [
-                "Go to Wellspring Basin.",
+                "Proceed to Wellspring Basin.",
                 "return the Glyph of Balthazar",
                 "set Edovar free"
             ],
@@ -29751,6 +29790,7 @@
             "title": "Hostage Negotiations",
             "objective": "defeat Kidrik the Mauler, and free his hostages",
             "tasks": [
+                "Reach the underground slave den.",
                 "find Kidrik the Mauler and his captives",
                 "defeat Kidrik the Mauler, and free his hostages"
             ],
@@ -29954,7 +29994,7 @@
             "title": "The Djinni's Next Task",
             "objective": "complete Fazeer Shah's second task",
             "tasks": [
-                "Go to Portal.",
+                "Head to Portal.",
                 "survive",
                 "complete Fazeer Shah's second task"
             ],
@@ -30150,7 +30190,7 @@
             "title": "Meet the Djinni",
             "objective": "convince Fazeer Shah to help you",
             "tasks": [
-                "Go to Salt Barrens.",
+                "Proceed to Salt Barrens.",
                 "locate Fazeer Shah",
                 "convince Fazeer Shah to help you"
             ],
@@ -30407,7 +30447,7 @@
             "title": "Return to the Enclave",
             "objective": "stop the Alchemist before he can drain the two Guardians in the Ossean Wastes",
             "tasks": [
-                "Go to Enclave.",
+                "Arrive at Enclave.",
                 "talk to Commander Vale about getting to the Ossean Wastes",
                 "stop the Alchemist before he can drain the two Guardians in the Ossean Wastes"
             ],
@@ -30458,7 +30498,7 @@
             "title": "Shadow of the Skara",
             "objective": "help the Zeraphi any way you can",
             "tasks": [
-                "Go to Swarm Point.",
+                "Find your way to Swarm Point.",
                 "search for surviving Zeraphi",
                 "help the Zeraphi any way you can"
             ],
@@ -30632,7 +30672,7 @@
             "title": "Blight of the Bugs",
             "objective": "discover what has been blighting Skara eggs",
             "tasks": [
-                "Go to Brood Hive.",
+                "Reach Brood Hive.",
                 "find the rigged Skara hives and detonate them",
                 "destroy all infected eggs",
                 "discover what has been blighting Skara eggs"
@@ -30780,7 +30820,7 @@
             "title": "The Missing Man",
             "objective": "find out what happened to Hareph",
             "tasks": [
-                "Go to Swarm Stacks.",
+                "Make your way to Swarm Stacks.",
                 "find Hareph",
                 "find out what happened to Hareph"
             ],
@@ -30916,7 +30956,7 @@
             "title": "The Wraithring",
             "objective": "discover Jessa's father's fate",
             "tasks": [
-                "Go to .",
+                "Proceed to the catacombs, where dark things live.",
                 "find Jessa's father",
                 "discover Jessa's father's fate"
             ],
@@ -30978,7 +31018,7 @@
             "title": "The Key to Victory",
             "objective": "help Lord Taldimut gather up weapons and armor from the Celestial Armory without Ezrohir noticing",
             "tasks": [
-                "Go to Celestial Armory.",
+                "Arrive at Celestial Armory.",
                 "use the Golden Gear to get inside the Celestial Armory, and activate the Armory Portal",
                 "help Lord Taldimut gather up weapons and armor from the Celestial Armory without Ezrohir noticing"
             ],
@@ -31039,7 +31079,7 @@
             "title": "The Lost Key",
             "objective": "help Lord Taldimut bring the Golden Gear to Zeryphesh",
             "tasks": [
-                "Go to Whispering Cave.",
+                "Travel to Whispering Cave.",
                 "recover the Golden Gear",
                 "help Lord Taldimut bring the Golden Gear to Zeryphesh"
             ],
@@ -31187,7 +31227,7 @@
             "title": "A High-Value Target",
             "objective": "prevent the Ezrohir from interrogating Commander Muzaffar",
             "tasks": [
-                "Go to Ossean Wastes.",
+                "Arrive at Ossean Wastes.",
                 "rescue Commander Muzaffar from the Ezrohir, before they take him to Riftkeep",
                 "prevent the Ezrohir from interrogating Commander Muzaffar"
             ],
@@ -31225,7 +31265,7 @@
             "title": "An Enchanter in Chains",
             "objective": "get your reward from Malo",
             "tasks": [
-                "Go to Estherian Enclave.",
+                "Arrive at Estherian Enclave.",
                 "go see Malo",
                 "get your reward from Malo"
             ],
@@ -31275,7 +31315,7 @@
             "title": "The Crab Trap",
             "objective": "stop the Ezrohir from getting scrap metal from the crabs",
             "tasks": [
-                "Go to Dead Shoals.",
+                "Arrive at Dead Shoals.",
                 "prevent the Crab King from finishing his negotiations with the Ezrohir",
                 "stop the Ezrohir from getting scrap metal from the crabs"
             ],
@@ -31337,7 +31377,7 @@
             "title": "The Scroll of Anom-Irek",
             "objective": "retrieve the Scroll of Anom-Irek, and return to Miamin",
             "tasks": [
-                "Go to Corrupted Crypt.",
+                "Make your way to Corrupted Crypt.",
                 "find the Scroll of Anom-Irek in a vault",
                 "retrieve the Scroll of Anom-Irek, and return to Miamin"
             ],
@@ -31399,7 +31439,7 @@
             "title": "On the Alchemist's Trail",
             "objective": "stop the Alchemist",
             "tasks": [
-                "Go to Broken Mines.",
+                "Arrive at Broken Mines.",
                 "go after the Alchemist",
                 "stop the Alchemist"
             ],
@@ -31518,7 +31558,7 @@
             "title": "Some Assembly Required",
             "objective": "open the Great Door",
             "tasks": [
-                "Go to Scrapworks.",
+                "Proceed to Scrapworks.",
                 "find a power source for the dwarven automaton",
                 "open the Great Door"
             ],
@@ -31644,7 +31684,7 @@
             "title": "Enter the Door",
             "objective": "recover the Crown from Thiss, and bring it to Robot Eye",
             "tasks": [
-                "Go to Forgotten Halls.",
+                "Make your way to Forgotten Halls.",
                 "find Thiss",
                 "recover the Crown from Thiss, and bring it to Robot Eye"
             ],
@@ -31706,7 +31746,7 @@
             "title": "Artifice of Evil",
             "objective": "save the Guardian of Mana, and Zeryphesh",
             "tasks": [
-                "Go to Vaults Forsaken.",
+                "Find your way to Vaults Forsaken.",
                 "find the Guardian of Mana",
                 "save the Guardian of Mana, and Zeryphesh"
             ],
@@ -31756,7 +31796,7 @@
             "title": "The Blue Boletus",
             "objective": "bring Blue Boletus flesh to Sprocket",
             "tasks": [
-                "Go to Fungal Caves.",
+                "Make your way to Fungal Caves.",
                 "get Blue Boletus flesh",
                 "bring Blue Boletus flesh to Sprocket"
             ],
@@ -31817,7 +31857,7 @@
             "title": "Getting One's Bearings",
             "objective": "find the Azimuthoscope",
             "tasks": [
-                "Go to .",
+                "Travel to dungeon.",
                 "follow the trail of Trill-Bot 4000's parts",
                 "find the Azimuthoscope"
             ],
@@ -31866,6 +31906,7 @@
             "title": "Loose Connections",
             "objective": "reacquire the rest of Trill-Bot 4000's components",
             "tasks": [
+                "Reach somewhere nearby.",
                 "find the Cognition Linkage",
                 "reacquire the rest of Trill-Bot 4000's components"
             ],
@@ -31989,7 +32030,7 @@
             "title": "The Cave-In",
             "objective": "clear the way to the Scrapworks",
             "tasks": [
-                "Go to Abandoned Sawmill.",
+                "Reach Abandoned Sawmill.",
                 "find dynamite",
                 "clear the way to the Scrapworks"
             ],
@@ -32015,7 +32056,7 @@
             "title": "The Warbeast Armory",
             "objective": "steal the armor schematics",
             "tasks": [
-                "Go to Temple Steppes.",
+                "Proceed to Temple Steppes.",
                 "get inside the Sturmbeorn makeshift smithy",
                 "steal the armor schematics"
             ],
@@ -32089,7 +32130,7 @@
             "title": "Fade's Passage",
             "objective": "ask Fade to open the hidden passage to Cacklespit's realm",
             "tasks": [
-                "Go to Sundered Battlefield.",
+                "Head to Sundered Battlefield.",
                 "search for the shrines that mark Fade's resting place",
                 "ask Fade to open the hidden passage to Cacklespit's realm"
             ],
@@ -32419,6 +32460,7 @@
             "title": "A Rogue Ogre",
             "objective": "bring the Girdle of Piercing to Unshey",
             "tasks": [
+                "Arrive at to the south of the Friendly Arm Inn.",
                 "kill the ogre holding the Girdle of Piercing",
                 "bring the Girdle of Piercing to Unshey"
             ],
@@ -32518,7 +32560,7 @@
             "title": "A Hidden Base in the Cloakwood",
             "objective": "investigate Tazok and his group of bandits",
             "tasks": [
-                "Go to Cloakwood.",
+                "Proceed to Cloakwood.",
                 "go to Cloakwood",
                 "investigate Tazok and his group of bandits"
             ],
@@ -32568,7 +32610,7 @@
             "title": "An Errand for Fuller",
             "objective": "bring a quarrel of crossbow bolts to Fuller",
             "tasks": [
-                "Go to Candlekeep Inn.",
+                "Arrive at Candlekeep Inn.",
                 "buy crossbow bolts from Winthrop",
                 "bring a quarrel of crossbow bolts to Fuller"
             ],
@@ -32606,6 +32648,7 @@
             "title": "Arcand the Mad",
             "objective": "bring Mad Arcand the Stinking's ring to him",
             "tasks": [
+                "Travel to pirate ship by the ocean.",
                 "find Mad Arcand the Stinking's ring",
                 "bring Mad Arcand the Stinking's ring to him"
             ],
@@ -32667,7 +32710,7 @@
             "title": "Brielbara's Baby",
             "objective": "bring Yago's spellbook to Brielbara",
             "tasks": [
-                "Go to Low Lantern.",
+                "Head to Low Lantern.",
                 "steal Yago's spellbook",
                 "bring Yago's spellbook to Brielbara"
             ],
@@ -32779,7 +32822,7 @@
             "title": "Farmer Brun's Missing Son",
             "objective": "find Nathan",
             "tasks": [
-                "Go to .",
+                "Go to to the west.",
                 "inspect tracks",
                 "find Nathan"
             ],
@@ -32840,6 +32883,7 @@
             "title": "Firebead's Scroll",
             "objective": "bring Firebead Elvenhair's identify scroll to him",
             "tasks": [
+                "Proceed to the inner grounds.",
                 "get Firebead Elvenhair's identify scroll from Tethtoril",
                 "bring Firebead Elvenhair's identify scroll to him"
             ],
@@ -32926,6 +32970,7 @@
             "title": "Ghorak the Diseased",
             "objective": "take Kereph's skull to Agnasia",
             "tasks": [
+                "Make your way to behind a painting at the Three Old Kegs.",
                 "find Kereph's skull",
                 "take Kereph's skull to Agnasia"
             ],
@@ -32963,7 +33008,7 @@
             "title": "Gurke's Cloak",
             "objective": "return Gurke's cloak to him",
             "tasks": [
-                "Go to Cloakwood.",
+                "Arrive at Cloakwood.",
                 "find the tasloi holding Gurke's cloak",
                 "return Gurke's cloak to him"
             ],
@@ -33012,7 +33057,7 @@
             "title": "Half-ogres Near Beregost",
             "objective": "kill the half-ogres who battled Bjornin",
             "tasks": [
-                "Go to .",
+                "Head to the mountains south-southwest of Beregost.",
                 "find half-ogres",
                 "kill the half-ogres who battled Bjornin"
             ],
@@ -33075,6 +33120,7 @@
             "title": "Hull's Sword",
             "objective": "fetch Hull's sword",
             "tasks": [
+                "Go to on the right side of the barracks.",
                 "find Hull's sword in his chest",
                 "fetch Hull's sword"
             ],
@@ -33114,6 +33160,7 @@
             "title": "Joseph's Wife",
             "objective": "investigate Joseph's fate for his wife",
             "tasks": [
+                "Proceed to the mines.",
                 "find Joseph",
                 "investigate Joseph's fate for his wife"
             ],
@@ -33175,6 +33222,7 @@
             "title": "Laerta and Louise",
             "objective": "get rid of a bogeyman that scares Laerta and Louise every night",
             "tasks": [
+                "Reach Laerta and Louise's window.",
                 "find the bogeyman",
                 "get rid of a bogeyman that scares Laerta and Louise every night"
             ],
@@ -33258,6 +33306,7 @@
             "title": "Landrin's Possessions",
             "objective": "deal with the spider infestation in Landrin's cellar",
             "tasks": [
+                "Travel to Landrin's house in Beregost, west of the Jovial Juggler Inn.",
                 "kill spiders, and fetch Landrin's husband's boots and Landrin's bottle of wine",
                 "deal with the spider infestation in Landrin's cellar"
             ],
@@ -33333,6 +33382,7 @@
             "title": "Marek and Lothander",
             "objective": "get an antidote before you die of Marek's poison",
             "tasks": [
+                "Head to the market square.",
                 "talk to Haspur who can possibly reverse Lothander's geas",
                 "get an antidote before you die of Marek's poison"
             ],
@@ -33457,6 +33507,7 @@
             "title": "Mirianne's Husband",
             "objective": "tell Mirianne whether you found information about Roe or not",
             "tasks": [
+                "Make your way to the southern roads.",
                 "find information about Roe",
                 "tell Mirianne whether you found information about Roe or not"
             ],
@@ -33590,7 +33641,7 @@
             "title": "Phlydia's Book",
             "objective": "bring \"The History of Halruaa\" back to Phlydia",
             "tasks": [
-                "Go to .",
+                "Reach east of Candlekeep Inn.",
                 "find \"The History of Halruaa\"",
                 "bring \"The History of Halruaa\" back to Phlydia"
             ],
@@ -33723,6 +33774,7 @@
             "title": "Rescuing Dynaheir",
             "objective": "free Dynaheir from gnolls with Minsc",
             "tasks": [
+                "Make your way to the gnoll stronghold, in the west.",
                 "find Dynaheir",
                 "free Dynaheir from gnolls with Minsc"
             ],
@@ -33786,6 +33838,7 @@
             "title": "Returning Dradeel's Spellbook",
             "objective": "destroy the lycanthropes' lair, and bring Dradeel's spellbook back to its owner",
             "tasks": [
+                "Reach Balduran's ship.",
                 "find the lycanthropes' lair and Dradeel's spellbook within it",
                 "destroy the lycanthropes' lair, and bring Dradeel's spellbook back to its owner"
             ],
@@ -33848,6 +33901,7 @@
             "title": "Safana's Treasure Hunt",
             "objective": "get Black Alaric's treasure for yourself and Safana",
             "tasks": [
+                "Reach the pirate cove along the coast, south of Candlekeep.",
                 "find Black Alaric's treasure with Safana",
                 "get Black Alaric's treasure for yourself and Safana"
             ],
@@ -33933,7 +33987,7 @@
             "title": "Sam and Lena",
             "objective": "save Sam from dying",
             "tasks": [
-                "Go to Temple of Wisdom.",
+                "Reach Temple of Wisdom.",
                 "take Sam to Gellana Mirrorshade",
                 "save Sam from dying"
             ],
@@ -34033,6 +34087,7 @@
             "title": "Searching for Balduran's Helmet",
             "objective": "bring the Helm of Balduran to Degrodel",
             "tasks": [
+                "Proceed to the art collector's estate, west of the fairgrounds, in the center of Baldur's Gate.",
                 "unpetrify the mercenaries",
                 "bring the Helm of Balduran to Degrodel"
             ],
@@ -34105,6 +34160,7 @@
             "title": "Spiders in the Cloakwood",
             "objective": "investigate what happened to Chelak",
             "tasks": [
+                "Make your way to spider colony, in Cloakwood.",
                 "find Chelak",
                 "investigate what happened to Chelak"
             ],
@@ -34178,7 +34234,7 @@
             "title": "The Captive Nymph",
             "objective": "investigate Ragefast and his nymph",
             "tasks": [
-                "Go to .",
+                "Travel to Ragefast's house, in the northwest part of the town.",
                 "find Ragefast, a mage",
                 "investigate Ragefast and his nymph"
             ],
@@ -34240,6 +34296,7 @@
             "title": "A Nymph for Ramazith",
             "objective": "free Ragefast's nymph and bring her to Ramazith",
             "tasks": [
+                "Travel to Ragefast's house.",
                 "enter Ragefast's house",
                 "free Ragefast's nymph and bring her to Ramazith"
             ],
@@ -34289,7 +34346,6 @@
             "title": "The Gibberling Hordes",
             "objective": "help Laurel to fend off the gibberlings",
             "tasks": [
-                "Go to .",
                 "kill gibberlings",
                 "help Laurel to fend off the gibberlings"
             ],
@@ -34365,7 +34421,7 @@
             "title": "The Seven Suns",
             "objective": "investigate the Seven Suns, and report back to Scar",
             "tasks": [
-                "Go to .",
+                "Proceed to the Seven Suns compound.",
                 "break into the Seven Suns compound",
                 "investigate the Seven Suns, and report back to Scar"
             ],
@@ -34450,6 +34506,7 @@
             "title": "The Silke Dilemma",
             "objective": "become a bodyguard for Silke Rosena",
             "tasks": [
+                "Go to outside the Red Sheaf Inn.",
                 "meet up with Garrick",
                 "become a bodyguard for Silke Rosena"
             ],
@@ -34498,7 +34555,7 @@
             "title": "Investigate the Nashkel Mines",
             "objective": "find out what caused miners to go missing and ore to become tainted",
             "tasks": [
-                "Go to .",
+                "Proceed to the mines, southeast of Nashkel.",
                 "descend into the mines",
                 "find out what caused miners to go missing and ore to become tainted"
             ],
@@ -34561,7 +34618,7 @@
             "title": "Tremain's Son",
             "objective": "bring Casson's body to Tremain Belde'ar",
             "tasks": [
-                "Go to Water Queen's House.",
+                "Make your way to Water Queen's House.",
                 "retrieve Casson's body",
                 "bring Casson's body to Tremain Belde'ar"
             ],
@@ -34686,6 +34743,7 @@
             "title": "Zombie Infestation",
             "objective": "return to Wenric after killing all zombies",
             "tasks": [
+                "Head to around the farms here.",
                 "kill 20 zombies",
                 "return to Wenric after killing all zombies"
             ],
@@ -34886,6 +34944,7 @@
             "title": "The Reclusive Scholar",
             "objective": "travel to Balduran's Island to find Balduran's logbook for Mendas of Waterdeep",
             "tasks": [
+                "Travel to Merchants' League Counting House, northeast section of Baldur's Gate, northeast from Elfsong Tavern.",
                 "obtain the sea charts from the sea captain",
                 "travel to Balduran's Island to find Balduran's logbook for Mendas of Waterdeep"
             ],
@@ -34949,7 +35008,7 @@
             "title": "Delainy's Task",
             "objective": "bring the cloak to Delainy",
             "tasks": [
-                "Go to .",
+                "Arrive at beyond the village walls.",
                 "fetch the cloak",
                 "bring the cloak to Delainy"
             ],
@@ -35011,7 +35070,7 @@
             "title": "Durlyle's Task",
             "objective": "bring the cloak that draped the village center back to Durlyle",
             "tasks": [
-                "Go to .",
+                "Make your way to beyond the village wall.",
                 "find the cloak",
                 "bring the cloak that draped the village center back to Durlyle"
             ],
@@ -35085,7 +35144,7 @@
             "title": "Evalt's Missing Brother",
             "objective": "find Evan",
             "tasks": [
-                "Go to .",
+                "Arrive at along the west coast of Balduran's Isle.",
                 "find the Blue Lady",
                 "find Evan"
             ],
@@ -35146,7 +35205,7 @@
             "title": "Farthing's Dolly",
             "objective": "return Farthing's doll to her",
             "tasks": [
-                "Go to .",
+                "Travel to the woods.",
                 "find Farthing's doll",
                 "return Farthing's doll to her"
             ],
@@ -35196,7 +35255,6 @@
             "title": "Galken's Wardstone",
             "objective": "get the ward token that opens the way to the labyrinths beneath Durlag's Tower from Galken",
             "tasks": [
-                "Go to .",
                 "settle Galken's bar tab",
                 "get the ward token that opens the way to the labyrinths beneath Durlag's Tower from Galken"
             ],
@@ -35248,6 +35306,7 @@
             "title": "Maralee's Child",
             "objective": "return Peladan to Maralee",
             "tasks": [
+                "Reach northeast of the village, in the woods.",
                 "find Peladan",
                 "return Peladan to Maralee"
             ],
@@ -35323,6 +35382,7 @@
             "title": "Recovering \"Soultaker\"",
             "objective": "bring the \"Soultaker\" to Hurgan Stoneblade",
             "tasks": [
+                "Proceed to Durlag's Tower, a trapped tower.",
                 "find the \"Soultaker\"",
                 "bring the \"Soultaker\" to Hurgan Stoneblade"
             ],
@@ -35398,7 +35458,7 @@
             "title": "Therella's Missing Son",
             "objective": "find out what happened to Dalton",
             "tasks": [
-                "Go to Durlag's Tower.",
+                "Find your way to Durlag's Tower.",
                 "find Dalton",
                 "find out what happened to Dalton"
             ],
@@ -35449,6 +35509,7 @@
             "title": "Magreb and Rilsa",
             "objective": "avenge Rilsa and give her a proper burial",
             "tasks": [
+                "Travel to a set of caves to the northeast.",
                 "find goblins that killed Rilsa",
                 "avenge Rilsa and give her a proper burial"
             ],
@@ -35552,6 +35613,7 @@
             "title": "The Tale of Commander Brage",
             "objective": "kill Commander Brage",
             "tasks": [
+                "Make your way to the woods to the west.",
                 "find Commander Brage",
                 "kill Commander Brage"
             ],
@@ -35664,7 +35726,7 @@
             "title": "Eldoth and Skie",
             "objective": "capture Skie with Eldoth",
             "tasks": [
-                "Go to Baldur's Gate.",
+                "Arrive at Baldur's Gate.",
                 "help Skie escape from her father",
                 "capture Skie with Eldoth"
             ],
@@ -35754,7 +35816,7 @@
             "title": "Missing Citizens",
             "objective": "discover what's been happening with the disappearing citizens, and come see Scar",
             "tasks": [
-                "Go to .",
+                "Proceed to the east of the city.",
                 "patrol and find an entrance to the sewers",
                 "discover what's been happening with the disappearing citizens, and come see Scar"
             ],
@@ -35867,6 +35929,7 @@
             "title": "Investigating the Merchants' League Estate",
             "objective": "investigate Irlentree and Zorl Miyar, and report back to Aldeth Sashenstar",
             "tasks": [
+                "Head to Merchants' League Estate, the headquarters of the Merchants' League.",
                 "go with Aldeth Sashenstar, let him introduce you as his old friend and quarter you in the guest chambers",
                 "investigate Irlentree and Zorl Miyar, and report back to Aldeth Sashenstar"
             ],
@@ -35918,6 +35981,7 @@
             "title": "A Mage's Proposal",
             "objective": "help Vithal breach the walls between dimensions",
             "tasks": [
+                "Go to a svirfneblin village to the north.",
                 "recover Vithal's book of rituals",
                 "help Vithal breach the walls between dimensions"
             ],
@@ -35968,7 +36032,7 @@
             "title": "Animal trouble in Trademeet",
             "objective": "investigate why forest animals are attacking Trademeet",
             "tasks": [
-                "Go to Trademeet.",
+                "Travel to Trademeet.",
                 "go talk with the High Merchant",
                 "investigate why forest animals are attacking Trademeet"
             ],
@@ -36042,7 +36106,7 @@
             "title": "Gain the services of Sir Sarles for the Temple of Lathander",
             "objective": "convince Sir Sarles to sculpt a statue for the temple of Lathander",
             "tasks": [
-                "Go to Jysstev estate.",
+                "Reach Jysstev estate.",
                 "find Sir Sarles",
                 "convince Sir Sarles to sculpt a statue for the temple of Lathander"
             ],
@@ -36129,7 +36193,7 @@
             "title": "Another Mission for the Temple of Lathander",
             "objective": "return Dawn Ring to the temple of Lathander",
             "tasks": [
-                "Go to .",
+                "Reach the slums at night.",
                 "intercept the thieves transporting Dawn Ring",
                 "return Dawn Ring to the temple of Lathander"
             ],
@@ -36204,7 +36268,7 @@
             "title": "Gain the services of Sir Sarles for the Temple of Talos",
             "objective": "convince Sir Sarles to create a work of art for the temple of Talos",
             "tasks": [
-                "Go to Athkatla.",
+                "Arrive at Athkatla.",
                 "find Sir Sarles",
                 "convince Sir Sarles to create a work of art for the temple of Talos"
             ],
@@ -36303,6 +36367,7 @@
             "title": "Another Mission for the Temple of Talos",
             "objective": "get the Dawn Ring from Travin and bring it to Talon Yarryl",
             "tasks": [
+                "Go to the slums at night.",
                 "find Travin",
                 "get the Dawn Ring from Travin and bring it to Talon Yarryl"
             ],
@@ -36365,6 +36430,7 @@
             "title": "Bring the Poisoned Man to his Friends",
             "objective": "save Renfeld from dying of poison",
             "tasks": [
+                "Reach large orange building, in the southwest part of the Docks District.",
                 "take Renfeld to Rylock",
                 "save Renfeld from dying of poison"
             ],
@@ -36393,6 +36459,7 @@
             "title": "Captured by Mind Flayers",
             "objective": "survive the mind flayers' arena",
             "tasks": [
+                "Reach the mind flayers' arena.",
                 "fight to survive",
                 "survive the mind flayers' arena"
             ],
@@ -36571,7 +36638,7 @@
             "title": "Coran and the Wolfweres",
             "objective": "save Safana from wolfweres",
             "tasks": [
-                "Go to .",
+                "Arrive at an encampment east of here.",
                 "kill wolfweres",
                 "save Safana from wolfweres"
             ],
@@ -36658,6 +36725,7 @@
             "title": "Dealing with the Trademeet Genies",
             "objective": "investigate the issue with the Dao genies",
             "tasks": [
+                "Find your way to the next room.",
                 "talk with Guildmistress Busya about what needs to be done",
                 "investigate the issue with the Dao genies"
             ],
@@ -36695,6 +36763,7 @@
             "title": "Find Giran's Mother Within the Circus Tent",
             "objective": "investigate the circus tent",
             "tasks": [
+                "Proceed to the circus tent.",
                 "find Giran's mother",
                 "investigate the circus tent"
             ],
@@ -36821,6 +36890,7 @@
             "title": "Find Out What Happened to Montaron",
             "objective": "return to Xzar after you have found Montaron",
             "tasks": [
+                "Find your way to Harpers' building.",
                 "find Montaron",
                 "return to Xzar after you have found Montaron"
             ],
@@ -36896,6 +36966,7 @@
             "title": "Find Proof of Mae'Var's Treachery",
             "objective": "find evidence about Mae'Var's planned betrayal",
             "tasks": [
+                "Reach the storefront in the central docks.",
                 "show the papers to Gorch to gain access to Mae'Var's guild house",
                 "find evidence about Mae'Var's planned betrayal"
             ],
@@ -36970,6 +37041,7 @@
             "title": "Free Haer'Dalis from Inprisonment by Mekrath",
             "objective": "return Haer'Dalis and his gem to the troupe",
             "tasks": [
+                "Make your way to the city's sewers.",
                 "find Mekrath's lair",
                 "return Haer'Dalis and his gem to the troupe"
             ],
@@ -37059,6 +37131,7 @@
             "title": "Heeding the Spirit of the Grove",
             "objective": "serve the grove as a leader bringing balance",
             "tasks": [
+                "Make your way to along the path to the east of the troll mound.",
                 "kill Nilthiri",
                 "serve the grove as a leader bringing balance"
             ],
@@ -37111,7 +37184,7 @@
             "title": "Rescue Loren",
             "objective": "aid the spirit of Marek of Halruaa in saving Loren",
             "tasks": [
-                "Go to Trademeet.",
+                "Reach Trademeet.",
                 "save Loren from Marek of Halruaa's old enemies",
                 "aid the spirit of Marek of Halruaa in saving Loren"
             ],
@@ -37197,6 +37270,7 @@
             "title": "Helping Irenicus' Captive Dryads",
             "objective": "take the three dryads' acorns to the Fairy Queen in the south end of the Windspear Hills",
             "tasks": [
+                "Make your way to Irenicus' dungeon.",
                 "get the three dryads' acorns from Ilyich",
                 "take the three dryads' acorns to the Fairy Queen in the south end of the Windspear Hills"
             ],
@@ -37258,6 +37332,7 @@
             "title": "Helping Tiris",
             "objective": "figure out why Tiris is frightened",
             "tasks": [
+                "Travel to Tiris and Jenia's home, north of the Alibakkar estate.",
                 "speak with Tiris",
                 "figure out why Tiris is frightened"
             ],
@@ -37298,7 +37373,7 @@
             "title": "Heal Raissa's Skin Dancer Condition",
             "objective": "cure Raissa",
             "tasks": [
-                "Go to Waukeenar Temple.",
+                "Arrive at Waukeenar Temple.",
                 "talk to the temple superior about a restoration spell",
                 "cure Raissa"
             ],
@@ -37348,6 +37423,7 @@
             "title": "Help Korgan Recover the Book of Kaza",
             "objective": "bring the the Book of Kaza to the book collector",
             "tasks": [
+                "Head to a tomb over in the lower crypts of the Graveyard District.",
                 "find the Book of Kaza with Korgan Bloodaxe",
                 "bring the the Book of Kaza to the book collector"
             ],
@@ -37450,6 +37526,7 @@
             "title": "A Mission From Oisig",
             "objective": "discuss your mission with Oisig",
             "tasks": [
+                "Go to the temple of Helm.",
                 "follow Oisig",
                 "discuss your mission with Oisig"
             ],
@@ -37524,6 +37601,7 @@
             "title": "Investigate the Cult of the Eyeless",
             "objective": "investigate the Cult of the Eyeless",
             "tasks": [
+                "Find your way to the sewers.",
                 "meet Keldorn",
                 "investigate the Cult of the Eyeless"
             ],
@@ -37584,6 +37662,7 @@
             "title": "Serve the One God",
             "objective": "retrieve an item for the One God",
             "tasks": [
+                "Find your way to in this area, atop a holy altar.",
                 "venture below, and retrieve the item",
                 "retrieve an item for the One God"
             ],
@@ -37674,6 +37753,7 @@
             "title": "Set Aerie Free",
             "objective": "free Aerie",
             "tasks": [
+                "Go to in the north side of this chamber.",
                 "get the key to Aerie's chains from commoners",
                 "free Aerie"
             ],
@@ -37750,7 +37830,7 @@
             "title": "Investigate the Deaths in the Umar Hills",
             "objective": "investigate the monster sightings at Imnesvale",
             "tasks": [
-                "Go to Imnesvale.",
+                "Head to Imnesvale.",
                 "talk to Minister Lloyd",
                 "investigate the monster sightings at Imnesvale"
             ],
@@ -37864,7 +37944,7 @@
             "title": "Ginia's Tale",
             "objective": "talk to Calahan near the docks about taking Ginia and Ason",
             "tasks": [
-                "Go to .",
+                "Find your way to near the inn in Brynnlaw.",
                 "kill Chremy",
                 "talk to Calahan near the docks about taking Ginia and Ason"
             ],
@@ -37926,6 +38006,7 @@
             "title": "Lissa's Daughter Needs Healing",
             "objective": "heal Jaella",
             "tasks": [
+                "Head to the basement.",
                 "find out what Gerhardt knows about Jaella's condition",
                 "heal Jaella"
             ],
@@ -37963,6 +38044,7 @@
             "title": "Keldorn Wishes to Visit His Wife and Family",
             "objective": "visit Keldorn's estate",
             "tasks": [
+                "Find your way to Keldorn's estate in this district.",
                 "meet Keldorn's wife and daughters with Keldorn",
                 "visit Keldorn's estate"
             ],
@@ -38024,7 +38106,7 @@
             "title": "Adulterer's lot",
             "objective": "bestow some justice on Sir William of Thorpe",
             "tasks": [
-                "Go to Mithrest.",
+                "Arrive at Mithrest.",
                 "go find Sir William of Thorpe with Keldorn",
                 "bestow some justice on Sir William of Thorpe"
             ],
@@ -38086,6 +38168,7 @@
             "title": "Help Vittorio Collect His Debt",
             "objective": "protect Vittario from Dennis while Vittario collects Dennis' debt",
             "tasks": [
+                "Proceed to the second floor in Delosar's Inn.",
                 "follow Vittario to Dennis",
                 "protect Vittario from Dennis while Vittario collects Dennis' debt"
             ],
@@ -38160,6 +38243,7 @@
             "title": "Recover Dennis' Mother's Gong",
             "objective": "find Dennis' family gong",
             "tasks": [
+                "Find your way to the sewers below the city.",
                 "find Roger",
                 "find Dennis' family gong"
             ],
@@ -38271,7 +38355,7 @@
             "title": "Madulf Wants to Make a Deal with the Village",
             "objective": "tell the villagers of Imnesvale that Madulf can protect them from orcs in mountains",
             "tasks": [
-                "Go to Imnesvale.",
+                "Proceed to Imnesvale.",
                 "go to Imnesvale",
                 "tell the villagers of Imnesvale that Madulf can protect them from orcs in mountains"
             ],
@@ -38360,7 +38444,7 @@
             "title": "The de'Arnise Keep Has Been Invaded",
             "objective": "defeat the attackers at the de'Arnise Keep",
             "tasks": [
-                "Go to de'Arnise Keep.",
+                "Find your way to de'Arnise Keep.",
                 "find Daleson",
                 "defeat the attackers at the de'Arnise Keep"
             ],
@@ -38459,6 +38543,8 @@
             "title": "Officer Roenall's Corrupt Actions",
             "objective": "bring the evidence of Officer Roenall's corrupt actions to Corgeig Axehand",
             "tasks": [
+                "Head to the docks.",
+                "Head to Officer Roenall's home, northwest of the main government building in the Government District.",
                 "investigate Barg",
                 "find Officer Roenall's personal records",
                 "bring the evidence of Officer Roenall's corrupt actions to Corgeig Axehand"
@@ -38498,7 +38584,7 @@
             "title": "Knights Rescue",
             "objective": "rescue the knights of the Most Noble Order of the Radiant Heart",
             "tasks": [
-                "Go to Umar Hills.",
+                "Make your way to Umar Hills.",
                 "repel the invasion to the Amnian outpost",
                 "rescue the knights of the Most Noble Order of the Radiant Heart"
             ],
@@ -38549,7 +38635,7 @@
             "title": "Dealing with the Baron",
             "objective": "restore order to the lands of Metrich by solving a land dispute",
             "tasks": [
-                "Go to a neutral meeting place.",
+                "Make your way to a neutral meeting place.",
                 "speak with Metrich",
                 "restore order to the lands of Metrich by solving a land dispute"
             ],
@@ -38622,6 +38708,7 @@
             "title": "Tyrianna's Family",
             "objective": "escort Tyrianna to the building beside the temple in the docks and wait for Hurgis Baltezan to arrive",
             "tasks": [
+                "Make your way to safe house.",
                 "protect Tyrianna",
                 "escort Tyrianna to the building beside the temple in the docks and wait for Hurgis Baltezan to arrive"
             ],
@@ -38672,7 +38759,7 @@
             "title": "The Dragon Slayer",
             "objective": "retrieve the Holy Avenger from Firkraag",
             "tasks": [
-                "Go to Windspear Hills.",
+                "Travel to Windspear Hills.",
                 "slay Firkraag in his lair",
                 "retrieve the Holy Avenger from Firkraag"
             ],
@@ -38745,6 +38832,7 @@
             "title": "Put the Spirit of the Child Wellyn to Rest",
             "objective": "return Littleman to Wellyn",
             "tasks": [
+                "Proceed to inn in the slums, The Copper something, one of the bedrooms in the back.",
                 "find Llynis",
                 "return Littleman to Wellyn"
             ],
@@ -38783,6 +38871,7 @@
             "title": "Humans Destroying Forest",
             "objective": "stop the humans from further desecrating Mairyn's forest",
             "tasks": [
+                "Make your way to Mairyn's sacred lands to the north of this place where the temple of the sun god once stood.",
                 "seek out the nature of the humans' quest",
                 "stop the humans from further desecrating Mairyn's forest"
             ],
@@ -38846,7 +38935,7 @@
             "title": "Orc Attack",
             "objective": "repel orcs",
             "tasks": [
-                "Go to Imnesvale.",
+                "Travel to Imnesvale.",
                 "talk to Minister Lloyd",
                 "repel orcs"
             ],
@@ -38911,7 +39000,7 @@
             "title": "Umar the Witch",
             "objective": "deal with Umar",
             "tasks": [
-                "Go to Imnesvale.",
+                "Head to Imnesvale.",
                 "talk to the Minister",
                 "deal with Umar"
             ],
@@ -38962,6 +39051,7 @@
             "title": "The Mystery of Monster Knights",
             "objective": "discover why you were tricked to kill knights",
             "tasks": [
+                "Make your way to Garren Windspear's cabin, a short distance south of here.",
                 "take sanctuary with Garren Windspear",
                 "discover why you were tricked to kill knights"
             ],
@@ -39024,7 +39114,7 @@
             "title": "Rescue Garren's Child from Firkraag",
             "objective": "rescue Garren Windspear's daughter, and avenge the slain knights of the Radiant Heart",
             "tasks": [
-                "Go to .",
+                "Travel to the ruins in the northeast.",
                 "find Jierdan Firkraag",
                 "rescue Garren Windspear's daughter, and avenge the slain knights of the Radiant Heart"
             ],
@@ -39199,7 +39289,7 @@
             "title": "Restore Kangaxx's Body",
             "objective": "reverse Kangaxx's curse",
             "tasks": [
-                "Go to .",
+                "Make your way to within the city in tombs such as this one.",
                 "find Kangaxx's arms, legs, and torso",
                 "reverse Kangaxx's curse"
             ],
@@ -39416,6 +39506,7 @@
             "title": "Barbarians Have Invaded the Theatre",
             "objective": "do something about the Turmish fanatics",
             "tasks": [
+                "Go to the playhouse.",
                 "stop the Turmish fanatics",
                 "do something about the Turmish fanatics"
             ],
@@ -39464,6 +39555,7 @@
             "title": "Who's the Big Star?",
             "objective": "do not upset the member of the city council who is among the audience of the play",
             "tasks": [
+                "Make your way to playhouse.",
                 "play Velden in the play",
                 "do not upset the member of the city council who is among the audience of the play"
             ],
@@ -39575,9 +39667,9 @@
             "title": "Save Jaheira from Ployer's Curse",
             "objective": "break Jaheira's curse",
             "tasks": [
-                "Go to .",
-                "Go to .",
-                "Go to Copper Coronet.",
+                "Make your way to poor section of Athkatla.",
+                "Arrive at the government building in Athkatla.",
+                "Make your way to Copper Coronet.",
                 "seek out Ployer",
                 "ask about the mages in strange colors who were with Ployer",
                 "ask about Belgrade from Bernard",
@@ -39632,7 +39724,7 @@
             "title": "Investigate the Fallen Paladins",
             "objective": "investigate the Fallen Paladins",
             "tasks": [
-                "Go to Bridge District.",
+                "Find your way to Bridge District.",
                 "join the Fallen Paladins",
                 "investigate the Fallen Paladins"
             ],
@@ -39719,7 +39811,7 @@
             "title": "Save Pala",
             "objective": "save Pala from poisoning",
             "tasks": [
-                "Go to Trademeet.",
+                "Proceed to Trademeet.",
                 "meet Danno in Trademeet",
                 "save Pala from poisoning"
             ],
@@ -39782,7 +39874,7 @@
             "title": "Solve the Riddle of the Sewers",
             "objective": "follow the One's path, and return to Quallo",
             "tasks": [
-                "Go to .",
+                "Head to where the topside filth drains.",
                 "find the clues from the One",
                 "follow the One's path, and return to Quallo"
             ],
@@ -39860,6 +39952,7 @@
             "title": "Summoned to the Harper Hold",
             "objective": "see the Harpers with Jaheira",
             "tasks": [
+                "Travel to Harper Hold in Athkatla.",
                 "go with Jaheira",
                 "see the Harpers with Jaheira"
             ],
@@ -39968,7 +40061,7 @@
             "title": "The Dueling Families of Trademeet",
             "objective": "bring the Mantle of Waukeen to Lord Skarmaen",
             "tasks": [
-                "Go to .",
+                "Make your way to the tomb of the founder of Trademeet in the graveyard.",
                 "find the Mantle of Waukeen",
                 "bring the Mantle of Waukeen to Lord Skarmaen"
             ],
@@ -40046,7 +40139,7 @@
             "title": "The Battle of Families",
             "objective": "bring the Mantle of Waukeen to Lady Lilith",
             "tasks": [
-                "Go to .",
+                "Arrive at the tomb of the founder of Trademeet in the Trademeet graveyard.",
                 "find the Mantle of Waukeen",
                 "bring the Mantle of Waukeen to Lady Lilith"
             ],
@@ -40085,6 +40178,7 @@
             "title": "Breaking a Monopoly",
             "objective": "weaken the \"resources\" of the Shadow Thieves",
             "tasks": [
+                "Find your way to the docks.",
                 "steal the shipment of supplies belonging to the Shadow Thieves",
                 "weaken the \"resources\" of the Shadow Thieves"
             ],
@@ -40136,6 +40230,7 @@
             "title": "A Rescue Mission",
             "objective": "do not let the Shadow Thieves kill Palern Flynn",
             "tasks": [
+                "Arrive at on the second floor of the Shadow Thief guild house.",
                 "rescue Palern Flynn",
                 "do not let the Shadow Thieves kill Palern Flynn"
             ],
@@ -40197,6 +40292,7 @@
             "title": "A Misguided Murder",
             "objective": "pin the murder of Senior Armagaran Vulova on the Shadow Thieves",
             "tasks": [
+                "Make your way to Senior Armagaran Vulova's small house, in the Government District, between the jail and the government building.",
                 "murder Senior Armagaran Vulova",
                 "pin the murder of Senior Armagaran Vulova on the Shadow Thieves"
             ],
@@ -40272,6 +40368,7 @@
             "title": "To Kill a Guild",
             "objective": "kill Aran Linvail",
             "tasks": [
+                "Go to the basement of the Shadow Thief guild house.",
                 "find a way to access Aran Linvail's sanctum",
                 "kill Aran Linvail"
             ],
@@ -40332,6 +40429,7 @@
             "title": "Tolgerias' Task",
             "objective": "find out what Tolgerias wants you to do",
             "tasks": [
+                "Travel to the government building behind Madeen.",
                 "speak with Tolgerias",
                 "find out what Tolgerias wants you to do"
             ],
@@ -40429,7 +40527,7 @@
             "title": "The Hunt for Valygar Corthala",
             "objective": "deliver Valygar Corthala to the Cowled Wizards dead or alive",
             "tasks": [
-                "Go to .",
+                "Make your way to Valygar Corthala's house in the Docks District of Athkatla, or Umar Hills.",
                 "track down Valygar Corthala",
                 "deliver Valygar Corthala to the Cowled Wizards dead or alive"
             ],
@@ -40580,7 +40678,7 @@
             "title": "A Beer for Mironda",
             "objective": "bring a cask of Halfling's Help to Mironda",
             "tasks": [
-                "Go to Trademeet.",
+                "Travel to Trademeet.",
                 "get the cask from Old Vyatri",
                 "bring a cask of Halfling's Help to Mironda"
             ],
@@ -40681,6 +40779,7 @@
             "title": "Justice for Mateo",
             "objective": "discover the real traitor",
             "tasks": [
+                "Find your way to Mateo's cell.",
                 "talk to Mateo",
                 "discover the real traitor"
             ],
@@ -40744,7 +40843,7 @@
             "title": "Lazarus' Missing Spellbook",
             "objective": "return Lazarus Librarus' spellbook to him",
             "tasks": [
-                "Go to Tankard Tree.",
+                "Reach Tankard Tree.",
                 "talk to Hectan",
                 "return Lazarus Librarus' spellbook to him"
             ],
@@ -40783,6 +40882,7 @@
             "title": "Marlowe's Plea for Help",
             "objective": "find out what Marlowe needs help with",
             "tasks": [
+                "Arrive at Marlowe's home, a simple, safe dwelling atop the east cliff.",
                 "talk to Marlowe",
                 "find out what Marlowe needs help with"
             ],
@@ -40884,7 +40984,7 @@
             "title": "The Graveyard Lich",
             "objective": "save Malla by returning her soul to her",
             "tasks": [
-                "Go to .",
+                "Proceed to the cavern that serves as a graveyard in this place.",
                 "kill Vongoethe",
                 "save Malla by returning her soul to her"
             ],
@@ -40947,7 +41047,7 @@
             "title": "Shipment Shenanigans",
             "objective": "guard Aran Linvail's shipments, and report to him if anything happens",
             "tasks": [
-                "Go to .",
+                "Go to the docks.",
                 "find Mook",
                 "guard Aran Linvail's shipments, and report to him if anything happens"
             ],
@@ -41021,7 +41121,7 @@
             "title": "Switching Sides",
             "objective": "find the lair of the rival guild",
             "tasks": [
-                "Go to Five Flagons.",
+                "Arrive at Five Flagons.",
                 "pose as the rival guild's new recruit to the rival guild's recruiter",
                 "find the lair of the rival guild"
             ],
@@ -41159,7 +41259,7 @@
             "title": "Catch of the Day",
             "objective": "help Thomas gather fish for his village",
             "tasks": [
-                "Go to Salmon Steps.",
+                "Arrive at Salmon Steps.",
                 "catch 16 fish",
                 "help Thomas gather fish for his village"
             ],
@@ -41209,7 +41309,6 @@
             "title": "Pests Be Come",
             "objective": "take care of the Endermites that have been bothering the villagers",
             "tasks": [
-                "Go to .",
                 "kill Endermites",
                 "take care of the Endermites that have been bothering the villagers"
             ],
@@ -41298,7 +41397,7 @@
             "title": "Gold. GOLD. GOLD!",
             "objective": "bring gold ore to Nila",
             "tasks": [
-                "Go to .",
+                "Reach ore veins deep in the ground.",
                 "find some gold ore",
                 "bring gold ore to Nila"
             ],
@@ -41360,7 +41459,7 @@
             "title": "Our Father in the Sky Like the Diamonds",
             "objective": "bring 9 diamonds to Paul",
             "tasks": [
-                "Go to .",
+                "Head to ancient ruins, and deep within the Overworld itself.",
                 "find 9 diamonds",
                 "bring 9 diamonds to Paul"
             ],
@@ -41410,6 +41509,7 @@
             "title": "Fine Dining",
             "objective": "bring 5 golden apples to Bella",
             "tasks": [
+                "Arrive at dangerous places.",
                 "obtain 5 golden apples",
                 "bring 5 golden apples to Bella"
             ],
@@ -41497,6 +41597,7 @@
             "title": "Flowers for Someone Special",
             "objective": "bring 32 poppies to Justin",
             "tasks": [
+                "Reach outdoors in plains and forests.",
                 "gather 32 poppies",
                 "bring 32 poppies to Justin"
             ],
@@ -41688,6 +41789,7 @@
             "title": "It's Your Lucky Day",
             "objective": "bring a rabbit's foot to Wilson",
             "tasks": [
+                "Travel to deserts, taiga forests, and frozen regions.",
                 "hunt down a rabbit",
                 "bring a rabbit's foot to Wilson"
             ],
@@ -41738,7 +41840,7 @@
             "title": "Moving to Places",
             "objective": "bring a horse to Tammy",
             "tasks": [
-                "Go to .",
+                "Make your way to plains and savannas.",
                 "tame a horse",
                 "bring a horse to Tammy"
             ],
@@ -41814,6 +41916,7 @@
             "title": "A Rose, My Darling",
             "objective": "bring a rose to Romeo",
             "tasks": [
+                "Make your way to temperate forests.",
                 "find a rose",
                 "bring a rose to Romeo"
             ],
@@ -41864,7 +41967,7 @@
             "title": "Affordable Cooling",
             "objective": "bring some ice to Caleb",
             "tasks": [
-                "Go to .",
+                "Head to snowy tundras, in frosted rivers.",
                 "find some ice",
                 "bring some ice to Caleb"
             ],
@@ -42102,7 +42205,7 @@
             "title": "A More Than Exotic Fruit",
             "objective": "bring 6 Chorus Fruits to Kevin",
             "tasks": [
-                "Go to The End.",
+                "Proceed to The End.",
                 "find 6 Chorus Fruits",
                 "bring 6 Chorus Fruits to Kevin"
             ],
@@ -42233,7 +42336,7 @@
             "title": "Lurkers in Shadows",
             "objective": "find out what the suspicious person is after",
             "tasks": [
-                "Go to Cocoa Hamlet.",
+                "Find your way to Cocoa Hamlet.",
                 "find and follow the suspicious person at dusk",
                 "find out what the suspicious person is after"
             ],
@@ -42272,6 +42375,7 @@
             "title": "Not like My Momma Makes It",
             "objective": "give mushroom stew to Ilona",
             "tasks": [
+                "Arrive at mushroom fields, and dimly lit places.",
                 "find a red mushroom, and a brown mushroom",
                 "make mushroom stew",
                 "give mushroom stew to Ilona"
@@ -42461,7 +42565,7 @@
             "title": "Safety First",
             "objective": "give a turtle shell to Pete",
             "tasks": [
-                "Go to .",
+                "Go to sandy beaches.",
                 "obtain a turtle shell",
                 "give a turtle shell to Pete"
             ],
@@ -42641,7 +42745,7 @@
             "title": "A Witch of the Wild",
             "objective": "help Zara determine whether the rumors about a witch in Darkwater Bog are true",
             "tasks": [
-                "Go to Darkwater Bog.",
+                "Find your way to Darkwater Bog.",
                 "search Darkwater Bog for a witch",
                 "help Zara determine whether the rumors about a witch in Darkwater Bog are true"
             ],
@@ -42728,7 +42832,7 @@
             "title": "Hermit Knowledge",
             "objective": "ask Lone Wolf about the meaning of life, and return to Mario",
             "tasks": [
-                "Go to Lily Forest.",
+                "Head to Lily Forest.",
                 "find Lone Wolf",
                 "ask Lone Wolf about the meaning of life, and return to Mario"
             ],
@@ -42768,7 +42872,7 @@
             "title": "Intentional Game Design",
             "objective": "try to sleep in a bed in the Nether, and report back to Lily",
             "tasks": [
-                "Go to Nether.",
+                "Reach Nether.",
                 "go to the Nether",
                 "try to sleep in a bed in the Nether, and report back to Lily"
             ],
@@ -42832,7 +42936,7 @@
             "title": "Electric Shock Therapy",
             "objective": "hit Test Subject with lightning, and report back to Judas",
             "tasks": [
-                "Go to Desolate Plains.",
+                "Proceed to Desolate Plains.",
                 "go to Test Subject when there's a thunderstorm",
                 "hit Test Subject with lightning, and report back to Judas"
             ],
@@ -43031,7 +43135,7 @@
             "title": "Lost Lore",
             "objective": "collect \"Secrets of the Overworld\" for Dagon",
             "tasks": [
-                "Go to .",
+                "Arrive at a jungle temple.",
                 "find \"Secrets of the Overworld\"",
                 "collect \"Secrets of the Overworld\" for Dagon"
             ],
@@ -43081,6 +43185,7 @@
             "title": "A Mine of Knowledge",
             "objective": "recover \"The Nether: Compiled Accounts of the Hellish Plane\" for John",
             "tasks": [
+                "Find your way to a nearby mineshaft.",
                 "find \"The Nether: Compiled Accounts of the Hellish Plane\"",
                 "recover \"The Nether: Compiled Accounts of the Hellish Plane\" for John"
             ],
@@ -43131,7 +43236,7 @@
             "title": "Pillaging the Illagers",
             "objective": "bring the plans of Illagers to Xan",
             "tasks": [
-                "Go to Deepwood Tower.",
+                "Reach Deepwood Tower.",
                 "steal the plans of Illagers who threaten Fishing Hamlet",
                 "bring the plans of Illagers to Xan"
             ],
@@ -43181,7 +43286,7 @@
             "title": "Monsters Under Bed?",
             "objective": "see that Ron's home is safe, and report to Ron",
             "tasks": [
-                "Go to .",
+                "Proceed to Ron's home.",
                 "check that there's nothing dangerous inside",
                 "see that Ron's home is safe, and report to Ron"
             ],
@@ -43231,7 +43336,7 @@
             "title": "Sinister Worship",
             "objective": "investigate the cultists for Reverend Revan",
             "tasks": [
-                "Go to .",
+                "Reach a ruined portal not for from the village.",
                 "spy on the cultists",
                 "investigate the cultists for Reverend Revan"
             ],
@@ -43283,7 +43388,7 @@
             "title": "Roguish Past",
             "objective": "bring Kate's notebook to her",
             "tasks": [
-                "Go to .",
+                "Make your way to a beach not that far away from Seaside Settlement.",
                 "find the buried treasure",
                 "bring Kate's notebook to her"
             ],
@@ -43435,7 +43540,7 @@
             "title": "Connecting the Dots",
             "objective": "bring Inkspot's map to Mapmaker, and return to Inkspot",
             "tasks": [
-                "Go to Rivermouth.",
+                "Arrive at Rivermouth.",
                 "find Mapmaker",
                 "bring Inkspot's map to Mapmaker, and return to Inkspot"
             ],
@@ -43560,6 +43665,8 @@
             "title": "Of Horses and Donkeys",
             "objective": "test out whether horses can breed with donkeys",
             "tasks": [
+                "Head to plains and savannas.",
+                "Proceed to plains and savannas.",
                 "tame a horse",
                 "tame a donkey",
                 "breed the tamed horse with the tamed donkey",
@@ -43599,6 +43706,7 @@
             "title": "Made of Obsidian",
             "objective": "bring some obsidian blocks to Tim",
             "tasks": [
+                "Reach underground in deep caves.",
                 "make water flow on lava to form obsidian",
                 "mine out obsidian blocks",
                 "bring some obsidian blocks to Tim"
@@ -43632,6 +43740,7 @@
             "title": "Uncharted Waters",
             "objective": "bring 6 tropical fish to Mickey",
             "tasks": [
+                "Make your way to oceans.",
                 "catch 6 tropical fish",
                 "bring 6 tropical fish to Mickey"
             ],
@@ -43664,6 +43773,7 @@
             "title": "Not Just Black Sheep",
             "objective": "bring some colorful sheep to James",
             "tasks": [
+                "Arrive at practically everywhere with grass.",
                 "find some colorful sheep",
                 "bring some colorful sheep to James"
             ],
@@ -43697,6 +43807,7 @@
             "title": "Disco Sheep",
             "objective": "name one of Sean's sheep \"jeb_\", and observe what happens",
             "tasks": [
+                "Arrive at dungeons, mineshafts, and woodland mansions.",
                 "get a name tag",
                 "name one of Sean's sheep \"jeb_\", and observe what happens"
             ],
@@ -43747,7 +43858,7 @@
             "title": "A Bringer of Hope",
             "objective": "recover a bundle of potion ingredients for Kitt",
             "tasks": [
-                "Go to .",
+                "Proceed to a sunken ship east of Seaside Settlement.",
                 "find the bundle of potion ingredients",
                 "recover a bundle of potion ingredients for Kitt"
             ],
@@ -43786,6 +43897,7 @@
             "title": "That Belongs to a Library!",
             "objective": "recover writings of a lost culture for Jane",
             "tasks": [
+                "Find your way to an ocean ruin far west of here.",
                 "find the writings of a lost culture",
                 "recover writings of a lost culture for Jane"
             ],
@@ -43848,7 +43960,7 @@
             "title": "Musings of a Madman",
             "objective": "bring Spook's new book to Kant",
             "tasks": [
-                "Go to .",
+                "Proceed to an igloo to the north.",
                 "find Spook",
                 "bring Spook's new book to Kant"
             ],
@@ -43910,7 +44022,7 @@
             "title": "The One That Got Away",
             "objective": "recover Heide's fishing rod",
             "tasks": [
-                "Go to .",
+                "Find your way to an ocean monument: a dangerous underwater temple made out of turquoise stone blocks, located far south of Fishing Hamlet.",
                 "find the Elder Guardian that swallowed Heide's fishing rod, and kill it",
                 "recover Heide's fishing rod"
             ],
@@ -43960,7 +44072,7 @@
             "title": "Ancient Artisanship",
             "objective": "bring an ancient device to Zed",
             "tasks": [
-                "Go to Tut's Temple.",
+                "Head to Tut's Temple.",
                 "find the ancient device",
                 "bring an ancient device to Zed"
             ],
@@ -44009,7 +44121,7 @@
             "title": "A Mansion of Marauders",
             "objective": "confirm whether the Dark Hall actually exists",
             "tasks": [
-                "Go to Darkwood.",
+                "Proceed to Darkwood.",
                 "scout out Darkwood",
                 "confirm whether the Dark Hall actually exists"
             ],
@@ -44059,6 +44171,8 @@
             "title": "Mushroom Mania",
             "objective": "grow a huge mushroom, and report back to Herbert",
             "tasks": [
+                "Travel to places shielded from direct sunlight.",
+                "Find your way to somewhere near Herbert.",
                 "find a mushroom",
                 "find a way to grow a regular mushroom to a huge mushroom",
                 "grow a huge mushroom, and report back to Herbert"
@@ -44122,7 +44236,9 @@
             "title": "Bringing Out the Flavor",
             "objective": "bring a lava bucket, blaze rod, and a block of coal to Dana",
             "tasks": [
-                "Go to Nether.",
+                "Find your way to lava pools deep underground.",
+                "Arrive at Nether.",
+                "Proceed to ore veins seated in stone.",
                 "obtain a lava bucket",
                 "obtain a blaze rod",
                 "obtain a block of coal",
@@ -44175,6 +44291,7 @@
             "title": "Deal of the Century",
             "objective": "bring 2 blocks of diamond to Pate",
             "tasks": [
+                "Find your way to diamond veins deep in the ground.",
                 "obtain 2 blocks of diamond",
                 "bring 2 blocks of diamond to Pate"
             ],
@@ -44237,7 +44354,7 @@
             "title": "Weapons of Monster Mass Destruction",
             "objective": "bring 8 Ancient Debris to Kaz",
             "tasks": [
-                "Go to Nether.",
+                "Reach Nether.",
                 "mine 8 Ancient Debris",
                 "bring 8 Ancient Debris to Kaz"
             ],
@@ -44287,6 +44404,7 @@
             "title": "New Materials",
             "objective": "bring 10 scutes to Dean",
             "tasks": [
+                "Proceed to sandy beaches.",
                 "obtain 10 scutes from turtles",
                 "bring 10 scutes to Dean"
             ],
@@ -44325,6 +44443,7 @@
             "title": "Tools of the Enemy",
             "objective": "bring an Illager crossbow to Gilbert",
             "tasks": [
+                "Find your way to a nearby Illager outpost.",
                 "steal an Illager crossbow",
                 "bring an Illager crossbow to Gilbert"
             ],
@@ -44374,8 +44493,8 @@
             "title": "Tales of Terror",
             "objective": "visit a Nether Fortress, and report back to Yves",
             "tasks": [
-                "Go to Nether.",
-                "Go to Nether Fortress.",
+                "Travel to Nether.",
+                "Travel to Nether Fortress.",
                 "go to the Nether",
                 "find a Nether Fortress",
                 "visit a Nether Fortress, and report back to Yves"
@@ -44437,6 +44556,7 @@
             "title": "Exclusively Here!",
             "objective": "bring \"An Interview With the Enderman\" to Finn",
             "tasks": [
+                "Find your way to a hidden camp on a mountain.",
                 "convince A.R. sign an exclusivity deal with Villager",
                 "bring \"An Interview With the Enderman\" to Finn"
             ],
@@ -44485,7 +44605,7 @@
                 "relations": [
                     [
                         "present in",
-                        "an Illager outpost"
+                        "Nate's library"
                     ]
                 ],
                 "type": "character"
@@ -44499,7 +44619,7 @@
             "title": "Bolstering Catalog",
             "objective": "recover a shipment of books for Nate",
             "tasks": [
-                "Go to .",
+                "Reach an Illager outpost.",
                 "find the shipment of books",
                 "recover a shipment of books for Nate"
             ],
@@ -44561,7 +44681,7 @@
             "title": "The Dragon at the End of It All",
             "objective": "slay the Ender Dragon, and report back to Weak Will",
             "tasks": [
-                "Go to The End.",
+                "Find your way to The End.",
                 "enter The End",
                 "slay the Ender Dragon, and report back to Weak Will"
             ],
@@ -44634,6 +44754,9 @@
             "title": "Number One Armorer",
             "objective": "bring 32 blocks of iron to Arnold",
             "tasks": [
+                "Travel to iron veins in the ground.",
+                "Head to a furnace somewhere.",
+                "Make your way to any crafting bench.",
                 "obtain iron ore",
                 "smelt iron ore into iron ingots",
                 "craft iron ingots into blocks of iron",
@@ -44674,6 +44797,7 @@
             "title": "A Faithful Servant",
             "objective": "bring a load of sticks to Jim",
             "tasks": [
+                "Go to all kinds of forests.",
                 "chop down trees to obtain wood",
                 "craft sticks from wood",
                 "bring a load of sticks to Jim"
@@ -44814,7 +44938,7 @@
             "title": "A Talkative Pet",
             "objective": "bring a tamed parrot to Olivia",
             "tasks": [
-                "Go to .",
+                "Reach jungles.",
                 "tame a parrot",
                 "bring a tamed parrot to Olivia"
             ],
@@ -44875,8 +44999,8 @@
             "title": "The Call of Adventure",
             "objective": "bring a sword and a suit of armor to Hunter",
             "tasks": [
-                "Go to .",
-                "Go to .",
+                "Reach weaponsmiths.",
+                "Travel to armorers.",
                 "obtain a sword",
                 "obtain a suit of armor",
                 "bring a sword and a suit of armor to Hunter"
@@ -44927,7 +45051,7 @@
             "title": "A Tour in Hell",
             "objective": "explore the Nether with Sam",
             "tasks": [
-                "Go to Nether.",
+                "Find your way to Nether.",
                 "go to the Nether with Sam",
                 "explore the Nether with Sam"
             ],
@@ -44977,7 +45101,7 @@
             "title": "Turning Heads",
             "objective": "give red dye to Cara",
             "tasks": [
-                "Go to .",
+                "Make your way to wandering traders.",
                 "find red dye",
                 "give red dye to Cara"
             ],
@@ -45040,7 +45164,7 @@
             "title": "A Box of Tricks",
             "objective": "give an Ender Chest to Loki",
             "tasks": [
-                "Go to End Cities.",
+                "Proceed to End Cities.",
                 "obtain an Ender Chest",
                 "give an Ender Chest to Loki"
             ],
@@ -45291,9 +45415,9 @@
             "title": "Coming Soon!",
             "objective": "promote the services of Bob in nearby villages",
             "tasks": [
-                "Go to Seaside Settlement.",
-                "Go to Desert Refuge.",
-                "Go to Stoneburg.",
+                "Reach Seaside Settlement.",
+                "Arrive at Desert Refuge.",
+                "Arrive at Stoneburg.",
                 "talk to the villagers",
                 "hand out promotional items to villagers",
                 "hand out coupons to villagers",
@@ -45321,7 +45445,7 @@
             "title": "Word of the Gods",
             "objective": "convince the villagers of Woodridge come to the temple more often",
             "tasks": [
-                "Go to Woodridge.",
+                "Reach Woodridge.",
                 "talk to the villagers",
                 "convince the villagers of Woodridge come to the temple more often"
             ],
@@ -45383,7 +45507,7 @@
             "title": "Branching Out",
             "objective": "help Chris finish up a trade deal between him and Wander",
             "tasks": [
-                "Go to .",
+                "Go to the wilderness.",
                 "take Chris's contract to Wander",
                 "help Chris finish up a trade deal between him and Wander"
             ],
@@ -45481,8 +45605,8 @@
             "title": "Withering Away",
             "objective": "kill the Wither",
             "tasks": [
-                "Go to Nether.",
-                "Go to .",
+                "Arrive at Nether.",
+                "Make your way to a place of the player's choosing.",
                 "gather up 3 wither skeleton skulls, and 4 blocks of soul sand",
                 "summon the Wither with the gathered items",
                 "kill the Wither"
@@ -45599,7 +45723,7 @@
             "title": "Dark Rule",
             "objective": "conquer Desert Refuge",
             "tasks": [
-                "Go to Desert Refuge.",
+                "Make your way to Desert Refuge.",
                 "kill all villagers who oppose you",
                 "conquer Desert Refuge"
             ],
@@ -45673,6 +45797,8 @@
             "title": "Divide and Conquer",
             "objective": "make Illagers fight each other",
             "tasks": [
+                "Go to an Illager camp to the northeast.",
+                "Go to an Illager outpost to the north.",
                 "steal Tony's axe without being seen",
                 "kill Tom, and pin his death on Tony by planting Tony's axe on Tom's corpse",
                 "make Illagers fight each other"
@@ -45700,7 +45826,7 @@
             "title": "Woodland Security",
             "objective": "make Whispering Pines safer for villagers",
             "tasks": [
-                "Go to Whispering Pines.",
+                "Make your way to Whispering Pines.",
                 "build some iron golems",
                 "make Whispering Pines safer for villagers"
             ],

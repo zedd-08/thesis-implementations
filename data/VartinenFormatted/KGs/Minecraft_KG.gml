@@ -1426,6 +1426,11 @@ graph [
   ]
   edge [
     source 1
+    target 178
+    label "connected to"
+  ]
+  edge [
+    source 1
     target 179
     label "present in"
   ]
@@ -1956,7 +1961,7 @@ graph [
   ]
   edge [
     source 157
-    target 161
+    target 160
     label "present in"
   ]
   edge [
@@ -2003,11 +2008,6 @@ graph [
     source 172
     target 173
     label "held by"
-  ]
-  edge [
-    source 177
-    target 178
-    label "connected to"
   ]
   edge [
     source 182
