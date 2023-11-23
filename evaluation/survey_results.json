@@ -4,6 +4,13 @@
 			"Quest A": "no_kg",
 			"Quest B": "kg"
 		},
+		"comments": [
+			"First one better also more tasks",
+			"Quest B lacks a smooth flow/progression. Usually, I would expect to follow and be guided by an NPC before a boss fight/raid.",
+			"The story makes sense",
+			"When it says find isran, it's a little confusing as you are already near Isran, so to be more accurate, it should say, meet Isran near castle volkihar",
+			"Quest B seems to jump ahead in the story, whilst Quest A is a natural next step based on what was said to your character."
+		],
 		"pick_counts": {
 			"no_kg": 13,
 			"kg": 9,
@@ -77,6 +84,13 @@
 			"Quest A": "kg",
 			"Quest B": "no_kg"
 		},
+		"comments": [
+			"The first quest provides more detail about what to do because it highlights the two main things (a) arrive at the location (b) find balgruff. Whereas the second one just says go to helgen and misses out the main part about finding the balgruff",
+			"Quest B is quite vague in its objective. There can be a number of things going on in Helgen apart from the dragon being there. Quest A gives the player a very specific purpose, and is also what Alvor asked the player to do.",
+			"Both seem like things the player could do to find out more",
+			"Quest B ignores the need to inform the Jarl in Whiterun",
+			"A: helping balgruuf with his order does not make much sense, as it is not mentioned in  the background. B: here balgruuf is not used at all, there  does not seem to be any relatedness between the background and quest"
+		],
 		"pick_counts": {
 			"no_kg": 0,
 			"kg": 20,
@@ -150,6 +164,13 @@
 			"Quest A": "no_kg",
 			"Quest B": "kg"
 		},
+		"comments": [
+			"Both are fairly weird quests. However, quest B appears to be a bit more fleshed out.",
+			"Both has very contradicting lines, but the objective and title of quest (a) is more precise compared to (b), as(b)  title “ Bring the helm of balduran to ramazith” when it should be “ Bring the helm of balduran to Degrodel” instead. However, when it comes to the things that you’ve to do, both are incorrect",
+			"Quest A is objectively wrong as the player doesn't need to give Ramazith the scroll, but use it to unpetrify the mercenaries. Quest B is mostly appropriate, although Degrodel did not suggest killing the mercenaries as a quest objective",
+			"Neither objectives do what the player was asked to do",
+			"Both quests seem contradictory, the objective in B doesn't reflect what has been requested. The tasks in A don't make sense in conjuction with the objective."
+		],
 		"pick_counts": {
 			"no_kg": 2,
 			"kg": 10,
@@ -223,6 +244,13 @@
 			"Quest A": "kg",
 			"Quest B": "no_kg"
 		},
+		"comments": [
+			"Quest B reveals the existence of a cave, which would imply that the player needs to follow a linear path leading to a cave within the woods. This isn’t wrong and does contribute to the story but quest A leaves exploration to the player.",
+			"Both are good quest",
+			"Quest A is an appropriate way to specify the objective. Quest B outright tells the player where the object is, without any deduction or problem-solving required, and might feel like railroading the player",
+			"Farthing says woods, but it's in a cave? ",
+			"B introduces a cave when the item has been lost in the woods - this is confusing"
+		],
 		"pick_counts": {
 			"no_kg": 2,
 			"kg": 16,
@@ -296,6 +324,11 @@
 			"Quest A": "kg",
 			"Quest B": "no_kg"
 		},
+		"comments": [
+			"The title and objective of quest (b) is contradicting. Quest (a) makes more sense because we are in search of the book and the objective matches the story",
+			"Quest B seems completely unrelated to the story mentioned, while Quest A seems like a natural followup to the conversation",
+			"Quest B doesn't make sense, you've already found him and the request for his head has come out of nowhere"
+		],
 		"pick_counts": {
 			"no_kg": 0,
 			"kg": 21,
@@ -369,6 +402,12 @@
 			"Quest A": "kg",
 			"Quest B": "no_kg"
 		},
+		"comments": [
+			"I prefer quest (b) because the tasks  matches the story, but not the objective.",
+			"Quest A talks about a secret nowhere mentioned in the story. Quest B is suitable, but is missing a step where the player \"cleanses\" the tombs",
+			"Quest A mentions a secret about the elder when this doesn't appear in the background info. Quest B suddenly makes the Quest about a blade, when the elder doesn't mention  this - only the need to cleanse the tomb",
+			"B's tasks are related to the quest, but the quest name seems incorrect"
+		],
 		"pick_counts": {
 			"no_kg": 9,
 			"kg": 1,
@@ -442,6 +481,11 @@
 			"Quest A": "no_kg",
 			"Quest B": "kg"
 		},
+		"comments": [
+			"Well for quest (b) I assume that we are already standing in the battlefield, then travelling to the battlefield . Nevertheless, I strongly prefer quest (b)",
+			"Quest A is technically correct as travelling to cacklespit's realm is the greater objective, but in order to do so, Quest B must first be finished although it fails to mention that the player only needs to find 4 warriors",
+			"B makes perfect sense, A doesn't make any use of what has been said in the instructions from Fade"
+		],
 		"pick_counts": {
 			"no_kg": 0,
 			"kg": 21,
@@ -515,6 +559,10 @@
 			"Quest A": "no_kg",
 			"Quest B": "kg"
 		},
+		"comments": [
+			"Quest (b) has its own kind of story compared to the given story",
+			"Quest A doesn't make sense as the divine blood is required to reach the paradise. Quest B makes more sense, but the other items mentioned were not included in Martins speech"
+		],
 		"pick_counts": {
 			"no_kg": 8,
 			"kg": 9,
@@ -588,6 +636,9 @@
 			"Quest A": "kg",
 			"Quest B": "no_kg"
 		},
+		"comments": [
+			"Quest A is clear and reflects what has been said by Flydian. Quest B seems to focus on finding Flydian despite the player having met them already"
+		],
 		"pick_counts": {
 			"no_kg": 1,
 			"kg": 19,
@@ -661,6 +712,11 @@
 			"Quest A": "no_kg",
 			"Quest B": "kg"
 		},
+		"comments": [
+			"Quest (a) has things that is not mentioned in the story. Whereas quest (b) is very straight to the point, and the title and objective matches the story",
+			"Quest A again focuses on finding someone the player has just interacted with. Quest B is more logical,  it matches what I'd expect following the instructions from firebead",
+			"Quest B is missing the task to find the scroll and bring it back."
+		],
 		"pick_counts": {
 			"no_kg": 2,
 			"kg": 20,
