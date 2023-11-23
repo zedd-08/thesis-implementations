@@ -1,0 +1,732 @@
+{
+	"Q1": {
+		"order": {
+			"Quest A": "no_kg",
+			"Quest B": "kg"
+		},
+		"pick_counts": {
+			"no_kg": 13,
+			"kg": 9,
+			"similar": 0
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 12,
+					"Agree": 7,
+					"Neutral": 1,
+					"Disagree": 2,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 2,
+					"Agree": 3,
+					"Neutral": 4,
+					"Disagree": 6,
+					"Strongly Disagree": 7
+				},
+				"coherence": {
+					"Strongly Agree": 8,
+					"Agree": 9,
+					"Neutral": 1,
+					"Disagree": 4,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 8,
+					"Agree": 6,
+					"Neutral": 3,
+					"Disagree": 4,
+					"Strongly Disagree": 1
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 13,
+					"Agree": 8,
+					"Neutral": 1,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 0,
+					"Agree": 4,
+					"Neutral": 0,
+					"Disagree": 10,
+					"Strongly Disagree": 8
+				},
+				"coherence": {
+					"Strongly Agree": 7,
+					"Agree": 8,
+					"Neutral": 0,
+					"Disagree": 7,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 9,
+					"Agree": 10,
+					"Neutral": 3,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				}
+			}
+		}
+	},
+	"Q2": {
+		"order": {
+			"Quest A": "kg",
+			"Quest B": "no_kg"
+		},
+		"pick_counts": {
+			"no_kg": 0,
+			"kg": 20,
+			"similar": 2
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 2,
+					"Agree": 11,
+					"Neutral": 3,
+					"Disagree": 4,
+					"Strongly Disagree": 2
+				},
+				"contradiction": {
+					"Strongly Agree": 3,
+					"Agree": 7,
+					"Neutral": 5,
+					"Disagree": 6,
+					"Strongly Disagree": 1
+				},
+				"coherence": {
+					"Strongly Agree": 1,
+					"Agree": 3,
+					"Neutral": 6,
+					"Disagree": 5,
+					"Strongly Disagree": 7
+				},
+				"value": {
+					"Strongly Agree": 2,
+					"Agree": 0,
+					"Neutral": 6,
+					"Disagree": 7,
+					"Strongly Disagree": 7
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 15,
+					"Agree": 5,
+					"Neutral": 2,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 1,
+					"Agree": 2,
+					"Neutral": 2,
+					"Disagree": 5,
+					"Strongly Disagree": 12
+				},
+				"coherence": {
+					"Strongly Agree": 13,
+					"Agree": 5,
+					"Neutral": 2,
+					"Disagree": 2,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 11,
+					"Agree": 10,
+					"Neutral": 1,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				}
+			}
+		}
+	},
+	"Q3": {
+		"order": {
+			"Quest A": "no_kg",
+			"Quest B": "kg"
+		},
+		"pick_counts": {
+			"no_kg": 2,
+			"kg": 10,
+			"similar": 10
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 2,
+					"Agree": 9,
+					"Neutral": 3,
+					"Disagree": 5,
+					"Strongly Disagree": 3
+				},
+				"contradiction": {
+					"Strongly Agree": 7,
+					"Agree": 14,
+					"Neutral": 0,
+					"Disagree": 0,
+					"Strongly Disagree": 1
+				},
+				"coherence": {
+					"Strongly Agree": 0,
+					"Agree": 1,
+					"Neutral": 4,
+					"Disagree": 11,
+					"Strongly Disagree": 6
+				},
+				"value": {
+					"Strongly Agree": 0,
+					"Agree": 3,
+					"Neutral": 5,
+					"Disagree": 11,
+					"Strongly Disagree": 3
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 5,
+					"Agree": 14,
+					"Neutral": 1,
+					"Disagree": 2,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 5,
+					"Agree": 9,
+					"Neutral": 4,
+					"Disagree": 2,
+					"Strongly Disagree": 2
+				},
+				"coherence": {
+					"Strongly Agree": 2,
+					"Agree": 7,
+					"Neutral": 2,
+					"Disagree": 11,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 2,
+					"Agree": 7,
+					"Neutral": 9,
+					"Disagree": 3,
+					"Strongly Disagree": 1
+				}
+			}
+		}
+	},
+	"Q4": {
+		"order": {
+			"Quest A": "kg",
+			"Quest B": "no_kg"
+		},
+		"pick_counts": {
+			"no_kg": 2,
+			"kg": 16,
+			"similar": 4
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 8,
+					"Agree": 11,
+					"Neutral": 3,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 2,
+					"Agree": 8,
+					"Neutral": 4,
+					"Disagree": 7,
+					"Strongly Disagree": 1
+				},
+				"coherence": {
+					"Strongly Agree": 3,
+					"Agree": 9,
+					"Neutral": 5,
+					"Disagree": 5,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 6,
+					"Agree": 15,
+					"Neutral": 0,
+					"Disagree": 1,
+					"Strongly Disagree": 0
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 19,
+					"Agree": 3,
+					"Neutral": 0,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 1,
+					"Agree": 0,
+					"Neutral": 1,
+					"Disagree": 6,
+					"Strongly Disagree": 14
+				},
+				"coherence": {
+					"Strongly Agree": 12,
+					"Agree": 8,
+					"Neutral": 1,
+					"Disagree": 1,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 14,
+					"Agree": 8,
+					"Neutral": 0,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				}
+			}
+		}
+	},
+	"Q5": {
+		"order": {
+			"Quest A": "kg",
+			"Quest B": "no_kg"
+		},
+		"pick_counts": {
+			"no_kg": 0,
+			"kg": 21,
+			"similar": 1
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 0,
+					"Agree": 3,
+					"Neutral": 5,
+					"Disagree": 7,
+					"Strongly Disagree": 7
+				},
+				"contradiction": {
+					"Strongly Agree": 10,
+					"Agree": 8,
+					"Neutral": 2,
+					"Disagree": 2,
+					"Strongly Disagree": 0
+				},
+				"coherence": {
+					"Strongly Agree": 0,
+					"Agree": 0,
+					"Neutral": 5,
+					"Disagree": 9,
+					"Strongly Disagree": 8
+				},
+				"value": {
+					"Strongly Agree": 1,
+					"Agree": 0,
+					"Neutral": 5,
+					"Disagree": 7,
+					"Strongly Disagree": 9
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 20,
+					"Agree": 1,
+					"Neutral": 0,
+					"Disagree": 1,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 0,
+					"Agree": 1,
+					"Neutral": 1,
+					"Disagree": 5,
+					"Strongly Disagree": 15
+				},
+				"coherence": {
+					"Strongly Agree": 15,
+					"Agree": 6,
+					"Neutral": 1,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 16,
+					"Agree": 6,
+					"Neutral": 0,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				}
+			}
+		}
+	},
+	"Q6": {
+		"order": {
+			"Quest A": "kg",
+			"Quest B": "no_kg"
+		},
+		"pick_counts": {
+			"no_kg": 9,
+			"kg": 1,
+			"similar": 12
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 2,
+					"Agree": 12,
+					"Neutral": 3,
+					"Disagree": 4,
+					"Strongly Disagree": 1
+				},
+				"contradiction": {
+					"Strongly Agree": 3,
+					"Agree": 4,
+					"Neutral": 7,
+					"Disagree": 7,
+					"Strongly Disagree": 1
+				},
+				"coherence": {
+					"Strongly Agree": 4,
+					"Agree": 6,
+					"Neutral": 5,
+					"Disagree": 7,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 4,
+					"Agree": 7,
+					"Neutral": 5,
+					"Disagree": 6,
+					"Strongly Disagree": 0
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 2,
+					"Agree": 7,
+					"Neutral": 2,
+					"Disagree": 10,
+					"Strongly Disagree": 1
+				},
+				"contradiction": {
+					"Strongly Agree": 4,
+					"Agree": 7,
+					"Neutral": 8,
+					"Disagree": 2,
+					"Strongly Disagree": 1
+				},
+				"coherence": {
+					"Strongly Agree": 3,
+					"Agree": 4,
+					"Neutral": 4,
+					"Disagree": 7,
+					"Strongly Disagree": 4
+				},
+				"value": {
+					"Strongly Agree": 3,
+					"Agree": 4,
+					"Neutral": 5,
+					"Disagree": 8,
+					"Strongly Disagree": 2
+				}
+			}
+		}
+	},
+	"Q7": {
+		"order": {
+			"Quest A": "no_kg",
+			"Quest B": "kg"
+		},
+		"pick_counts": {
+			"no_kg": 0,
+			"kg": 21,
+			"similar": 1
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 6,
+					"Agree": 11,
+					"Neutral": 2,
+					"Disagree": 3,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 1,
+					"Agree": 4,
+					"Neutral": 8,
+					"Disagree": 5,
+					"Strongly Disagree": 4
+				},
+				"coherence": {
+					"Strongly Agree": 2,
+					"Agree": 5,
+					"Neutral": 1,
+					"Disagree": 12,
+					"Strongly Disagree": 2
+				},
+				"value": {
+					"Strongly Agree": 2,
+					"Agree": 5,
+					"Neutral": 4,
+					"Disagree": 8,
+					"Strongly Disagree": 3
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 17,
+					"Agree": 5,
+					"Neutral": 0,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 0,
+					"Agree": 1,
+					"Neutral": 1,
+					"Disagree": 7,
+					"Strongly Disagree": 13
+				},
+				"coherence": {
+					"Strongly Agree": 11,
+					"Agree": 11,
+					"Neutral": 0,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 13,
+					"Agree": 8,
+					"Neutral": 1,
+					"Disagree": 0,
+					"Strongly Disagree": 0
+				}
+			}
+		}
+	},
+	"Q8": {
+		"order": {
+			"Quest A": "no_kg",
+			"Quest B": "kg"
+		},
+		"pick_counts": {
+			"no_kg": 8,
+			"kg": 9,
+			"similar": 5
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 8,
+					"Agree": 10,
+					"Neutral": 3,
+					"Disagree": 1,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 5,
+					"Agree": 6,
+					"Neutral": 2,
+					"Disagree": 8,
+					"Strongly Disagree": 1
+				},
+				"coherence": {
+					"Strongly Agree": 1,
+					"Agree": 7,
+					"Neutral": 4,
+					"Disagree": 5,
+					"Strongly Disagree": 5
+				},
+				"value": {
+					"Strongly Agree": 2,
+					"Agree": 9,
+					"Neutral": 6,
+					"Disagree": 4,
+					"Strongly Disagree": 1
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 3,
+					"Agree": 10,
+					"Neutral": 5,
+					"Disagree": 3,
+					"Strongly Disagree": 1
+				},
+				"contradiction": {
+					"Strongly Agree": 1,
+					"Agree": 7,
+					"Neutral": 7,
+					"Disagree": 7,
+					"Strongly Disagree": 0
+				},
+				"coherence": {
+					"Strongly Agree": 1,
+					"Agree": 8,
+					"Neutral": 5,
+					"Disagree": 7,
+					"Strongly Disagree": 1
+				},
+				"value": {
+					"Strongly Agree": 2,
+					"Agree": 10,
+					"Neutral": 5,
+					"Disagree": 4,
+					"Strongly Disagree": 1
+				}
+			}
+		}
+	},
+	"Q9": {
+		"order": {
+			"Quest A": "kg",
+			"Quest B": "no_kg"
+		},
+		"pick_counts": {
+			"no_kg": 1,
+			"kg": 19,
+			"similar": 2
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 0,
+					"Agree": 9,
+					"Neutral": 4,
+					"Disagree": 5,
+					"Strongly Disagree": 4
+				},
+				"contradiction": {
+					"Strongly Agree": 7,
+					"Agree": 4,
+					"Neutral": 6,
+					"Disagree": 5,
+					"Strongly Disagree": 0
+				},
+				"coherence": {
+					"Strongly Agree": 0,
+					"Agree": 2,
+					"Neutral": 6,
+					"Disagree": 8,
+					"Strongly Disagree": 6
+				},
+				"value": {
+					"Strongly Agree": 0,
+					"Agree": 1,
+					"Neutral": 7,
+					"Disagree": 6,
+					"Strongly Disagree": 8
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 14,
+					"Agree": 7,
+					"Neutral": 0,
+					"Disagree": 1,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 0,
+					"Agree": 1,
+					"Neutral": 2,
+					"Disagree": 8,
+					"Strongly Disagree": 11
+				},
+				"coherence": {
+					"Strongly Agree": 9,
+					"Agree": 9,
+					"Neutral": 0,
+					"Disagree": 4,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 10,
+					"Agree": 9,
+					"Neutral": 2,
+					"Disagree": 1,
+					"Strongly Disagree": 0
+				}
+			}
+		}
+	},
+	"Q10": {
+		"order": {
+			"Quest A": "no_kg",
+			"Quest B": "kg"
+		},
+		"pick_counts": {
+			"no_kg": 2,
+			"kg": 20,
+			"similar": 0
+		},
+		"ratings": {
+			"no_kg": {
+				"relatedness": {
+					"Strongly Agree": 2,
+					"Agree": 7,
+					"Neutral": 2,
+					"Disagree": 5,
+					"Strongly Disagree": 6
+				},
+				"contradiction": {
+					"Strongly Agree": 11,
+					"Agree": 4,
+					"Neutral": 3,
+					"Disagree": 3,
+					"Strongly Disagree": 1
+				},
+				"coherence": {
+					"Strongly Agree": 2,
+					"Agree": 1,
+					"Neutral": 3,
+					"Disagree": 8,
+					"Strongly Disagree": 8
+				},
+				"value": {
+					"Strongly Agree": 1,
+					"Agree": 2,
+					"Neutral": 3,
+					"Disagree": 9,
+					"Strongly Disagree": 7
+				}
+			},
+			"kg": {
+				"relatedness": {
+					"Strongly Agree": 11,
+					"Agree": 9,
+					"Neutral": 1,
+					"Disagree": 1,
+					"Strongly Disagree": 0
+				},
+				"contradiction": {
+					"Strongly Agree": 0,
+					"Agree": 1,
+					"Neutral": 2,
+					"Disagree": 10,
+					"Strongly Disagree": 9
+				},
+				"coherence": {
+					"Strongly Agree": 6,
+					"Agree": 12,
+					"Neutral": 2,
+					"Disagree": 2,
+					"Strongly Disagree": 0
+				},
+				"value": {
+					"Strongly Agree": 9,
+					"Agree": 10,
+					"Neutral": 2,
+					"Disagree": 1,
+					"Strongly Disagree": 0
+				}
+			}
+		}
+	}
+}
