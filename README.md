@@ -1,6 +1,6 @@
 # Generating Video Game Quests From Stories
 
-This repository contains the code and data used in my MSc thesis. The thesis is about generating video game quests from stories. The code is written in Python and uses the PyTorch library. The data is a collection of stories and quests from video games. The final published thesis report is uploaded as [`Mishra_MA_EEMCS.pdf`](/Mishra_MA_EEMCS.pdf).
+This repository contains the code and data used in my MSc thesis. The thesis is about generating video game quests from stories. The code is written in Python and uses the PyTorch library. The data is a collection of stories and quests from video games. The final published thesis report is uploaded as [`Mishra_MA_EEMCS.pdf`](/Mishra_MA_EEMCS.pdf) and available on the [University of Twente repository](https://essay.utwente.nl/97909/).
 
 ## Abstract
 
