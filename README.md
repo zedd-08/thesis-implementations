@@ -1,6 +1,6 @@
 # Generating Video Game Quests From Stories
 
-This repository contains the code and data used in my MSc thesis. The thesis is about generating video game quests from stories. The code is written in Python and uses the PyTorch library. The data is a collection of stories and quests from video games. The final published thesis report is uploaded as [`Mishra_MA_EEMCS.pdf`](/Mishra_MA_EEMCS.pdf) and available on the [University of Twente repository](https://essay.utwente.nl/97909/).
+This repository contains the code and data used in my MSc thesis. The thesis is about generating video game quests from stories. The code is written in Python and uses the PyTorch library. The data is a collection of stories and quests from video games. The final published thesis report is available on the [University of Twente repository](https://essay.utwente.nl/97909/).
 
 ## Abstract
 
@@ -16,11 +16,27 @@ The data used in this project is a collection of stories and quests from various
 
 The `KG_construction/LLMs/worldGenKG/` submodule contains the scripts and the model used to extract story elements and construct the KGs. The KGs are constructed using the AskBERT model for each game in the dataset, employing the methods outlined by [Ammanabrolu et al.](https://doi.org/10.48550/arXiv.2001.10161)
 
+![Extracting KG from story](res/kg_cons.png)
+
 ## Quest Generation
 
 The quest generation code is present in the `quest_generation/llama2` submodule. The code uses the [Llama2 13B model](https://huggingface.co/docs/transformers/model_doc/llama2) to generate quests from the story elements and KGs. The code is written in Python and uses the PyTorch library. The Llama2 model was fine-tuned using state-of-the-art parameter efficient fine-tuning techniques (PEFT) including 4-bit quantization and Low rank adoptation ([QLoRA](https://github.com/artidoro/qlora)). The model was fine-tuned on an NVIDIA RTX 4080 GPU with 16GB VRAM.
 
-The fine-tuning script follows [@facebookresearch's Llama fine-tuning guide](https://github.com/facebookresearch/llama-recipes/blob/main/examples/quickstart.ipynb), using the [🤗 huggingface transformers library](https://huggingface.co/).
+The fine-tuning script follows [@facebookresearch's Llama fine-tuning guide](https://github.com/facebookresearch/llama-recipes/blob/main/examples/quickstart.ipynb), using the [🤗 huggingface transformers library](https://huggingface.co/). 
+
+Two models were trained:
+
+### No KG model
+
+The No KG model was trasined to generate quests directly from the story plot points as shown below:
+
+![No KG Llama2](/res/llama2-no-kg.png)
+
+### KG model
+
+The KG model was trasined to generate quests from the story plot points by including the entities and the relations betwen them in textual format from the constructed KGs as shown below:
+
+![KG as Text Llama2](res/llama2-kg-as-text.png)
 
 ## Evaluation and results
 
